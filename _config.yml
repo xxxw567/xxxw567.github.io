@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "夏一巍 Nemo / 夏一巍 Nemo"
+title                    : "夏一巍 / Nemo"
 title_separator          : "-"
-name                     : &name "夏一巍 Nemo"
+name                     : &name "夏一巍"
 description              : &description "社科码农"
 url                      : https://xxxw567.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "夏一巍 Nemo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "澳门大学犯罪学博士候选人 "
+  location         : "Macau, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7BWufj2-HAiwnAF5uH0ou9vlc6QxT3BPtT1y6EhTwmx4zq8nzmpKHM42CGxhb2VZYPufSJcIaGaSf4bWiVb8m0aQzo8zuqM4YtVTwshoJ4vGon7Bo&user=LMMbgx4AAAAJ"
+  email            : "xiayiweinemo@gmail.com"
+  uri              : "xxxw567.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xxxw567"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " https://orcid.org/0000-0001-7360-732X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
