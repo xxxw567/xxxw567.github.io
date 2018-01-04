@@ -11,28 +11,28 @@ redirect_from:
 
 
 
-教育经历
+教育经历 Education
 ======
-* B.S. 法学（法学学士）, 西南政法大学, 2012
-* B.S. 刑事科学技术（法学学士）, 西南政法大学, 2012
-* M.S. 犯罪学, 澳门大学, 2014
-* Ph.D 社会学（犯罪学方向）, 澳门大学, 2018 (expected)
+* B.S. 法学（法学学士）, 西南政法大学, 2012 
+* B.S. 刑事科学技术（法学学士）, 西南政法大学, 2012 
+* M.S. 犯罪学, 澳门大学, 2014 
+* Ph.D 社会学（犯罪学方向）, 澳门大学, 2018 (expected) 
 
 研究经历 Research experience
 ======
 
-* The Role of Facial Features on Human Dating Preferences	助理研究员	2017.01-现在
-  * 使用服务器搭建Caffe平台，使用R调用Python的caffe package进行深度学习
-  * 搭建Linux Ubuntu系统，搭建Rstudio Server
-  * 撰写英文论文
-* Chinese Judicial Sentence: a content analysis	助理研究员	2016.01-现在
-  *使用网络爬虫提取判决书数据
-  *对判决书文本信息提取，使用R中的中文分词工具
-  *子课题负责人
-  *撰写英文论文
-* Estimating the illicit drug user in Macau	助理研究员	2015.01-现在
-  *使用捕获-再捕获技术估计澳门吸毒人口
-  *撰写英文论文
+* The Role of Facial Features on Human Dating Preferences	助理研究员	2017.01-现在 
+  *使用服务器搭建Caffe平台，使用R调用Python的caffe package进行深度学习 
+  *搭建Linux Ubuntu系统，搭建Rstudio Server 
+  *撰写英文论文 
+* Chinese Judicial Sentence: a content analysis	助理研究员	2016.01-现在 
+  *使用网络爬虫提取判决书数据 
+  *对判决书文本信息提取，使用R中的中文分词工具 
+  *子课题负责人 
+  *撰写英文论文 
+* Estimating the illicit drug user in Macau	助理研究员	2015.01-现在 
+  *使用捕获-再捕获技术估计澳门吸毒人口 
+  *撰写英文论文 
 * Macau Social Survey	助理研究员	2015.01-现在
   *设计且实施CAPI系统，使用Qualtrics系统
   *问卷调查数据监控，数据分析和整理
