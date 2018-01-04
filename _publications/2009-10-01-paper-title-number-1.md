@@ -13,7 +13,8 @@ citation: >-
   1(1).
 published: true
 ---
-Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
+This paper is about the number 1. The number 2 is left for future work.
 
-[下载](http://journals.sagepub.com/doi/full/10.1177/2158244017733031)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
