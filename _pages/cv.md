@@ -72,7 +72,7 @@ published: true
 技能 Skills
 ======
 * 数据处理和分析软件：
-  *	SPSS, STATA, Excel, SAS, Nvivo, R,Python
+  *	SPSS, STATA, Excel, SAS, Nvivo,R,Python
 * 建模软件： 
   *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
 * 数据录入及自动化：
@@ -81,7 +81,7 @@ published: true
   *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
   *	Wordpress
 * 办公与文件编辑软件：
-  *	Office (MS office, MS publisher), LATEX, Rmarkdown
+  *	Office (MS office, MS publisher), Rmarkdown(Markdown)
 * 基础编程软件：
   *	C & C++ (NCRE 2)
 
@@ -103,17 +103,22 @@ published: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-学术和社会服务 Service and leadership
+杂项 Service and leadership
 ======
-* 学术服务
+* 学术服务 Acadamic Service
   *	亚洲药物滥用研究学会秘书及终身会员
   *	亚洲犯罪学学会终身会员
   *	The Association of Chinese Criminology and Criminal Justice (ACCCJ) 会员
   *	澳门社会学学会秘书
   *	华人儿童发展研究学会秘书
 
-* 其他服务
+* 其他服务 Other Service
   *	澳门大学	研究生助理	2012.09-2015.09
   *	澳门大学研究生会犯罪学分会	创始人及前主席	2013.09-2015.07
   *	广州佛山中级人民法院	实习书记员	2012.07-2012.08
   *	广州惠州警察局	协警	2011.07-2011.08
+  
+* 获奖 Mscellaneous
+  *	2015年全国药物滥用防治会议，青年优秀论文一等奖  2015 
+  *	澳门大学博士研究生助学金 2015
+  *	澳门大学博士研究生助学金 2012
