@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: >-
-  academicpages is a ready-to-fork GitHub Pages template for academic personal
-  websites
+title: 关于我 About Me
 excerpt: About me
 author_profile: true
 redirect_from:
@@ -29,6 +27,4 @@ published: true
 青少年越轨行为：
 ======
  * 对西南某城市进行三次大规模的调查，分别于2012年，2015年和2016年。每次调查样本量均大于2500人。同时对每个班抽取一名学生进行了深入访谈。项目积累了大量的资料。
- * [发表论文](https://xxxw567.github.io/publications/) 
-
-
+ * [发表论文](https://xxxw567.github.io/publications/)
