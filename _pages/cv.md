@@ -69,21 +69,6 @@ published: true
   *	问卷设计
   *	实施问卷前测
  
-技能 Skills
-======
-* 数据处理和分析软件：
-  *	SPSS, STATA, Excel, SAS, Nvivo,R,Python
-* 建模软件： 
-  *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
-* 数据录入及自动化：
-  *	Remark Office OCR, EPIdata, Quatrics
-* 设计与网站维护：
-  *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
-  *	Wordpress
-* 办公与文件编辑软件：
-  *	Office (MS office, MS publisher), Rmarkdown(Markdown)
-* 基础编程软件：
-  *	C & C++ (NCRE 2)
 
 研究发表 Publications
 ======
@@ -122,3 +107,30 @@ published: true
   *	2015年全国药物滥用防治会议，青年优秀论文一等奖  2015 
   *	澳门大学博士研究生助学金 2015
   *	澳门大学博士研究生助学金 2012
+
+技能 Skills
+======
+* 数据处理和分析软件：
+  *	SPSS, STATA, Excel, SAS, Nvivo,R,Python
+* 建模软件： 
+  *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
+* 数据录入及自动化：
+  *	Remark Office OCR, EPIdata, Quatrics
+* 设计与网站维护：
+  *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
+  *	Wordpress
+* 办公与文件编辑软件：
+  *	Office (MS office, MS publisher), Rmarkdown(Markdown)
+* 基础编程软件：
+  *	C & C++ (NCRE 2)
+
+证书 Certificate
+======
+  * SAS base/ADV Programmer 
+  * Statement of Accomplishment with distinguish on Structural Equation Model and its Applications | 结构方程模型及其应用, Chinese University of Hong Kong, 
+  * Coursera
+Specialization: Collect and analyze data, and communicate results, University of Michigan & University of Maryland
+  * Coursera
+Specialization:Master Software Development in R, Johns Hopkins University, [Coursera](https://www.coursera.org/account/accomplishments/specialization/E4KC3523SXMA)
+  * Applied Sociological Methodology (course include: STATA, R, linear regression, categorical regression, generalized linear model, survival analysis, propensity score matching), Hong Kong University of Science and Technology
+  * Nvivo Training Certification
