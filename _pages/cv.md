@@ -82,7 +82,7 @@ published: true
 ======
 
 
-{% include _pages/publications.md %}
+{% include publications.md %}
 
 
 论文成果
