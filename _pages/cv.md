@@ -78,11 +78,6 @@ published: true
 * 夏一巍. (2017).闭路电视监控对犯罪的打击效果, 犯罪干预与预防评估系统回顾研究，刘建宏编撰，人民出版社出版
 * 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,夏一巍, 澳门学青少年与药物：2014报告,澳门大学出版社) [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
 
-论文成果 clever
-======
-
-
-{% include publications.md %}
 
 
 论文成果
