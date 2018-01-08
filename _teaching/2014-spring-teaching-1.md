@@ -8,13 +8,15 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+澳门大学社会学系	助教	2013秋季
+•	SOCY215 “Understanding Population”, 
+•	SOCB352 “Survey method and sampling”
 
-Heading 1
-======
+澳门大学社会学系	助教	2013春季
+•	SOCB110 “Introduction to Sociology”
+•	SOCY361 “Qualitative social research method”
 
-Heading 2
-======
-
-Heading 3
-======
+澳门大学社会学系	助教	2012秋季
+•	SOCY210 “Sociological theories”
+•	SOCB301 “Classical sociological theories”
+•	SOCY432 “Selected topics in Chinese sociology and Anthropology”

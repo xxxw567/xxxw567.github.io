@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 书籍与报告
---------
+======
 
 * Xia, Yiwei. (2017). Hoa Lo Prison; Edited by Spencer De Li. Encyclopedia of Corrections. NJ: John Wiley & Sons
 * 夏一巍. (2017).地点警务中的犯罪空间转移和利益扩散, 警务工作评估系统性回顾研究，刘建宏编撰，人民出版社出版）
@@ -16,7 +16,7 @@ author_profile: true
 
 
 论文成果
--------
+======
 
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
 * 张小华, 夏一巍, 吴光炜, 林游泳. 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响[J]. 中国药物依赖性杂志,2016,(3). 124, 291-296 CSCD CA
@@ -29,7 +29,7 @@ author_profile: true
 * 蔡天骥,夏一巍. 基因与药物成瘾研究—以基因和环境交互模型为例，云南警官学院学报，两岸实地毒品问题研究专刊)
 
 工作论文（待刊论文）
--------
+======
 * Cai, T., Xia, Y., & Zhou, Y. (过审待刊). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
 * Li, S. D., Xia, Y., (过审待刊). Understanding the Link between Discrimination and Juvenile Delinquency among Chinese Migrant Children. (SSCI). special issue “Changes and Continuities in Juvenile Delinquency and Justice in Greater China" at Journal of Contemporary Criminal Justice
 * Cai, T., Xia, Y., (过审待刊). Estimating the size of illicit drug user in Macau. Asian Journal of Criminology 
