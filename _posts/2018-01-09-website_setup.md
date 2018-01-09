@@ -1,9 +1,9 @@
 ---
-title: '网站建成'
+title: '网站'
 date: 2018-01-09
-permalink: /posts/2018/01/网站建成/
+permalink: /posts/2018/01/
 tags:
-  - 日常
+  - 网站
 ---
 
 # 前言 
