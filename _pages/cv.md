@@ -83,6 +83,7 @@ published: true
 论文成果
 ======
 
+* Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI, Q2) 
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
 * 张小华, 夏一巍, 吴光炜, 林游泳. 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响[J]. 中国药物依赖性杂志,2016,(3). 124, 291-296 CSCD CA
 * 李德, 唐伟, 夏一巍,张小华. 澳门地区青少年吸食氯胺酮的模式以及相关因素[J]. 中国药物依赖性杂志,2016,(1). 124-131) CSCD CA
