@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "发表情况 Publications"
+title: 发表情况 Publications
 permalink: /publications/
 author_profile: true
+published: true
 ---
 
 书籍与报告
@@ -17,7 +18,7 @@ author_profile: true
 
 论文成果
 ======
-
+* Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI, Q2)
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
 * 张小华, 夏一巍, 吴光炜, 林游泳. 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响[J]. 中国药物依赖性杂志,2016,(3). 124, 291-296 CSCD CA
 * 李德, 唐伟, 夏一巍,张小华. 澳门地区青少年吸食氯胺酮的模式以及相关因素[J]. 中国药物依赖性杂志,2016,(1). 124-131) CSCD CA
@@ -37,5 +38,3 @@ author_profile: true
 * Xia, Y. & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
 * 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.华东师范大学学报(教育科学版) 核心 CSSCI
 * 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较. 中国禁毒研究
-
-
