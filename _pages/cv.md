@@ -98,7 +98,7 @@ published: true
 ======
 * Cai, T., Xia, Y., & Zhou, Y. (过审待刊). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
 * Cai, T., Xia, Y., (过审待刊). Estimating the size of illicit drug user in Macau. Asian Journal of Criminology 
-* Xia, Y., Zhou, Y., Du, L & Cai, T., (初审中). Understanding the Link between Discrimination and Juvenile Delinquency among Chinese Migrant Children. International Migration (SSCI)
+* Xia, Y., Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
 * Xia, Y. & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
 * 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.华东师范大学学报(教育科学版) 核心 CSSCI
 * 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较. 中国禁毒研究
@@ -157,6 +157,8 @@ published: true
   *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
 * 数据录入及自动化：
   *	Remark Office OCR, EPIdata, Quatrics
+* 数据库管理：
+  *	MS ACCESS, MySQL 5.6
 * 设计与网站维护：
   *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
   *	Wordpress
