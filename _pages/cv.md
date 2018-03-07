@@ -82,6 +82,7 @@ published: true
 
 论文成果
 ======
+* Cai, T., Xia, Y., 2018. Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0
 * Spencer D. Li, & Yiwei Xia. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 1043986218761959. https://doi.org/10.1177/1043986218761959  
 * Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI, Q2) 
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
@@ -97,11 +98,10 @@ published: true
 工作论文（待刊论文）
 ======
 * Cai, T., Xia, Y., & Zhou, Y. (过审待刊). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
-* Cai, T., Xia, Y., (过审待刊). Estimating the size of illicit drug user in Macau. Asian Journal of Criminology 
 * Xia, Y., Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
 * Xia, Y. & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
-* 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.华东师范大学学报(教育科学版) 核心 CSSCI
-* 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较. 中国禁毒研究
+* 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.
+* 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较. 
   
   
 会议报告 Presentations
