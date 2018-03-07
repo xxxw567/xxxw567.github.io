@@ -82,7 +82,7 @@ published: true
 
 论文成果
 ======
-* Cai, T., Xia, Y., 2018. Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0
+* Cai, T., Xia, Y., 2018. Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0 (SSCI, 共同一作)
 * Spencer D. Li, & Yiwei Xia. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 1043986218761959. https://doi.org/10.1177/1043986218761959  
 * Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI, Q2) 
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
