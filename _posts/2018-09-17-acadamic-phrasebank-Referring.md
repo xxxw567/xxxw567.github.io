@@ -216,68 +216,50 @@ Jones et al. (2001)
 
 
 ## Reference to what other writers do in their text
-In Chapter 2, Smith provides us with a number of important &#8230;
-In the subsequent chapter, Smith examines the extent to which &#8230;
-By drawing on the concept of X, Smith has been able to show that &#8230;
-Some analysts (e.g. Carnoy, 2002) have attempted to draw fine distinctions between &#8230;
-Drawing on an extensive range of sources, the authors set out the different ways in which &#8230;
-Other authors (see Harbison, 2003; Kaplan, 2004) question the usefulness of such an approach.
+- In Chapter 2, Smith provides us with a number of important &#8230;
+- In the subsequent chapter, Smith examines the extent to which &#8230;
+- By drawing on the concept of X, Smith has been able to show that &#8230;
+- Some analysts (e.g. Carnoy, 2002) have attempted to draw fine distinctions between &#8230;
+- Drawing on an extensive range of sources, the authors set out the different ways in which &#8230;
+- Other authors (see Harbison, 2003; Kaplan, 2004) question the usefulness of such an approach.
 
-
-
- 
 
 
 Smith (2000)
-identifies X, Y, and Z as the major causes of &#8230;
-draws on an extensive range of sources to assess &#8230;
-highlights the need to break the link between X and Y.
-uses examples of these various techniques as evidence that &#8230;
-mentions the special situation of Singapore as an example of &#8230;
-questions whether mainstream schools are the best environment for &#8230;
-draws our attention to distinctive categories of X often observed in &#8230;
-considers whether countries work well on cross-border issues such as &#8230;
-discusses the challenges and strategies for facilitating and promoting &#8230;
-provides in-depth analysis of the work of Aristotle showing its relevance to &#8230;
-defines evidence based medicine as the conscious, explicit and judicious use of &#8230;
-lists three reasons why the English language has become so dominant. These are: &#8230;
-traces the development of Japanese history and philosophy during the 19th century.
-
-
-
-
-
-
-
+- identifies X, Y, and Z as the major causes of &#8230;
+- draws on an extensive range of sources to assess &#8230;
+- highlights the need to break the link between X and Y.
+- uses examples of these various techniques as evidence that &#8230;
+- mentions the special situation of Singapore as an example of &#8230;
+- questions whether mainstream schools are the best environment for &#8230;
+- draws our attention to distinctive categories of X often observed in &#8230;
+- considers whether countries work well on cross-border issues such as &#8230;
+- discusses the challenges and strategies for facilitating and promoting &#8230;
+- provides in-depth analysis of the work of Aristotle showing its relevance to &#8230;
+- defines evidence based medicine as the conscious, explicit and judicious use of &#8230;
+- lists three reasons why the English language has become so dominant. These are: &#8230;
+- traces the development of Japanese history and philosophy during the 19th century.
  
 
 
-In her review of &#8230;,
-In her major study,
-In her analysis of &#8230;,
-In her case study of …,
-In her introduction to &#8230;,
-In her seminal article,
-In her classic critique of &#8230;,
-In her interesting analysis of …,
-Smith (2012) identifies five characteristics of &#8230;
+- In her review of &#8230;,
+- In her major study,
+- In her analysis of &#8230;,
+- In her case study of …,
+- In her introduction to &#8230;,
+- In her seminal article,
+- In her classic critique of &#8230;,
+- In her interesting analysis of …,
+- Smith (2012) identifies five characteristics of &#8230;
 
 
 
-
-
-Reference to another writer's idea or position 
-According to Smith (2003), preventative medicine is far more cost effective, and therefore &#8230;
-As noted by Smith (2003) X is far more cost effective, and therefore &#8230;
-
-
-
-
-
-
-
+## Reference to another writer's idea or position 
+- According to Smith (2003), preventative medicine is far more cost effective, and therefore &#8230;
+- As noted by Smith (2003) X is far more cost effective, and therefore &#8230;
 
 Smith (2013)
+
 argues
 claims
 suggests
@@ -285,14 +267,8 @@ maintains
 concludes
 points out
 that
-preventative medicine is far more cost effective, and therefore better adapted to the developing world.
 
-
-
-
-
-
-
+- preventative medicine is far more cost effective, and therefore better adapted to the developing world.
 
 
 
@@ -302,132 +278,85 @@ offers
 proposes
 suggests
 argues for
-an explanatory theory for each type of irrational belief.
+- an explanatory theory for each type of irrational belief.
 
 
 
 
 
-Synthesising material: bringing sources together
-Similarly, Nicoladis (2006) found that X &#8230;
-In the same vein, Smith (1994) in his book XYZ notes &#8230;
-This view is supported by Jones (2000) who writes that &#8230;
-Smith argues that her data support O&#8217;Brien&#8217;s (1988) view that &#8230;
-Al-Masry&#8217;s (1986) work on X is complemented by Smith&#8217;s (2009) study of &#8230;
-Almost every paper that has been written on X includes a section relating to &#8230;
-Unlike Smith, Jones (2013) argues that &#8230;
-In contrast to Smith, Jones (2013) argues that &#8230;
-A broader perspective has been adopted by Smith (2013) who argues that &#8230;
-Conversely, Wang (2010) reported no significant difference in mortality between X and Y.
+## Synthesising material: bringing sources together
+- Similarly, Nicoladis (2006) found that X &#8230;
+- In the same vein, Smith (1994) in his book XYZ notes &#8230;
+- This view is supported by Jones (2000) who writes that &#8230;
+- Smith argues that her data support O&#8217;Brien&#8217;s (1988) view that &#8230;
+- Al-Masry&#8217;s (1986) work on X is complemented by Smith&#8217;s (2009) study of &#8230;
+- Almost every paper that has been written on X includes a section relating to &#8230;
+- Unlike Smith, Jones (2013) argues that &#8230;
+- In contrast to Smith, Jones (2013) argues that &#8230;
+- A broader perspective has been adopted by Smith (2013) who argues that &#8230;
+- Conversely, Wang (2010) reported no significant difference in mortality between X and Y.
+
+- Smith argues that &#8230;
+- Al-Masry (2003) sees X as &#8230;
+- Similarly, Jones (2013) asserts that &#8230;
+- Likewise, Wang (2012) holds the view that &#8230;
 
 
 
+- Some writers (e.g. Smith, 2002) have attempted to draw fine distinctions between &#8230;
+- Some authors have mainly been interested in questions concerning X and Y (Smith, 2001; Jones &#8230;
+- Much of the available literature on X deals with the question of &#8230;
+- Others (see Jones, 2003; Brown, 2004) question the usefulness of &#8230;
+- Others have highlighted the relevance of &#8230;
+- But Smith (2008) is much more concerned with &#8230;
 
 
-
-Smith argues that &#8230;
-break
-Al-Masry (2003) sees X as &#8230;
-Similarly, Jones (2013) asserts that &#8230;
-break
-Likewise, Wang (2012) holds the view that &#8230;
+- Zhao (2002) notes that &#8230;
+- Smith (2013) found that X accounted for 30% of Y.
+- However, Jennings’ (2010) study of Y found no link between &#8230;
+- Other researchers, however, who have looked at X, have found &#8230; Jones (2010), for example, &#8230;
 
 
+- Smith (2010) presents an X account,
+- While Smith (2008) focusses on X,
+- whilst Jones (2011) &#8230;
+- Jones (2009) is more concerned with &#8230;
 
 
-
-
-
-
-
-
-Some writers (e.g. Smith, 2002) have attempted to draw fine distinctions between &#8230;
-break
-Some authors have mainly been interested in questions concerning X and Y (Smith, 2001; Jones &#8230;
-break
-Much of the available literature on X deals with the question of &#8230;
-Others (see Jones, 2003; Brown, 2004) question the usefulness of &#8230;
-break
-Others have highlighted the relevance of &#8230;
-break
-But Smith (2008) is much more concerned with &#8230;
-
-
-
-
-
-
-
-
-
-
-Zhao (2002) notes that &#8230;
-break
-Smith (2013) found that X accounted for 30% of Y.
-However, Jennings’ (2010) study of Y found no link between &#8230;
-break
-Other researchers, however, who have looked at X, have found &#8230; Jones (2010), for example, &#8230;
-
-
-
-
-
-
-
-
-
-
-Smith (2010) presents an X account,
-break
-While Smith (2008) focusses on X,
-whilst Jones (2011) &#8230;
-break
-Jones (2009) is more concerned with &#8230;
-
-
-
-
-
-Some ways of introducing quotations
-Commenting on X, Smith (2003) argues: ‘&#8230; &#8230;’
-As Carnoy (2004: 215) states: ‘there are many good reasons to be sceptical’.
-As Smith argues: ‘In the past, the purpose of education was to &#8230;’ (Smith, 2000:150).
-In the final part of the Theses on Feuerbach, Marx writes: ‘Philosophers have hitherto only …’
-Sachs concludes: ‘The idea of development stands today like a ruin in …’ (Sachs, 1992a: 156).
-
-
-
-
-
-
+## Some ways of introducing quotations
+- Commenting on X, Smith (2003) argues: ‘&#8230; &#8230;’
+- As Carnoy (2004: 215) states: ‘there are many good reasons to be sceptical’.
+- As Smith argues: ‘In the past, the purpose of education was to &#8230;’ (Smith, 2000:150).
+- In the final part of the Theses on Feuerbach, Marx writes: ‘Philosophers have hitherto only …’
+- Sachs concludes: ‘The idea of development stands today like a ruin in …’ (Sachs, 1992a: 156).
 
 As Smith (2013: 320)
-notes: &#8216;&#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
-argues &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
-writes: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
-observes: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
-points out: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
-reminds us: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- notes: &#8216;&#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- argues &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- writes: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- observes: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- points out: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
+- reminds us: &#8216; &#8230; &#8230; &#8230; &#8230; &#8230; &#8216;
 
 
 
 
 
-Summarising the review or parts of the review
-Together, these studies indicate that &#8230;
-Overall, these studies highlight the need for &#8230;
-Considering all of this evidence, it seems that &#8230;
-Collectively, these studies outline a critical role for…
-In all the studies reviewed here, X is recognised as …
-The evidence presented in this section suggests that &#8230;
-The studies presented thus far provide evidence that &#8230;
-Taken together, these studies support the notion that …
-Overall, there seems to be some evidence to indicate that &#8230;
-Together these studies provide important insights into the &#8230;
-All of the studies reviewed here support the hypothesis that …
-Two important themes emerge from the studies discussed so far:
-However, such studies remain narrow in focus dealing only with …
-The evidence reviewed here seems to suggest a pertinent role for …
-These studies clearly indicate that there is a relationship between …
-In view of all that has been mentioned so far, one may suppose that &#8230;
-There remain several aspects of X about which relatively little is known.
+## Summarising the review or parts of the review
+- Together, these studies indicate that &#8230;
+- Overall, these studies highlight the need for &#8230;
+- Considering all of this evidence, it seems that &#8230;
+- Collectively, these studies outline a critical role for…
+- In all the studies reviewed here, X is recognised as …
+- The evidence presented in this section suggests that &#8230;
+- The studies presented thus far provide evidence that &#8230;
+- Taken together, these studies support the notion that …
+- Overall, there seems to be some evidence to indicate that &#8230;
+- Together these studies provide important insights into the &#8230;
+- All of the studies reviewed here support the hypothesis that …
+- Two important themes emerge from the studies discussed so far:
+- However, such studies remain narrow in focus dealing only with …
+- The evidence reviewed here seems to suggest a pertinent role for …
+- These studies clearly indicate that there is a relationship between …
+- In view of all that has been mentioned so far, one may suppose that &#8230;
+- There remain several aspects of X about which relatively little is known.
