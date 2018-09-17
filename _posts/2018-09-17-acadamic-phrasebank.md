@@ -2,6 +2,7 @@
 published: false
 ---
  # Introducting work
+
 There are many ways to introduce an academic essay or short paper. Most academic writers, however, appear to do one or more of the following in their introductions:
 
 - establish the context, background and/or importance of the topic
