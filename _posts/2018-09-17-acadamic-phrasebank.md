@@ -170,273 +170,270 @@ Occupying the niche (listing purpose of new research, listing questions, stating
 - Studies over the past two decades have provided important information on …
 - A considerable amount of literature has been published on X. These studies …
 
-Identifying a controversy within the field of study
-A much debated question is whether …
-One major issue in early X research concerned &#8230;
-To date there has been little agreement on what &#8230;
-The issue has grown in importance in light of recent &#8230;
-One of the most significant current discussions in X is &#8230;
-In the literature on X, the relative importance of Y is debated.
-One observer has already drawn attention to the paradox in &#8230;
-Questions have been raised about the use of animal subjects in &#8230;
-In many Xs, a debate is taking place between Ys and Zs concerning &#8230;
-Debate continues about the best strategies for the management of &#8230;
-This concept has recently been challenged by X studies demonstrating &#8230;
-The debate about X has gained fresh prominence with many arguing that &#8230;
-Scholars have long debated the impact of X on the creation and diffusion of …
-More recently, literature has emerged that offers contradictory findings about &#8230;
-One major theoretical issue that has dominated the field for many years concerns &#8230;
-The controversy about scientific evidence for X has raged unabated for over a century.
-The issue of X has been a controversial and much disputed subject within the field of &#8230;
-The causes of X have been the subject of intense debate within the scientific community.
-In the literature on X, the relative importance of Y has been subject to considerable discussion.
+## Identifying a controversy within the field of study
+- A much debated question is whether …
+- One major issue in early X research concerned &#8230;
+- To date there has been little agreement on what &#8230;
+- The issue has grown in importance in light of recent &#8230;
+- One of the most significant current discussions in X is &#8230;
+- In the literature on X, the relative importance of Y is debated.
+- One observer has already drawn attention to the paradox in &#8230;
+- Questions have been raised about the use of animal subjects in &#8230;
+- In many Xs, a debate is taking place between Ys and Zs concerning &#8230;
+- Debate continues about the best strategies for the management of &#8230;
+- This concept has recently been challenged by X studies demonstrating &#8230;
+- The debate about X has gained fresh prominence with many arguing that &#8230;
+- Scholars have long debated the impact of X on the creation and diffusion of …
+- More recently, literature has emerged that offers contradictory findings about &#8230;
+- One major theoretical issue that has dominated the field for many years concerns &#8230;
+- The controversy about scientific evidence for X has raged unabated for over a century.
+- The issue of X has been a controversial and much disputed subject within the field of &#8230;
+- The causes of X have been the subject of intense debate within the scientific community.
+- In the literature on X, the relative importance of Y has been subject to considerable discussion.
 
-Explaining the inadequacies of previous studies
-Previous studies of X have not dealt with &#8230;
-Researchers have not treated X in much detail.
-Such expositions are unsatisfactory because they &#8230;
-Most studies in the field of X have only focused on &#8230;
-Such approaches, however, have failed to address …
-Previous published studies are limited to local surveys.
-Half of the studies evaluated failed to specify whether &#8230;
-The research to date has tended to focus on X rather than Y.
-Previously published studies on the effect of X are not consistent.
-Smith’s analysis does not take account of &#8230;, nor does she examine &#8230;
-The existing accounts fail to resolve the contradiction between X and Y.
-However, much of the research up to now has been descriptive in nature &#8230;
-The generalisability of much published research on this issue is problematic.
-Research on the subject has been mostly restricted to limited comparisons of &#8230;
-However, few writers have been able to draw on any systematic research into &#8230;
-Short-term studies such as these do not necessarily show subtle changes over time …
-Although extensive research has been carried out on X, no single study exists which &#8230;
-However, these results were based upon data from over 30 years ago and it is unclear if &#8230;
-The experimental data are rather controversial, and there is no general agreement about &#8230;
-Most studies in X have only been carried out in a small number of areas.
-
-
-Identifying the paucity or lack of previous research
-There is little published data on …
-No previous study has investigated X.
-The use of X has not been investigated.
-There has been no detailed investigation of …
-There has been little quantitative analysis of &#8230;
-Data about the efficacy and safety of X are limited.
-Up to now, far too little attention has been paid to &#8230;
-A search of the literature revealed few studies which …
-The impact of X on Y is understudied, particularly for …
-Few studies have investigated X in any systematic way …
-In addition, no research has been found that surveyed &#8230;
-So far, however, there has been little discussion about &#8230;
-So far, very little attention has been paid to the role of X.
-Surprisingly, the effects of X have not been closely examined.
-In contrast to X, there is much less information about effects of …
-A systematic understanding of how X contributes to Y is still lacking.
-Despite the importance of X, there remains a paucity of evidence on …
-There have been no controlled studies which compare differences in &#8230;
-To date, the problem has received scant attention in the research literature
-To date, there are few studies that have investigated the association between …
+## Explaining the inadequacies of previous studies
+- Previous studies of X have not dealt with &#8230;
+- Researchers have not treated X in much detail.
+- Such expositions are unsatisfactory because they &#8230;
+- Most studies in the field of X have only focused on &#8230;
+- Such approaches, however, have failed to address …
+- Previous published studies are limited to local surveys.
+- Half of the studies evaluated failed to specify whether &#8230;
+- The research to date has tended to focus on X rather than Y.
+- Previously published studies on the effect of X are not consistent.
+- Smith’s analysis does not take account of &#8230;, nor does she examine &#8230;
+- The existing accounts fail to resolve the contradiction between X and Y.
+- However, much of the research up to now has been descriptive in nature &#8230;
+- The generalisability of much published research on this issue is problematic.
+- Research on the subject has been mostly restricted to limited comparisons of &#8230;
+- However, few writers have been able to draw on any systematic research into &#8230;
+- Short-term studies such as these do not necessarily show subtle changes over time …
+- Although extensive research has been carried out on X, no single study exists which &#8230;
+- However, these results were based upon data from over 30 years ago and it is unclear if &#8230;
+- The experimental data are rather controversial, and there is no general agreement about &#8230;
+- Most studies in X have only been carried out in a small number of areas.
 
 
-
-
-
-While
-Whilst
-Although
-some research has been carried out on X,
-no single study exists which &#8230;
-no studies have been found which &#8230;
-no controlled studies have been reported.
-only two studies have attempted to investigate &#8230;
-there have been few empirical investigations into …
-there is still very little scientific understanding of &#8230;
-the mechanism by which &#8230; has not been established.
+## Identifying the paucity or lack of previous research
+- There is little published data on …
+- No previous study has investigated X.
+- The use of X has not been investigated.
+- There has been no detailed investigation of …
+- There has been little quantitative analysis of &#8230;
+- Data about the efficacy and safety of X are limited.
+- Up to now, far too little attention has been paid to &#8230;
+- A search of the literature revealed few studies which …
+- The impact of X on Y is understudied, particularly for …
+- Few studies have investigated X in any systematic way …
+- In addition, no research has been found that surveyed &#8230;
+- So far, however, there has been little discussion about &#8230;
+- So far, very little attention has been paid to the role of X.
+- Surprisingly, the effects of X have not been closely examined.
+- In contrast to X, there is much less information about effects of …
+- A systematic understanding of how X contributes to Y is still lacking.
+- Despite the importance of X, there remains a paucity of evidence on …
+- There have been no controlled studies which compare differences in &#8230;
+- To date, the problem has received scant attention in the research literature
+- To date, there are few studies that have investigated the association between …
 
 
 
 
 
-Identifying a knowledge gap in the field of study
-It is still not known whether …
-… much less is known about X.
-The nature of X remains unclear.
-Currently, there are no data on …
-What is less clear is the nature of …
-Very little is currently known about X in &#8230;
-Research to date has not yet determined …
-What is not yet clear is the impact of X on &#8230;
-There is still uncertainty, however, whether …
-The response of X to Y is not fully understood.
-Causal factors leading to X remain speculative.
-The neurobiological basis of X is poorly understood.
-Little is known about X and it is not clear what factors &#8230;
-To date, only a limited number of Xs have been identified.
-The mechanisms that underpin X are not fully understood.
-Much uncertainty still exists about the relationship between &#8230;
-This indicates a need to understand the various perceptions of X that exist among …
-It is now well established that … However, the influence of X on Y has remained unclear.
+### While
+### Whilst
+### Although
+- some research has been carried out on X,
+- no single study exists which &#8230;
+- no studies have been found which &#8230;
+- no controlled studies have been reported.
+- only two studies have attempted to investigate &#8230;
+- there have been few empirical investigations into …
+- there is still very little scientific understanding of &#8230;
+- the mechanism by which &#8230; has not been established.
 
 
 
 
 
-
-However,
-very little is known about X in&#8230;
-few studies have investigated …
-the nature of X remains unclear.
-much less is known about how …
-the use of X has not been investigated.
-far too little attention has been paid to &#8230;
-the behaviour of X has not yet been investigated.
-the evidence for this relationship is inconclusive &#8230;
-much uncertainty still exists about the relation between &#8230;
-there have been no controlled studies which compare differences in &#8230;
-
-
-
-
-
-Stating the focus, aim, or argument of a short paper
-In this paper, I argue that &#8230;
-This paper attempts to show that &#8230;
-The central thesis of this paper is that &#8230;
-In the pages that follow, it will be argued that &#8230;
-In this essay, I attempt to defend the view that &#8230;
-The aim of this essay is to explore the relationship between …
-The purpose of this paper is to review recent research into the &#8230;
+## Identifying a knowledge gap in the field of study
+- It is still not known whether …
+- … much less is known about X.
+- The nature of X remains unclear.
+- Currently, there are no data on …
+- What is less clear is the nature of …
+- Very little is currently known about X in &#8230;
+- Research to date has not yet determined …
+- What is not yet clear is the impact of X on &#8230;
+- There is still uncertainty, however, whether …
+- The response of X to Y is not fully understood.
+- Causal factors leading to X remain speculative.
+- The neurobiological basis of X is poorly understood.
+- Little is known about X and it is not clear what factors &#8230;
+- To date, only a limited number of Xs have been identified.
+- The mechanisms that underpin X are not fully understood.
+- Much uncertainty still exists about the relationship between &#8230;
+- This indicates a need to understand the various perceptions of X that exist among …
+- It is now well established that … However, the influence of X on Y has remained unclear.
 
 
 
 
 
 
-This paper
-argues that …
-gives an account of …
-discusses the case of …
-analyses the impact of …
-attempts to show that …
-contests the claim that …
-provides an overview of …
-reviews the evidence for …
-reports on a study which …
-traces the development of …
-explores the ways in which …
-assesses the significance of …
-highlights the importance of …
-considers the implications of …
-critically examines the view that …
-proposes a new methodology for …
-examines the relationship between …
-compares the different ways in which …
-investigates the factors that determine …
-describes the design and implementation of …
+### However,
+- very little is known about X in&#8230;
+- few studies have investigated …
+- the nature of X remains unclear.
+- much less is known about how …
+- the use of X has not been investigated.
+- far too little attention has been paid to &#8230;
+- the behaviour of X has not yet been investigated.
+- the evidence for this relationship is inconclusive &#8230;
+- much uncertainty still exists about the relation between &#8230;
+- there have been no controlled studies which compare differences in &#8230;
 
 
 
 
 
-Stating the purpose of the current research
-The specific objective of this study was to …
-An objective of this study was to investigate &#8230;
-This thesis will examine the way in which the &#8230;
-This study set out to investigate the usefulness of &#8230;
-This dissertation seeks to explain the development of &#8230;
-This case study seeks to examine the changing nature of &#8230;
-The objectives of this research are to determine whether &#8230;
-This prospective study was designed to investigate the use of …
-This research examines the emerging role of X in the context of &#8230;
-This study systematically reviews the data for&#8230;, aiming to provide &#8230;
-Drawing upon two strands of research into X, this study attempts to &#8230;
-This thesis intends to determine the extent to which &#8230; and whether &#8230;
-This dissertation aims to unravel some of the mysteries surrounding &#8230;
-This study therefore set out to assess the effect of X &#8230;, and the effect of &#8230;
-The main aim of this study is to investigate the differences between X and Y.
-Part of the aim of this project is to develop software that is compatible with &#8230;
-There are two primary aims of this study: 1. To investigate &#8230; 2. To ascertain &#8230;
-This study seeks to obtain data which will help to address these research gaps.
-One purpose of this study was to assess the extent to which these factors were &#8230;
-The purpose of this investigation is to explore the relationship between X and Y.
+### Stating the focus, aim, or argument of a short paper
+- In this paper, I argue that &#8230;
+- This paper attempts to show that &#8230;
+- The central thesis of this paper is that &#8230;
+- In the pages that follow, it will be argued that &#8230;
+- In this essay, I attempt to defend the view that &#8230;
+- The aim of this essay is to explore the relationship between …
+- The purpose of this paper is to review recent research into the &#8230;
 
 
-Describing the research design and the methods used
-Data for this study were collected using &#8230;
-Five works will be examined, all of which &#8230;
-This investigation takes the form of a case-study of the &#8230;
-This study was exploratory and interpretative in nature.
-This study uses a qualitative case study approach to investigate …
-The research data in this thesis is drawn from four main sources: &#8230;
-The approach to empirical research adopted for this study was one of &#8230;
-This dissertation follows a case-study design, with in-depth analysis of &#8230;
-By employing qualitative modes of enquiry, I attempt to illuminate the &#8230;
-Qualitative and quantitative research designs were adopted to provide &#8230;
-Both qualitative and quantitative methods were used in this investigation.
-A holistic approach is utilised, integrating X, Y and Z material to establish &#8230;
-The study was conducted in the form of a survey, with data being gathered via &#8230;
-The methodological approach taken in this study is a mixed methodology based on &#8230;
-A combination of quantitative and qualitative approaches was used in the data analysis.
 
 
-Explaining the significance of the current study
-This is the first study to …
-This study provides new insights into …
-This work will generate fresh insight into …
-The study offers some important insights into &#8230;
-Understanding the link between X and Y will help …
-This is the first study to undertake a longitudinal analysis of &#8230;
-The present research explores, for the first time, the effects of …
-The importance and originality of this study are that it explores …
-The findings should make an important contribution to the field of &#8230;.
-Characterisation of X is important for our increased understanding of …
-It is hoped that this research will contribute to a deeper understanding of …
-This study aims to contribute to this growing area of research by exploring &#8230;
-This project provided an important opportunity to advance the understanding of &#8230;
-Therefore, this study makes a major contribution to research on X by demonstrating &#8230;
-There are several important areas where this study makes an original contribution to &#8230;
-The experimental work presented here provides one of the first investigations into how …
+### This paper
+- argues that …
+- gives an account of …
+- discusses the case of …
+- analyses the impact of …
+- attempts to show that …
+- contests the claim that …
+- provides an overview of …
+- reviews the evidence for …
+- reports on a study which …
+- traces the development of …
+- explores the ways in which …
+- assesses the significance of …
+- highlights the importance of …
+- considers the implications of …
+- critically examines the view that …
+- proposes a new methodology for …
+- examines the relationship between …
+- compares the different ways in which …
+- investigates the factors that determine …
+- describes the design and implementation of …
 
 
-Describing the limitations of the current study
-The thesis does not engage with &#8230;
-It is not the task of this paper to examine …
-This study is unable to encompass the entire …
-Establishing X is beyond the scope of this study.
-It is beyond the scope of this study to examine the &#8230;
-A full discussion of X lies beyond the scope of this study.
-The reader should bear in mind that the study is based on &#8230;
-Another potential problem is that the scope of my thesis may be too broad.
-Due to practical constraints, this paper cannot provide a comprehensive review of&#8230;
 
 
-Giving reasons for personal interest in the research
-I became interested in Xs after reading &#8230;
-My interest in this area developed while I was &#8230;
-I have worked closely with X for many years and &#8230;
-My personal experience of X has prompted this research.
-My main reason for choosing this topic is personal interest.
-It is my experience of working with X that has driven this research.
-This project was conceived during my time working for X. As a medical advisor, I witnessed …
-* sometimes found in the humanities, and the applied human sciences
+
+## Stating the purpose of the current research
+- The specific objective of this study was to …
+- An objective of this study was to investigate &#8230;
+- This thesis will examine the way in which the &#8230;
+- This study set out to investigate the usefulness of &#8230;
+- This dissertation seeks to explain the development of &#8230;
+- This case study seeks to examine the changing nature of &#8230;
+- The objectives of this research are to determine whether &#8230;
+- This prospective study was designed to investigate the use of …
+- This research examines the emerging role of X in the context of &#8230;
+- This study systematically reviews the data for&#8230;, aiming to provide &#8230;
+- Drawing upon two strands of research into X, this study attempts to &#8230;
+- This thesis intends to determine the extent to which &#8230; and whether &#8230;
+- This dissertation aims to unravel some of the mysteries surrounding &#8230;
+- This study therefore set out to assess the effect of X &#8230;, and the effect of &#8230;
+- The main aim of this study is to investigate the differences between X and Y.
+- Part of the aim of this project is to develop software that is compatible with &#8230;
+- There are two primary aims of this study: 1. To investigate &#8230; 2. To ascertain &#8230;
+- This study seeks to obtain data which will help to address these research gaps.
+- One purpose of this study was to assess the extent to which these factors were &#8230;
+- The purpose of this investigation is to explore the relationship between X and Y.
 
 
-Outlining the structure of the paper or dissertation
-The first section of this paper will examine&#8230;
-This paper begins by &#8230; It will then go on to &#8230;
-My thesis is composed of four themed chapters.
-The essay has been organised in the following way.
-The remaining part of the paper proceeds as follows: &#8230;
-The main issues addressed in this paper are: a), b) and c).
-This paper first gives a brief overview of the recent history of X.
-This paper has been divided into four parts. The first part deals with &#8230;
-The third chapter is concerned with the methodology used for this study.
-The overall structure of the study takes the form of six chapters, including &#8230;
-Chapter Four analyses the results of interviews and focus group discussions undertaken during &#8230;
-Chapter Two begins by laying out the theoretical dimensions of the research, and looks at how &#8230;
-The fourth section presents the findings of the research, focusing on the three key themes that &#8230;
+## Describing the research design and the methods used
+- Data for this study were collected using &#8230;
+- Five works will be examined, all of which &#8230;
+- This investigation takes the form of a case-study of the &#8230;
+- This study was exploratory and interpretative in nature.
+- This study uses a qualitative case study approach to investigate …
+- The research data in this thesis is drawn from four main sources: &#8230;
+- The approach to empirical research adopted for this study was one of &#8230;
+- This dissertation follows a case-study design, with in-depth analysis of &#8230;
+- By employing qualitative modes of enquiry, I attempt to illuminate the &#8230;
+- Qualitative and quantitative research designs were adopted to provide &#8230;
+- Both qualitative and quantitative methods were used in this investigation.
+- A holistic approach is utilised, integrating X, Y and Z material to establish &#8230;
+- The study was conducted in the form of a survey, with data being gathered via &#8230;
+- The methodological approach taken in this study is a mixed methodology based on &#8230;
+- A combination of quantitative and qualitative approaches was used in the data analysis.
 
 
-- Explaining key terms used in the current work
+## Explaining the significance of the current study
+- This is the first study to …
+- This study provides new insights into …
+- This work will generate fresh insight into …
+- The study offers some important insights into &#8230;
+- Understanding the link between X and Y will help …
+- This is the first study to undertake a longitudinal analysis of &#8230;
+- The present research explores, for the first time, the effects of …
+- The importance and originality of this study are that it explores …
+- The findings should make an important contribution to the field of &#8230;.
+- Characterisation of X is important for our increased understanding of …
+- It is hoped that this research will contribute to a deeper understanding of …
+- This study aims to contribute to this growing area of research by exploring &#8230;
+- This project provided an important opportunity to advance the understanding of &#8230;
+- Therefore, this study makes a major contribution to research on X by demonstrating &#8230;
+- There are several important areas where this study makes an original contribution to &#8230;
+- The experimental work presented here provides one of the first investigations into how …
+
+
+## Describing the limitations of the current study
+- The thesis does not engage with &#8230;
+- It is not the task of this paper to examine …
+- This study is unable to encompass the entire …
+- Establishing X is beyond the scope of this study.
+- It is beyond the scope of this study to examine the &#8230;
+- A full discussion of X lies beyond the scope of this study.
+- The reader should bear in mind that the study is based on &#8230;
+- Another potential problem is that the scope of my thesis may be too broad.
+- Due to practical constraints, this paper cannot provide a comprehensive review of&#8230;
+
+
+## Giving reasons for personal interest in the research
+- I became interested in Xs after reading &#8230;
+- My interest in this area developed while I was &#8230;
+- I have worked closely with X for many years and &#8230;
+- My personal experience of X has prompted this research.
+- My main reason for choosing this topic is personal interest.
+- It is my experience of working with X that has driven this research.
+- This project was conceived during my time working for X. As a medical advisor, I witnessed …
+- * sometimes found in the humanities, and the applied human sciences
+
+
+## Outlining the structure of the paper or dissertation
+- The first section of this paper will examine&#8230;
+- This paper begins by &#8230; It will then go on to &#8230;
+- My thesis is composed of four themed chapters.
+- The essay has been organised in the following way.
+- The remaining part of the paper proceeds as follows: &#8230;
+- The main issues addressed in this paper are: a), b) and c).
+- This paper first gives a brief overview of the recent history of X.
+- This paper has been divided into four parts. The first part deals with &#8230;
+- The third chapter is concerned with the methodology used for this study.
+- The overall structure of the study takes the form of six chapters, including &#8230;
+- Chapter Four analyses the results of interviews and focus group discussions undertaken during &#8230;
+- Chapter Two begins by laying out the theoretical dimensions of the research, and looks at how &#8230;
+- The fourth section presents the findings of the research, focusing on the three key themes that &#8230;
+
+## Explaining key terms used in the current work
 - (also refer to Defining Terms)
 - Throughout this paper, the term ‘X’ will refer to &#8230;
 - The term ‘X’ will be used in this thesis to refer to …
