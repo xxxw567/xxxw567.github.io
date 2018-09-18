@@ -25,66 +25,59 @@ In the Methods section of a dissertation or research article, writers give an ac
 - The use of qualitative case studies is a well-established approach in &#8230;
 - Xs have been used in the past to investigate the mechanical properties of …
 
-Giving reasons why a method was adopted or rejected
-A major advantage of X is that …
-The benefit of this approach is that …
-X based methods provide a means of …
-X was selected for its reliability and validity.
-A case study approach was used to allow a &#8230;
-This method is particularly useful in studying &#8230;
-A quantitative approach was employed since &#8230;
-Qualitative methods offer an effective way of &#8230;
-The design of the questionnaires was based on &#8230;
-The X method is one of the more practical ways of &#8230;
-The semi-structured approach was chosen because &#8230;
-The X approach has a number of attractive features: &#8230;
-The advantages of Xs are that they are simple to deliver.
-The second advantage of using the multivariate method is &#8230;
-The study uses qualitative analysis in order to gain insights into &#8230;
-One advantage of the X analysis is that it avoids the problem of &#8230;
-Another advantage of using computer simulations is that it allows …
-Continuous sampling methods have a number of advantages over …
-The collaborative nature of the focus group offers another advantage …
-Qualitative methods can be more useful for identifying and characterising …
-
-
-
-
-
+## Giving reasons why a method was adopted or rejected
+- A major advantage of X is that …
+- The benefit of this approach is that …
+- X based methods provide a means of …
+- X was selected for its reliability and validity.
+- A case study approach was used to allow a &#8230;
+- This method is particularly useful in studying &#8230;
+- A quantitative approach was employed since &#8230;
+- Qualitative methods offer an effective way of &#8230;
+- The design of the questionnaires was based on &#8230;
+- The X method is one of the more practical ways of &#8230;
+- The semi-structured approach was chosen because &#8230;
+- The X approach has a number of attractive features: &#8230;
+- The advantages of Xs are that they are simple to deliver.
+- The second advantage of using the multivariate method is &#8230;
+- The study uses qualitative analysis in order to gain insights into &#8230;
+- One advantage of the X analysis is that it avoids the problem of &#8230;
+- Another advantage of using computer simulations is that it allows …
+- Continuous sampling methods have a number of advantages over …
+- The collaborative nature of the focus group offers another advantage …
+- Qualitative methods can be more useful for identifying and characterising …
 
 
 A case-study approach was
-used
-chosen
-adopted
-to ensure that …
-to help understand how …
-to allow a deeper insight into …
-to conduct this exploratory study.
-to evaluate the effectiveness of …
-to determine the factors that affect &#8230;
-to gain a detailed understanding of …
-to assess the management practices of …
-to obtain further in-depth information on the &#8230;
-to provide rounded, detailed illustrations of the …
-to capture the complexities of the phenomenon.
+- used
+- chosen
+- adopted
 
+- to ensure that …
+- to help understand how …
+- to allow a deeper insight into …
+- to conduct this exploratory study.
+- to evaluate the effectiveness of …
+- to determine the factors that affect &#8230;
+- to gain a detailed understanding of …
+- to assess the management practices of …
+- to obtain further in-depth information on the &#8230;
+- to provide rounded, detailed illustrations of the …
+- to capture the complexities of the phenomenon.
 
+- A major problem with the experimental method is that &#8230;
+- The main disadvantage of the experimental method is that &#8230;
+- However, there are certain drawbacks associated with the use of &#8230;
+- There are certain problems with the use of focus groups. One of these is that there is less &#8230;
 
-
-A major problem with the experimental method is that &#8230;
-The main disadvantage of the experimental method is that &#8230;
-However, there are certain drawbacks associated with the use of &#8230;
-There are certain problems with the use of focus groups. One of these is that there is less &#8230;
-
-Indicating the use of an established method
-The solution was then assayed for X using the Y method.
-X was prepared according to the procedure used by Jones et al. (1957).
-The synthesis of X was done according to the procedure of Smith (1973).
-X was synthesised using the same method that was detailed for Y, using &#8230;
-Samples were analysed for X as previously reported by Smith et al. (2012).
-Analysis was based on the conceptual framework proposed by Smith et al. (2002).
-This compound was prepared by adapting the procedure used by Jones et al. (1990)&#8230;
+## Indicating the use of an established method
+- The solution was then assayed for X using the Y method.
+- X was prepared according to the procedure used by Jones et al. (1957).
+- The synthesis of X was done according to the procedure of Smith (1973).
+- X was synthesised using the same method that was detailed for Y, using &#8230;
+- Samples were analysed for X as previously reported by Smith et al. (2012).
+- Analysis was based on the conceptual framework proposed by Smith et al. (2002).
+- This compound was prepared by adapting the procedure used by Jones et al. (1990)&#8230;
 
 
 Describing the characteristics of the sample
