@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-#Referring to Sources
+# Referring to Sources
 
 					
 One of the distinguishing features of academic writing is that it is informed by what is already known, what work has been done before, and/or what ideas and models have already been developed. Thus, in academic texts, writers frequently make reference to other studies and to the work of other authors. It is important that writers guide their readers through this literature. This section of Academic Phrasebank lists some of the phrases that writers may use for this purpose.A note on the literature review: It is the purpose of the literature review section of a paper or dissertation to show the reader, in a systematic way, what is already known about the research topic as a whole, and to outline the key ideas and theories that help us to understand this. As well as being systematic, the review should be evaluative and critical of the studies or ideas which are relevant to the current work. For example, you may think a particular study did not investigate some important aspect of the area you are researching, that the author(s) failed to notice a weakness in their methods, or that their conclusion is not well-supported (refer to Being Critical).
