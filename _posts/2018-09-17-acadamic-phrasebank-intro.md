@@ -2,7 +2,7 @@
 published: true
 ---
  
- # Introducting work
+# Introducting work 
 
 There are many ways to introduce an academic essay or short paper. Most academic writers, however, appear to do one or more of the following in their introductions:
 
