@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In the Methods section of a dissertation or research article, writers give an account of how they carried out their research. The Methods section should be clear and detailed enough for another experienced person to repeat the research and reproduce the results. Where the methods chosen are new, unfamiliar or perhaps even controversial, or where the intended audience is from many disciplines, the Methods section will tend to be much more extensive. Typical stretches of text found in this section of a research article or dissertation along with examples of the kind of language used for these are listed below. Note that for most of the functional categories in this section, the verbs are written in the simple past tense.
 
