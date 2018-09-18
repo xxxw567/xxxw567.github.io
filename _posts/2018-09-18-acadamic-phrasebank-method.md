@@ -158,46 +158,41 @@ A case-study approach was
 - The pilot interviews were conducted informally by the trained interviewer &#8230;
 - Article references were searched further for additional relevant publications&#8230;
 
-
 ## Describing the process: sequence words
 - To begin this process, &#8230;
 - The first step in this process was to &#8230;
 - The second method used to identify X involved &#8230;
 
-- Prior to
+### Prior to
 - commencing the study, ethical clearance was sought from &#8230;
 - analysing the interview data, the transcripts were checked for …
 - data collection, the participants received an explanation of the project.
 - undertaking the investigation, ethical clearance was obtained from &#8230;
 
-
-- After
+### After
 - ‘training’, the participants were told that &#8230;
 - collection, the samples were shipped back to X in &#8230;
 - testing for the presence of antibodies, the blood was …
 - the appliance was fitted, the patients attended X every four weeks.
 
-- On
+### On
 - arrival at the clinic, patients were asked to &#8230;
 - completion of X, the process of parameter estimation was carried out
 - obtaining written informed consent from the patients, a questionnaire was …
 
-
-- Once
+### Once
 - the samples were extracted, it was first necessary to …
 - the Xs were located and marked, a thin clear plastic ruler &#8230;
 - the exposures were completed, the X was removed from the Y and placed in …
 - the positions had been decided upon, the Xs were removed from each Y and …
 
-
-- Following
+### Following
 - correction for &#8230;, X was reduced to &#8230;
 - conformational analysis of X, it was necessary to &#8230;
 - administration of X to patients, we assessed the effects on …
 - this treatment, the samples were recovered and stored overnight.
 
-
-- When
+### When
 - dividing X, care was taken to &#8230;
 - removing X, it was important to &#8230;
 - inviting the participants, the purpose of the research was clearly explained.
@@ -260,7 +255,7 @@ A case-study approach was
 - elicit a simple answer  to a complex question about …
 
 
-- Describing the process: statistical procedures
+## Describing the process: statistical procedures
 - The data were normalised using &#8230;
 - A p value Descriptive data were generated for all variables.
 - Reliability was calculated using Cronbach’s alpha.
