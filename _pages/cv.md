@@ -17,6 +17,9 @@ published: true
 * B.S. Forensic Science (Major, BA in engineer) 刑事科学技术（工学学士）, 西南政法大学 SWULP, 2012 
 * M.S. Crminology 犯罪学, 澳门大学 University of Macau, 2014 
 * Ph.D Sociology 社会学（犯罪学方向）, 澳门大学 University of Macau, 2018 (expected) 
+
+{% include .. / _pages %}
+
   
 书籍与报告 Books & Reports
 ======
