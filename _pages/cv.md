@@ -30,9 +30,10 @@ published: true
 
 论文成果 Journal Articles 
 ======
-* Cai, T., Xia, Y., 2018. Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0 (SSCI, 共同一作)
+* Cai, T., Xia, Y., & Zhou, Y. (2018). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
+* Cai, T., Xia, Y., 2018. Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0 (SSCI)
 * Spencer D. Li, & Yiwei Xia. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 1043986218761959. https://doi.org/10.1177/1043986218761959 (SSCI) 
-* Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI, Q2) 
+* Xia, Y.; Li, S.D.; Liu, T.-H.	The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 2018, 15, 371. (SSCI) 
 * Li, S. D., Zhang, X., Tang, W., & Xia, Y. (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
 * 张小华, 夏一巍, 吴光炜, 林游泳. 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响[J]. 中国药物依赖性杂志,2016,(3). 124, 291-296 CSCD CA
 * 李德, 唐伟, 夏一巍,张小华. 澳门地区青少年吸食氯胺酮的模式以及相关因素[J]. 中国药物依赖性杂志,2016,(1). 124-131) CSCD CA
@@ -45,7 +46,6 @@ published: true
 
 工作论文（待刊论文） Working Papers
 ======
-* Cai, T., Xia, Y., & Zhou, Y. (过审待刊). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
 * Xia, Y., Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
 * Xia, Y. & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
 * 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.
