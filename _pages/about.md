@@ -34,5 +34,5 @@ Addicted behavior & substance abuse：
 Juvenile delinquency
 ======
  * Delinquency among migrant children
- * 华人儿童发展研究学会秘书
- * 
+ * Deviant peer network
+ * Longitudinal peer networks 
