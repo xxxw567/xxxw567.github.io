@@ -18,8 +18,6 @@ published: true
 * M.S. Crminology 犯罪学, 澳门大学 University of Macau, 2014 
 * Ph.D Sociology 社会学（犯罪学方向）, 澳门大学 University of Macau, 2018 (expected) 
 
-{% include _pages/publications.md %}
-
   
 书籍与报告 Books & Reports
 ======
