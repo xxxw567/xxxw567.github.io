@@ -1,17 +1,15 @@
 # main links links
 main:
+  - title: "教育背景 Education"
+    url: /education/
   - title: "发表情况 Publications"
     url: /publications/
-
   - title: "会议报告 Presentations"
     url: /talks/    
-
   - title: "教学 Teaching"
     url: /teaching/    
-        
+  - title: "其他 Others"
+    url: /other/      
   - title: "博客 Blog Posts"
     url: /year-archive/
-    
-  - title: "个人简历 CV"
-    url: /cv/
-     
+
