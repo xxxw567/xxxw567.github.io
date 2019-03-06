@@ -11,7 +11,6 @@ published: true
 {% include base_path %}
 
 
-
 教育经历 Education
 ======
 * B.S. Law (Minor, BA in Law) 法学（辅修，法学学士）, 西南政法大学 SWULP, 2012 
