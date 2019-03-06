@@ -9,12 +9,12 @@ redirect_from:
 published: true
 ---
 
-澳门大学的在读犯罪学博士。主要研究兴趣是定量方法、犯罪学、药物滥用和青少年越轨行为：
+I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Department of Sociology University of Macau. My research interets are as follows:
 
-定量方法：
+Quantitative Methods：
 ======
- * 统计模型的使用和开发，例如 [膨胀模型的扩展](https://osf.io/4r2j3/)
- * 探索新的数据形式在社会科学中的应用，例如， [司法判决文本分析(进行中)](https://github.com/xxxw567/legalwordproc/)　和  [面部特征提取（进行中）](https://github.com/xxxw567/face_analysis)
+ * Develop statistical models: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
+ * Exploring new type of data in social science: [judical documents] https://github.com/xxxw567/legalwordproc/),[facial analysis](https://github.com/xxxw567/face_analysis)
  * 与其他学者的合作，例如，分析和数据处理数据，参与抽样和加权
  * 目前比较熟悉的软件是：[SAS](https://www.sas.com/en_us/certification/credentials/foundation-tools/advanced-programmer.html)，[STATA](https://www.stata.com/)，[R](https://github.com/xxxw567/)。
 
