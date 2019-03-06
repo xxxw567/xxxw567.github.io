@@ -15,8 +15,8 @@ Quantitative Methods：
 ======
  * Develop statistical models: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
  * Exploring new type of data in social science: [judical documents] https://github.com/xxxw567/legalwordproc/),[facial analysis](https://github.com/xxxw567/face_analysis)
- * 与其他学者的合作，例如，分析和数据处理数据，参与抽样和加权
- * 目前比较熟悉的软件是：[SAS](https://www.sas.com/en_us/certification/credentials/foundation-tools/advanced-programmer.html)，[STATA](https://www.stata.com/)，[R](https://github.com/xxxw567/)。
+ * Data processing, sampling and weighting.
+ * Statistical software：[SAS]，[STATA]，[R](https://github.com/xxxw567/)。
 
 犯罪学和药物滥用：
 ======
