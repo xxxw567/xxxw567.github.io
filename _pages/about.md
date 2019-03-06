@@ -11,12 +11,15 @@ published: true
 
 I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Department of Sociology University of Macau. My research interets are as follows:
 
+我是一名澳门大学社会系在读博士，主要的研究兴趣如下：
+
+
 Quantitative methods：
 ======
  * Develop statistical models: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
- * Exploring new type of data in social science: [judical documents] https://github.com/xxxw567/legalwordproc/),[facial analysis](https://github.com/xxxw567/face_analysis)
+ * Exploring new type of data in social science: [judical documents](https://github.com/xxxw567/legalwordproc/), [facial analysis](https://github.com/xxxw567/face_analysis)
  * Data processing, sampling and weighting.
- * Statistical software：[SAS]，[STATA]，[R](https://github.com/xxxw567/)
+ * Statistical software：SAS,STATA, [R](https://github.com/xxxw567/)
 
 Criminology & criminal justice：
 ======
