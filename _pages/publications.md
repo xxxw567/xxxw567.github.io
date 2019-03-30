@@ -10,8 +10,8 @@ published: true
 ======
 
 * Xia, Yiwei. (2017). Hoa Lo Prison; Edited by Spencer De Li. Encyclopedia of Corrections. NJ: John Wiley & Sons
-* 夏一巍. (2017).地点警务中的犯罪空间转移和利益扩散, 警务工作评估系统性回顾研究，刘建宏编撰，人民出版社出版）
-* 夏一巍. (2017).闭路电视监控对犯罪的打击效果, 犯罪干预与预防评估系统回顾研究，刘建宏编撰，人民出版社出版
+* 夏一巍(译). (2017).地点警务中的犯罪空间转移和利益扩散, 警务工作评估系统性回顾研究，刘建宏编撰，人民出版社出版）
+* 夏一巍(译). (2017).闭路电视监控对犯罪的打击效果, 犯罪干预与预防评估系统回顾研究，刘建宏编撰，人民出版社出版
 * 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,夏一巍, 澳门学青少年与药物：2014报告,澳门大学出版社) [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
 
 
@@ -37,4 +37,4 @@ published: true
 * Xia, Y., Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
 * Xia, Y. & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
 * 李德,夏一巍,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.
-* 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较. 
+* 李德,夏一巍,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较.
