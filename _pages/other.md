@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 其他 Other
+title: 其他 Others
 permalink: /other/
 author_profile: true
 redirect_from:
