@@ -24,10 +24,10 @@ Criminology & criminal justice：
 
 Addictive behavior & substance abuse：
 ======
- * Risk factors of addicted behavior
+ * Risk factors of addictive behavior
  * Estimating the size of drug users
  * Investigating the size and patterns of hidden drug user
- * Cross-boarder drug user in southeast China
+ * Cross-boarder drug user in the southwest China
 
 
 Juvenile delinquency
