@@ -17,12 +17,12 @@ published: true
 
 论文成果 Journal Articles 
 ======
-* Ma, Z., **Xia, Y**., & Lin, Z. (2019).Curvilinear Relationship Between Disaster Exposure and Psychological Growth:10 Years After the Wenchuan Earthquake. Psychiatry Research. DOI: 10.1016/j.psychres.2019.02.032
+* Ma, Z., **Xia, Y**., & Lin, Z. (2019).Curvilinear Relationship Between Disaster Exposure and Psychological Growth:10 Years After the Wenchuan Earthquake. Psychiatry Research. DOI: 10.1016/j.psychres.2019.02.032 (SSCI)
 * Cai, T., **Xia, Y.**, & Zhou, Y. (2018). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
 * Cai, T., **Xia, Y.**,(2018). Estimating the size of illicit drug user in Macau. Asian Journal of Criminology.https://doi.org/10.1007/s11417-018-9266-0 (SSCI)
 * Spencer D. Li, & **Yiwei Xia**. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 1043986218761959. https://doi.org/10.1177/1043986218761959 (SSCI) 
 * **Xia, Y.**; Li, S.D.; Liu, T.-H.(2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 15, 371. (SSCI) 
-* Li, S. D., Zhang, X., Tang, W., & **Xia, Y.** (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031
+* Li, S. D., Zhang, X., Tang, W., & **Xia, Y.** (2017). Predictors and Implications of Synthetic Drug Use Among Adolescents in the Gambling Capital of China. SAGE Open, 7(4), 2158244017733031 (SSCI)
 * 张小华, **夏一巍**, 吴光炜, 林游泳. 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响[J]. 中国药物依赖性杂志,2016,(3). 124, 291-296 CSCD CA
 * 李德, 唐伟, **夏一巍**,张小华. 澳门地区青少年吸食氯胺酮的模式以及相关因素[J]. 中国药物依赖性杂志,2016,(1). 124-131) CSCD CA
 * 李德,张小华,唐伟,**夏一巍**,林建. 澳门在学青少年合成毒品滥用问题及对策研究[J]. 中国药物依赖性杂志,2016,(1). 69-76 CSCD CA
