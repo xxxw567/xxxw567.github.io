@@ -29,8 +29,7 @@ Addictive behavior & substance abuse：
  * Investigating the size and patterns of hidden drug user
  * Cross-boarder drug user in the southwest China
 
-
-Juvenile delinquency
+Juvenile delinquency:
 ======
  * Delinquency among migrant children
  * Deviant peer network
