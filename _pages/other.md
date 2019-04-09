@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 其他 Others
+title: Others
 permalink: /other/
 author_profile: true
 redirect_from:
@@ -11,16 +11,16 @@ published: true
 {% include base_path %}
 
  
-服务 Services 
+Services 
 ======
-* 亚洲药物滥用研究学会秘书及终身会员
-* 亚洲犯罪学学会终身会员
-* The Association of Chinese Criminology and Criminal Justice (ACCCJ) 会员
-* 华人儿童发展研究学会秘书
+* Lifelong student member, Asian Association of Substance Abuse Research
+* Lifelong student member, Asian Criminological Society
+* Member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
+* Member, Chinese Society of Rearch on Chind Development 
 * Journal Reviewer: Asian journal of criminology, Int. J. Environ. Res. Public Health  
 
 
-获奖 Rewards
+Rewards
 ======
 * 2015年全国药物滥用防治会议，青年优秀论文一等奖  2015 
 * 2018年全国药物滥用防治会议，青年优秀论文一等奖  2018
@@ -28,25 +28,25 @@ published: true
 * 澳门大学博士研究生助学金 2012
 
 
-技能 Skills
+Skills
 ======
-* 数据处理和分析软件 Data processing：
+* Data processing：
   *	SPSS, STATA, Excel, SAS, Nvivo,R,Python
-* 建模软件 Modellings： 
+* Modellings： 
   *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
-* 数据录入及自动化 Input and audomization：
+* Input and audomization：
   *	Remark Office OCR, EPIdata, Quatrics
-* 数据库管理 Database：
+* Database：
   *	MS ACCESS, MySQL 5.6
-* 设计与网站维护 Website Design：
+* Website Design：
   *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
   *	Wordpress
-* 办公与文件编辑软件 Office and editting softwares：
-  *	Office (MS office, MS publisher), Rmarkdown(Markdown)
-* 基础编程软件 Programming：
+* Office and editting softwares：
+  *	Office (MS office, MS publisher), Rmarkdown(Markdown), Latex
+* Programming：
   *	C & C++ (NCRE 2)
 
-证书 Certificates
+Certificates
 ======
   * SAS base/ADV Programmer 
   * Statement of Accomplishment with distinguish on Structural Equation Model and its Applications, Chinese University of Hong Kong, 
