@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "教学 Teaching"
+title: Teaching
 permalink: /teaching/
 author_profile: true
+published: true
 ---
+
+Teaching
 
 * 澳门大学社会学系	*助教*	2013秋季
   * SOCY215 “Understanding Population”, 
