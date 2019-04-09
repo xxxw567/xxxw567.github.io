@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 演讲与报告 Talks and presentations
+title: Talks and presentations
 permalink: /talks/
 author_profile: true
 published: true
