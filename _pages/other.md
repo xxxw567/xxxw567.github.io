@@ -24,8 +24,8 @@ Rewards
 ======
 * 2015年全国药物滥用防治会议，青年优秀论文一等奖  2015 
 * 2018年全国药物滥用防治会议，青年优秀论文一等奖  2018
-* 澳门大学博士研究生助学金 2015
-* 澳门大学博士研究生助学金 2012
+* Master student scholarship, University of Macau, 2015
+* PhD student scholarship, University of Macau, 2012
 
 
 Skills
