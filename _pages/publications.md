@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-书籍与报告 Books & Reports
+Books & Reports
 ======
 
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li. Encyclopedia of Corrections. NJ: John Wiley & Sons
@@ -15,7 +15,7 @@ published: true
 * 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,**夏一巍**, 澳门学青少年与药物：2014报告,澳门大学出版社 [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
 
 
-论文成果 Journal Articles 
+Journal Articles 
 ======
 * Ma, Z., **Xia, Y**., & Lin, Z. (2019).Curvilinear Relationship Between Disaster Exposure and Psychological Growth:10 Years After the Wenchuan Earthquake. Psychiatry Research. DOI: 10.1016/j.psychres.2019.02.032 (SSCI)
 * Cai, T., **Xia, Y.**, & Zhou, Y. (2018). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
@@ -32,7 +32,7 @@ published: true
 * 张小华,**夏一巍**,叶嘉茵.澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角[J].青年研究,2015,03:30-38+95.) 核心 CSSCI
 * 蔡天骥,**夏一巍**. 基因与药物成瘾研究—以基因和环境交互模型为例，云南警官学院学报，两岸实地毒品问题研究专刊)
 
-工作论文（待刊论文） Working Papers
+Working Papers
 ======
 * **Xia, Y.**, Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
 * **Xia, Y.** & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
