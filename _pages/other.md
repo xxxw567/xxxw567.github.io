@@ -17,7 +17,7 @@ published: true
 * 亚洲犯罪学学会终身会员
 * The Association of Chinese Criminology and Criminal Justice (ACCCJ) 会员
 * 华人儿童发展研究学会秘书
-* Journal Reviewer: Asian journal of criminology,  Int. J. Environ. Res. Public Health  
+* Journal Reviewer: Asian journal of criminology, Int. J. Environ. Res. Public Health  
 
 
 
