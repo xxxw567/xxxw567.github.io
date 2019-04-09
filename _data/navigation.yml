@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "教育 Education"
+  - title: "Education"
     url: /education/
-  - title: "发表 Publications"
+  - title: "Publications"
     url: /publications/
-  - title: "报告 Presentations"
+  - title: "Presentations"
     url: /talks/    
-  - title: "教学 Teaching"
+  - title: "Teaching"
     url: /teaching/    
-  - title: "其他 Others"
+  - title: "Others"
     url: /other/      
-  - title: "博客 Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
