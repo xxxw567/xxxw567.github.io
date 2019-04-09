@@ -11,8 +11,6 @@ published: true
 
 {% include base_path %}
 
-Education 
-======
 
 * B.S. Law (Minor, BA in Law) SWULP, 2012 
 * B.S. Forensic Science (Major, BA in engineer)  SWULP, 2012 
