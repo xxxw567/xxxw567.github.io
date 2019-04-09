@@ -31,15 +31,15 @@ Awards
 Skills
 ======
 * Data processing：
-  *	SPSS, STATA, Excel, SAS, Nvivo,R,Python
+  *	STATA, Excel, SAS, Nvivo,R,Python, SPSS
 * Modellings： 
-  *	SEM (Lisrel), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
+  *	SEM (Lisrel, Mplus), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
 * Input and audomization：
   *	Remark Office OCR, EPIdata, Quatrics
 * Database：
   *	MS ACCESS, MySQL 5.6
 * Website Design：
-  *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator
+  *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator, Adobe After Effect
   *	Wordpress
 * Office and editting softwares：
   *	Office (MS office, MS publisher), Rmarkdown(Markdown), Latex
@@ -54,5 +54,7 @@ Certificates
 Specialization: Collect and analyze data, and communicate results, University of Michigan & University of Maryland
   * Coursera
 Specialization:Master Software Development in R, Johns Hopkins University, [Coursera](https://www.coursera.org/account/accomplishments/specialization/E4KC3523SXMA)
+  * Coursera
+Specialization:Mathematics for Machine Learning, Imperial College London, [Coursera](https://www.coursera.org/account/accomplishments/specialization/72XLFXWADA6W)
   * Applied Sociological Methodology (course include: STATA, R, linear regression, categorical regression, generalized linear model, survival analysis, propensity score matching), Hong Kong University of Science and Technology
   * Nvivo Training Certification
