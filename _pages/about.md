@@ -11,6 +11,8 @@ published: true
 
 Nemo, Xia Yiwei (夏一巍) is currently a PhD candidate at Department of Sociology University of Macau. He received a B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, a MA in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. His work has appeared in The China Review, Journal of contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests includes:
 
+
+
 Quantitative methods：
 ======
  * Develop statistical methods: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
