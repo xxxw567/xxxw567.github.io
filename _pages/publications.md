@@ -33,9 +33,3 @@ Journal Articles
 * 张小华,**夏一巍**,叶嘉茵.澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角[J].青年研究,2015,03:30-38+95.) 核心 CSSCI
 * 蔡天骥,**夏一巍**. 基因与药物成瘾研究—以基因和环境交互模型为例，云南警官学院学报，两岸实地毒品问题研究专刊)
 
-Working Papers
-======
-* **Xia, Y.**, Zhou, Y., Du, L & Cai, T., (初审中).Women traffickin. International Migration (SSCI)
-* **Xia, Y.** & Cai, T., (初审中). Effect of judge’s gender on rape sentencing: A data mining approach to analyze sentencing documents. Social Science Research (SSCI)
-* 李德,**夏一巍**,张小华,唐伟,梁敏,刘子瑄(初审中). 歧视与越轨的多重中介关系:应用一般紧张理论解释流动青少年的越轨行为.
-* 李德,**夏一巍**,刘子瑄,张小华 (初审中). 澳门在学青少年的滥药现状:中文与非中文学校学生之比较.
