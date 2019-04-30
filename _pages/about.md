@@ -32,5 +32,5 @@ Hey, I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Departm
  * Deviant peer network
  * Longitudinal peer networks
 
-## Positive psychology:
- * Post-traumatic growth & Post-traumatic stress 
+## Traumaic events:
+ * Cause and risk factors of Post-traumatic growth & Post-traumatic stress 
