@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-Hey, I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Department of Sociology University of Macau. I received a B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, a M.A. in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. My work has appeared in The China Review, Journal of contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests includes:
+Hey, I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Department of Sociology University of Macau. I received a B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, a M.A. in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. My work has appeared in The China Review, Journal of contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. My research interests includes:
 
 
 
@@ -32,5 +32,6 @@ Hey, I am Nemo, Xia Yiwei (夏一巍). I am currently a PhD candidate at Departm
  * Deviant peer network
  * Longitudinal peer networks
 
-## Traumaic events:
- * Cause and risk factors of Post-traumatic growth & Post-traumatic stress 
+## Communication:
+ * Cause and risk factors of Post-traumatic growth & Post-traumatic stress
+ * Behaviors of audiences and webcasts in online platform
