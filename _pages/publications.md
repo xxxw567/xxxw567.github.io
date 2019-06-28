@@ -18,6 +18,7 @@ Books & Reports
 
 Journal Articles 
 ======
+* Xia, Yiwei & Cai, Tianji & Zhong, Hua. (2019). Effect of Judges' Gender on Rape Sentencing: A Data Mining Approach to Analyze Judgment Documents*. China Review. 19. 125-149. 
 * Liu, T.-H., De Li, S., Zhang, X., & **Xia, Y**. (2019). The Spillover Mechanisms Linking Family Conflicts and Juvenile Delinquency Among Chinese Adolescents. International Journal of Offender Therapy and Comparative Criminology. https://doi.org/10.1177/0306624X19842057 (SSCI)
 * Ma, Z., **Xia, Y**., & Lin, Z. (2019).Curvilinear Relationship Between Disaster Exposure and Psychological Growth:10 Years After the Wenchuan Earthquake. Psychiatry Research. DOI: 10.1016/j.psychres.2019.02.032 (SSCI)
 * Cai, T., **Xia, Y.**, & Zhou, Y. (2018). Generalized Inflated Discrete Models: A Strategy to Work with Multimodal Discrete Distributions. Sociological methodology (SSCI)
