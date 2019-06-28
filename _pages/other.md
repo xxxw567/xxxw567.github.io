@@ -14,16 +14,16 @@ published: true
 Research projects & Grands 
 ======
 
-| Time        | Project Name                                                                                                   | Category                           | PI                  | Role  |
+| Time| Project Name| Category| PI| Role  |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------- | ----- |
-| 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究                                                 | 国家社科青年项目           | 王殿玺           | Co-PI |
-| 2015 – 2019 | Macau Social Survey                                                                                            | UM-MYRG                            | Spencer De Li       | Co-I  |
-| 2015-2019   | Family and Delinquency among Children of Migrant Workers in China: A Mixed Methods and Multidisciplinary Study | UM-MYRG                            | Spencer De Li       | Co-I  |
-| 2015-2016   | 广西新型毒品滥用与犯罪实证研究                                                                  | 中国法学会2015年度部级法学研究课题 | 张小华           | Co-PI |
-| 2014-2015   | Tracking Study of Students and Drugs in Macau 2014                                                             | UM, Macau SWB                      | Spencer De Li       | Co-I  |
-| 2014-2015   | Casino and Development in Asia                                                                                 | UM-MYRG                            | LU, Melody Chia-Wen | Co-I  |
-| 2014-2015   | A Qualitative and Quantitative Study of Family Processes and Juvenile Delinquency in China                     | UM-MYRG                            | Spencer De Li       | Co-I  |
-| 2013-2015   | Effects of genetic architecture and occupation on cognitive functioning                                        | UM-MYRG                            | Spencer De Li       | Co-I  |
+| 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究| 国家社科青年项目| 王殿玺| Co-PI |
+| 2015–2019 | Macau Social Survey| UM-MYRG| Spencer De Li| Co-I  |
+| 2015-2019| Family and Delinquency among Children of Migrant Workers in China: A Mixed Methods and Multidisciplinary Study | UM-MYRG| Spencer De Li| Co-I  |
+| 2015-2016| 广西新型毒品滥用与犯罪实证研究| 中国法学会2015年度部级法学研究课题 | 张小华| Co-PI |
+| 2014-2015| Tracking Study of Students and Drugs in Macau 2014| UM, Macau SWB| Spencer De Li| Co-I  |
+| 2014-2015| Casino and Development in Asia| UM-MYRG| LU, Melody Chia-Wen | Co-I  |
+| 2014-2015| A Qualitative and Quantitative Study of Family Processes and Juvenile Delinquency in China| UM-MYRG| Spencer De Li| Co-I  |
+| 2013-2015| Effects of genetic architecture and occupation on cognitive functioning| UM-MYRG| Spencer De Li|Co-I|
 | 2013| Political reform in China| UM-MYRG| Hao Zhidong| Co-I  |
 
 
