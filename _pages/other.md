@@ -10,8 +10,8 @@ published: true
 
 {% include base_path %}
 
-Research projects & Grands 
 
+Research projects & Grands 
 ======
 
 | Time        | Project Name                                                                                                   | Category                           | PI                  | Role  |
@@ -24,8 +24,8 @@ Research projects & Grands
 | 2014-2015   | Casino and Development in Asia                                                                                 | UM-MYRG                            | LU, Melody Chia-Wen | Co-I  |
 | 2014-2015   | A Qualitative and Quantitative Study of Family Processes and Juvenile Delinquency in China                     | UM-MYRG                            | Spencer De Li       | Co-I  |
 | 2013-2015   | Effects of genetic architecture and occupation on cognitive functioning                                        | UM-MYRG                            | Spencer De Li       | Co-I  |
-| 2013        | Political reform in China                                                                                      | UM-MYRG                            | Hao Zhidong         | Co-I  |
-|             |                                                                                                                |                                    |                     |       |
+| 2013| Political reform in China| UM-MYRG| Hao Zhidong| Co-I  |
+
 
  
 Services 
