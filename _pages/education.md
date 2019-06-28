@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Education and projects
+title: Education
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -16,5 +16,3 @@ published: true
 * B.S. Forensic Science (Major, BA in engineer)  SWULP, 2012 
 * M.S. Crminology, University of Macau, 2014 
 * Ph.D Sociology, University of Macau, 2019
-
-
