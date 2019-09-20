@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, an M.A. in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. His work has appeared in The China Review, Journal of Contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include:
+Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, an M.A. in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. His work appears in The China Review, Journal of Contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include:
 
 ## Quantitative methods：
  * Developing statistical methods: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
@@ -18,7 +18,7 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
 
 ## Criminology & criminal justice：
  * Criminal justice procedure
- * Influences of extral-legal factors on sentencing outcomes
+ * Influences of extra-legal factors on sentencing outcomes
 
 ## Addictive behavior & substance abuse：
  * Risk factors of addictive behavior
