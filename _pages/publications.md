@@ -8,7 +8,7 @@ published: true
 
 Books, book chapters & Reports
 ======
-* 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠,澳門在學青少年與藥物調查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
+* 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠,澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
 * Liang, M., **Xia, Y.**, & Li, S.D. (2019). Community safety, collective efficacy, and adolescent victimization. In Y. Li & P. Yue (Eds.), Criminological Forum, Volume 5 (pp. 394-402). Beijing: China Legal Publishing House (梁敏、**夏一巍**、李德。社区安全，集体效益与青少年被害研究。严励、越平主編：《犯罪学论坛 第五卷》，394-402页，中国法治出版社).
 * **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,中国家庭教养方式与青少年发展，李德等编撰，社会科学出版社出版
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li. Encyclopedia of Corrections. NJ: John Wiley & Sons
