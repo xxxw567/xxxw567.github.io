@@ -12,7 +12,7 @@ published: true
 {% include base_path %}
 
 
-* B.S. Law (Minor, BA in Law) SWULP, 2012 
-* B.S. Forensic Science (Major, BA in engineer)  SWULP, 2012 
-* M.S. Crminology, University of Macau, 2014 
-* Ph.D Sociology, University of Macau, 2019
+* B.S. Law (Minor, BA in Law) SWUPL, 2012 
+* B.S. Forensic Science (Major, BA in engineer)  SWUPL, 2012 
+* M.S. Criminology, University of Macau, 2014 
+* Ph.D. Sociology, University of Macau, 2019
