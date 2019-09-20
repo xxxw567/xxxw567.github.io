@@ -29,7 +29,7 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
 ## Juvenile delinquency:
  * Delinquency among migrant children
  * Deviant peer network
- * Longitudinal peer networks
+ * Longitudinal peer network
 
 ## Communication:
  * Causes and risk factors of Post-traumatic growth & Post-traumatic stress
