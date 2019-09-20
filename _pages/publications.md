@@ -8,7 +8,7 @@ published: true
 
 Books, book chapters & Reports
 ======
-* Liang, M., **Xia, Y.**, & Li, S.D. (2019). Community safety, collective efficacy, and adolescent victimization. In Y. Li & P. Yue (Eds.), Criminological Forum, Volume 5 (pp. 394-402). Beijing: China Legal Publishing House (梁敏、**夏一巍**、李德。社區安全、集體效益與青少年被害研究。嚴勵、越平主編：《犯罪學論壇 第五卷》，394-402頁，中國法制出版社).
+* Liang, M., **Xia, Y.**, & Li, S.D. (2019). Community safety, collective efficacy, and adolescent victimization. In Y. Li & P. Yue (Eds.), Criminological Forum, Volume 5 (pp. 394-402). Beijing: China Legal Publishing House (梁敏、**夏一巍**、李德。社区安全，集体效益与青少年被害研究。严励、越平主編：《犯罪学论坛 第五卷》，394-402页，中国法治出版社).
 * **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,中国家庭教养方式与青少年发展，李德等编撰，社会科学出版社出版
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li. Encyclopedia of Corrections. NJ: John Wiley & Sons
 * **夏一巍**(译). (2017).地点警务中的犯罪空间转移和利益扩散, 警务工作评估系统性回顾研究，刘建宏编撰，人民出版社出版）
