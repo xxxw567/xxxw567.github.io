@@ -33,7 +33,7 @@ Services
 * Lifelong student member, Asian Association of Substance Abuse Research
 * Lifelong student member, Asian Criminological Society
 * Member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
-* Member, Chinese Society of Rearch on Chind Development 
+* Member, Chinese Society of Research on Child Development 
 * Journal Reviewer: Asian journal of criminology, Int. J. Environ. Res. Public Health  
 
 
@@ -42,7 +42,7 @@ Awards
 * 2015年全国药物滥用防治会议，青年优秀论文一等奖，2015 
 * 2018年全国药物滥用防治会议，青年优秀论文三等奖，2018
 * Master student scholarship, University of Macau, 2015
-* PhD student scholarship, University of Macau, 2012
+* Ph.D. student scholarship, University of Macau, 2012
 
 
 Skills
@@ -70,8 +70,8 @@ Certificates
   * Coursera
 Specialization: Collect and analyze data, and communicate results, University of Michigan & University of Maryland
   * Coursera
-Specialization:Master Software Development in R, Johns Hopkins University, [Coursera](https://www.coursera.org/account/accomplishments/specialization/E4KC3523SXMA)
+Specialization: Master Software Development in R, Johns Hopkins University, [Coursera](https://www.coursera.org/account/accomplishments/specialization/E4KC3523SXMA)
   * Coursera
-Specialization:Mathematics for Machine Learning, Imperial College London, [Coursera](https://www.coursera.org/account/accomplishments/specialization/72XLFXWADA6W)
+Specialization: Mathematics for Machine Learning, Imperial College London, [Coursera](https://www.coursera.org/account/accomplishments/specialization/72XLFXWADA6W)
   * Applied Sociological Methodology (course include: STATA, R, linear regression, categorical regression, generalized linear model, survival analysis, propensity score matching), Hong Kong University of Science and Technology
   * Nvivo Training Certification
