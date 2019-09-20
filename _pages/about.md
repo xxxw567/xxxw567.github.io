@@ -14,7 +14,7 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
 ## Quantitative methods：
  * Developing statistical methods: [Generalized Inflation Discreet Models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
  * Applying new types of data in social sciences: [judical documents](https://github.com/xxxw567/legalwordproc/), [facial analysis](https://github.com/xxxw567/face_analysis),
- Danmaku of Online webcasts platform[content analysis](https://github.com/xxxw567/zhibotool)
+ [Danmaku of Online webcasts platform, a content analysis](https://github.com/xxxw567/zhibotool)
 
 ## Criminology & criminal justice：
  * Criminal justice procedure
