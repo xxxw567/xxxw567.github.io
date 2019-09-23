@@ -31,6 +31,6 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
  * Deviant peer network
  * Longitudinal peer network
 
-## Healthy communication:
+## Health communication:
  * Causes and risk factors of Post-traumatic growth & Post-traumatic stress
  * Behaviors of audiences and webcasts in the online platform
