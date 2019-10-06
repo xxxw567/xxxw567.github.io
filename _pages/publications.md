@@ -19,7 +19,7 @@ Book Chapters, Conference Proceedings & Reports
 
 Journal Articles 
 ======
-* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究,(5).**（CSSCI）**
+* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5).**（CSSCI）**
 * **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. Stata Journal, 19(3):698-718. **（SSCI）**
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI）**
 * **Xia, Y.**, Zhou, Y., Du, L., & Cai, T. (2019). Mapping Trafficking of Women in China: Evidence from Court Sentences. Journal of Contemporary China, 1-15. **（SSCI）**
