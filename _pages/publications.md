@@ -11,6 +11,7 @@ Book chapters & Reports
 * 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
 * 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
 * **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,李德等编撰:《中国家庭教养方式与青少年发展》,社会科学出版社
+* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li.《Encyclopedia of Corrections》. NJ: John Wiley & Sons
 * **夏一巍**(译). (2017).地点警务中的犯罪空间转移和利益扩散,刘建宏编撰:《警务工作评估系统性回顾研究》，人民出版社
 * **夏一巍**(译). (2017).闭路电视监控对犯罪的打击效果,刘建宏编撰:《犯罪干预与预防评估系统回顾研究》，人民出版社
@@ -18,6 +19,7 @@ Book chapters & Reports
 
 Journal Articles 
 ======
+* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究,(5).**（CSSCI）**
 * **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. Stata Journal, 19(3):698-718. **（SSCI）**
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI）**
 * **Xia, Y.**, Zhou, Y., Du, L., & Cai, T. (2019). Mapping Trafficking of Women in China: Evidence from Court Sentences. Journal of Contemporary China, 1-15. **（SSCI）**
