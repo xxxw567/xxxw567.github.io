@@ -19,7 +19,6 @@ Book Chapters, Conference Proceedings & Reports
 
 Journal Articles 
 ======
-* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5).**（CSSCI）**
 * **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. Stata Journal, 19(3):698-718. **（SSCI）**
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI）**
 * **Xia, Y.**, Zhou, Y., Du, L., & Cai, T. (2019). Mapping Trafficking of Women in China: Evidence from Court Sentences. Journal of Contemporary China, 1-15. **（SSCI）**
@@ -31,6 +30,7 @@ Journal Articles
 * Li, S. D., & **Xia, Y**. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 34(2), 128-147. **（SSCI）**
 * **Xia, Y.**; Li, S.D.; Liu, T.-H. (2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 15, 371. **（SSCI）**
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI）**
+* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5).**（CSSCI）**
 * 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响. 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
 * 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素. 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
 * 李德, 张小华, 唐伟, **夏一巍**, & 林建. (2016). 澳门在学青少年合成毒品滥用问题及对策研究. 中国药物依赖性杂志, 25(1), 69-76. **（CSCD）**
