@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-Book chapters & Reports
+Book Chapters, Conference Proceedings & Reports
 ======
 * 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
 * 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
