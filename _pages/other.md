@@ -42,8 +42,8 @@ Awards
 * 第十四届中国青少年发展论坛，优秀论文三等奖，2018
 * 2018年全国药物滥用防治会议，青年优秀论文三等奖，2018
 * 2015年全国药物滥用防治会议，青年优秀论文一等奖，2015 
-* Master scholarship, University of Macau, 2015
-* Ph.D. scholarship, University of Macau, 2012
+* Ph.D. scholarship, University of Macau, 2015
+* Master scholarship, University of Macau, 2012
 
 
 Skills
