@@ -24,13 +24,14 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
  * Risk factors of addictive behavior
  * Estimating the size of drug users
  * Investigating the patterns of hidden drug user
- * Cross-border drug users in southwest China
+ * Cross-border drug users in Southwestern China
 
 ## Juvenile delinquency:
  * Delinquency among migrant children
  * Deviant peer network
  * Longitudinal peer network
 
-## Health communication:
+## Public health & health communication:
  * Causes and risk factors of Post-traumatic growth & Post-traumatic stress
  * Behaviors of audiences and webcasts in the online platform
+ * Psychological well-being of migrant population
