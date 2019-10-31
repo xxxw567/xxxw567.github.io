@@ -16,6 +16,7 @@ Research projects & Grands
 
 | Time| Project Name| Category| PI| Role  |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------- | ----- |
+| 2019-       | 般紧张理论视角下歧视与流动青少年越轨行为的关系| 中央高校科研启动基金| 夏一巍| Co-PI |
 | 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究| 国家社科青年项目| 王殿玺| Co-PI |
 | 2015–2019 | Macau Social Survey| UM-MYRG| Spencer De Li| Co-I  |
 | 2015-2019| Family and Delinquency among Children of Migrant Workers in China: A Mixed Methods and Multidisciplinary Study | UM-MYRG| Spencer De Li| Co-I  |
