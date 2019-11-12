@@ -31,7 +31,7 @@ Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school o
  * Deviant peer network
  * Longitudinal peer network
 
-## Public health & health communication:
+## Demography & Public health:
  * Causes and risk factors of Post-traumatic growth & Post-traumatic stress
  * Behaviors of audiences and webcasts in the online platform
  * Psychological well-being of migrant population
