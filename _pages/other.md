@@ -35,7 +35,7 @@ Services
 * Lifelong student member, Asian Criminological Society
 * Member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology, Int. J. Environ. Res. Public Health  
+* Journal Reviewer: Asian journal of criminology, Int. J. Environ. Res. Public Health , Crime & Delinquency
 
 
 Awards
