@@ -8,6 +8,8 @@ published: true
 
 Conference presentations
 ======
+* 夏一巍 & 辛晏毓,"大数据"还是"小数据"：实证法律研究的方法论困境及其解决方法, 第三届数据法学年会, 2019,南京, 中国 
+* 夏一巍, 广义膨胀离散模型（GIDM）: 一种多峰离散分布的建模方式, 2019社会学年会《社会学定量研究前沿与交叉：案例、方法和前沿》分论坛，2019，云南,中国 
 * Xia Yiwei & Zhang Xiaohua, Evaluating the pre-sentence investigation report in Chinesejuvenile criminal system: A quasi-experiment Study, 2019, Cebu, Philippines 
 * Xia Yiwei, Cai Tianji & Li Fuming, Mapping the routine of Women trafficking:Evidence from Court, The 10h annual meeting of Asian Criminological Society, 2018, Penang, Malaysia
 * Xia Yiwei, Cai Tianji, Effect of judge’s gender on rape sentencing: A data mining approach to analyze judgment documents, The 9h annual meeting of Asian Criminological Society, 2017, Cairns, Australia
