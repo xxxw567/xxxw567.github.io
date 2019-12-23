@@ -35,7 +35,7 @@ Services
 * Lifelong student member, Asian Criminological Society
 * Member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD, Biomedical and Environmental Sciences(BES)
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES)
 
 
 Awards
