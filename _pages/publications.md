@@ -34,6 +34,7 @@ Journal Articles
 * Li, S. D., & **Xia, Y**. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 34(2), 128-147. **（SSCI）**
 * **Xia, Y.**; Li, S.D.; Liu, T.-H. (2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 15, 371. **（SSCI）**
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI）**
+* 张小华,**夏一巍**,黄开诚,陈立毅.罪错未成年人分级分类机制的完善——基于行为频次和严重程度的考察.少年儿童研究,2019(12):23-31.
 * **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5).**（CSSCI）**
 * 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响. 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
 * 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素. 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
