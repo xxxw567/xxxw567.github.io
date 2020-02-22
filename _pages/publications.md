@@ -29,7 +29,7 @@ Journal Articles
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI）**
 * **Xia, Y.**, Zhou, Y., Du, L., & Cai, T. (2019). Mapping Trafficking of Women in China: Evidence from Court Sentences. Journal of Contemporary China, 1-15. **（SSCI）**
 * **Xia, Y.**, Cai, T., & Zhong, H. (2019). Effect of Judges’ Gender on Rape Sentencing. China Review, 19(2), 125-150. **（SSCI）**
-* Liu, T. H., De Li, S., Zhang, X., & **Xia, Y***. (2019). The spillover mechanisms linking family conflicts and juvenile delinquency among Chinese adolescents. International journal of offender therapy and comparative criminology, 0306624X19842057. **（SSCI）**
+* Liu, T. H., De Li, S., Zhang, X., & **Xia, Y**. (2019). The spillover mechanisms linking family conflicts and juvenile delinquency among Chinese adolescents. International journal of offender therapy and comparative criminology, 0306624X19842057. **（SSCI）**
 * Ma, Z., **Xia, Y.**, & Lin, Z. (2019). Curvilinear relationship between disaster exposure and psychological growth: 10 years after the Wenchuan earthquake. Psychiatry research, 274, 280-286. **（SSCI）**
 * Cai, T.,**Xia, Y.**, & Zhou, Y. (2018). Generalized inflated discrete models: a strategy to work with multimodal discrete distributions. Sociological Methods & Research, 0049124118782535. **（SSCI）**
 * Cai, T., & **Xia, Y**. (2018). Estimating Size of Drug Users in Macau: An Open Population Capture-Recapture Model with Data Augmentation Using Public Registration Data. Asian Journal of Criminology, 13(3), 193-206. **（SSCI）**
