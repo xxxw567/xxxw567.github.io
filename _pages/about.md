@@ -9,10 +9,10 @@ redirect_from:
 published: true
 ---
 
-Xia Yiwei (夏一巍), Nemo, is currently an assistant professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), China, an M.A. in Criminology (2015) and a Ph.D. in Sociology (2019) from University of Macau. His work appears in China Review, Journal of Contemporary China, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include:
+Xia Yiwei (夏一巍), Nemo, is currently an associate professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), M.A. in Criminology (2015), and Ph.D. in Sociology (2019) from University of Macau. His work appears in China Review, Journal of Contemporary China, Stata Journal,  Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include:
 
 ## Quantitative methods：
- * Developing statistical methods: [Generalized inflated discrete models](https://journals-sagepub-com.libezproxy.umac.mo/doi/full/10.1177/0049124118782535)
+ * Developing statistical methods: [Generalized inflated discrete models](https://journals.sagepub.com/doi/abs/10.1177/1536867X19874246)
  * Applying new types of data in social sciences: [Judical documents](https://github.com/xxxw567/legalwordproc/), [Facial analysis](https://github.com/xxxw567/face_analysis),
  [Danmaku](https://github.com/xxxw567/zhibotool)
 
