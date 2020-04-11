@@ -11,34 +11,25 @@ published: true
 {% include base_path %}
 
 
-Research projects & Grands 
+Research projects and grands 
 ======
 
 | Time| Project Name| Category| PI| Role  |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------- | ----- |
 | 2019-       | 一般紧张理论视角下歧视与流动青少年越轨行为的关系| 中央高校科研启动基金| 夏一巍| PI |
 | 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究| 国家社科青年项目| 王殿玺| Co-PI |
-| 2015–2019 | Macau Social Survey| UM-MYRG| Spencer De Li| Co-I  |
-| 2015-2019| Family and Delinquency among Children of Migrant Workers in China: A Mixed Methods and Multidisciplinary Study | UM-MYRG| Spencer De Li| Co-I  |
 | 2015-2016| 广西新型毒品滥用与犯罪实证研究| 中国法学会2015年度部级法学研究课题 | 张小华| Co-PI |
-| 2014-2015| Tracking Study of Students and Drugs in Macau 2014| UM, Macau SWB| Spencer De Li| Co-I  |
-| 2014-2015| Casino and Development in Asia| UM-MYRG| LU, Melody Chia-Wen | Co-I  |
-| 2014-2015| A Qualitative and Quantitative Study of Family Processes and Juvenile Delinquency in China| UM-MYRG| Spencer De Li| Co-I  |
-| 2013-2015| Effects of genetic architecture and occupation on cognitive functioning| UM-MYRG| Spencer De Li|Co-I|
-| 2013| Political reform in China| UM-MYRG| Hao Zhidong| Co-I  |
 
-
- 
-Services 
+Professional activities 
 ======
 * Lifelong student member, Asian Association of Substance Abuse Research
 * Lifelong student member, Asian Criminological Society
 * Member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ, Journal of Contemporary China (JCC)
 
 
-Awards
+Honors and awards
 ======
 * 第十四届中国青少年发展论坛，优秀论文三等奖，2018
 * 2018年全国药物滥用防治会议，青年优秀论文三等奖，2018
@@ -50,7 +41,7 @@ Awards
 Skills
 ======
 * Data processing：
-  *	STATA, Excel, SAS, Nvivo,R,Python, SPSS
+  *	STATA, Excel, SAS, Nvivo,R,SPSS
 * Modelling： 
   *	SEM (Lisrel, Mplus), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
 * Input and audomization：
@@ -59,7 +50,7 @@ Skills
   *	MS ACCESS, MySQL 5.6
 * Website Design：
   *	Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator, Adobe After Effect
-  *	Wordpress
+  *	Wordpress, jekyll
 * Office and editting software：
   *	Office (MS office, MS publisher), Rmarkdown(Markdown), Latex
 * Programming：
@@ -67,7 +58,7 @@ Skills
 
 Certificates
 ======
-  * SAS base/ADV Programmer 
+  * SAS certificate base/ADV Programmer 
   * Statement of Accomplishment with distinguish on Structural Equation Model and its Applications, Chinese University of Hong Kong, 
   * Coursera
 Specialization: Collect and analyze data, and communicate results, University of Michigan & University of Maryland
