@@ -23,7 +23,7 @@ Book Chapters, Conference Proceedings & Reports
 
 Journal Articles 
 ======
-* Xiong, R.; Li, S.D.; **Xia, Y*** . A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency and Crime Victimization among Chinese Adolescents. Int. J. Environ. Res. Public Health 2020, 17, 1405. **（SSCI）**
+* Xiong, R.; Li, S.D.; **Xia, Y*** . (2020). A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency and Crime Victimization among Chinese Adolescents. Int. J. Environ. Res. Public Health, 17, 1405. **（SSCI）**
 * **Xia, Y.**, & Ma, Z. (2020). Social integration, perceived stress, locus of control, and psychological wellbeing among Chinese emerging adult migrants: A conditional process analysis. Journal of Affective Disorders. 267, 9-16 .doi:https://doi.org/10.1016/j.jad.2020.02.016. **（SSCI）**
 * **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. Stata Journal, 19(3):698-718. **（SSCI）**
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI）**
@@ -34,10 +34,10 @@ Journal Articles
 * Cai, T.,**Xia, Y.**, & Zhou, Y. (2018). Generalized inflated discrete models: a strategy to work with multimodal discrete distributions. Sociological Methods & Research, 0049124118782535. **（SSCI）**
 * Cai, T., & **Xia, Y**. (2018). Estimating Size of Drug Users in Macau: An Open Population Capture-Recapture Model with Data Augmentation Using Public Registration Data. Asian Journal of Criminology, 13(3), 193-206. **（SSCI）**
 * Li, S. D., & **Xia, Y**. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 34(2), 128-147. **（SSCI）**
-* **Xia, Y.**; Li, S.D.; Liu, T.-H. (2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health 15, 371. **（SSCI）**
+* **Xia, Y.**; Li, S.D.; Liu, T.-H. (2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. Int. J. Environ. Res. Public Health, 15, 371. **（SSCI）**
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI）**
 * 张小华,**夏一巍**,黄开诚,陈立毅.罪错未成年人分级分类机制的完善——基于行为频次和严重程度的考察.少年儿童研究,2019(12):23-31.
-* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5).**（CSSCI）**
+* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5):54-62+95.**（CSSCI）**
 * 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响. 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
 * 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素. 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
 * 李德, 张小华, 唐伟, **夏一巍**, & 林建. (2016). 澳门在学青少年合成毒品滥用问题及对策研究. 中国药物依赖性杂志, 25(1), 69-76. **（CSCD）**

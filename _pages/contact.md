@@ -14,7 +14,7 @@ published: true
 **Office:**  
 四川成都温江柳台大道555号，西南财经大学，致知楼203号
 
-Room 203, Zhizhi building, Southwestern university of Finance and Economics, 
+Room 203, Zhizhi building, Southwestern University of Finance and Economics, 
 555, Liutai Avenue, Wenjiang District, Chengdu, Sichuan, P. R. China
 
 **Email:**  
