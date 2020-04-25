@@ -9,29 +9,5 @@ redirect_from:
 published: true
 ---
 
-Xia Yiwei (夏一巍), Nemo, is currently an associate professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in Law and Engineering (Forensic Science) (2012) from Southwest University of Political Science and Law (SWUPL), M.A. in Criminology (2015), and Ph.D. in Sociology (2019) from University of Macau. His work appears in China Review, Journal of Contemporary China, Stata Journal,  Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include:
+Xia Yiwei (夏一巍), Nemo, is currently an associate professor at the school of law, Southwestern University of Finance and Economics. He received B.A. in  Engineering (Forensic Science) and Law (2012) from Southwest University of Political Science and Law (SWUPL), M.A. in Criminology (2015), and Ph.D. in Sociology (2019) from University of Macau. His work appears in China Review, Journal of Contemporary China, Stata Journal, Sociological Methodological Review, Journal of Contemporary Criminal Justice, Asian Journal of Criminology, etc. His research interests include quantitative method, juvenile delinquency, addictive behavior, substance abuse, criminology & criminal justice, and social demography.
 
-## Quantitative methods：
- * Developing statistical methods: [Generalized inflated discrete models](https://journals.sagepub.com/doi/abs/10.1177/1536867X19874246)
- * Applying new types of data in social sciences: [Judical documents](https://github.com/xxxw567/legalwordproc/), [Facial analysis](https://github.com/xxxw567/face_analysis),
- [Danmaku](https://github.com/xxxw567/zhibotool)
-
-## Criminology & criminal justice：
- * Criminal justice procedure
- * Influences of extra-legal factors on sentencing outcomes
-
-## Addictive behavior & substance abuse：
- * Risk factors of addictive behavior
- * Estimating the size of drug users
- * Investigating the patterns of hidden drug user
- * Cross-border drug users in Southwestern China
-
-## Juvenile delinquency:
- * Delinquency among migrant children
- * Deviant peer network
- * Longitudinal peer network
-
-## Demography & Public health:
- * Causes and risk factors of Post-traumatic growth & Post-traumatic stress
- * Behaviors of audiences and webcasts in the online platform
- * Psychological well-being of migrant population
