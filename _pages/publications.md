@@ -35,6 +35,7 @@ Journal Articles
 
 English 
 
+* Chen, X., & **Xia, Y.** (2020). Onset and Severity of Spousal Violence Among Chinese Migrant Families: A Zero-Inflated Poisson Model. International Annals of Criminology, 1-13. doi:10.1017/cri.2020.4
 * Li, S.D.; **Xia, Y.**; Xiong, R.;Li, J.;Chen, Y. (2020). Coercive Parenting and Adolescent Developmental Outcomes: The Moderating Effects of Empathic Concern and Perception of Social Rejection. International Journal of Environmental Research and Public Health, 17, 3538. **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
 * Xiong, R.; Li, S.D.; **Xia, Y*** . (2020). A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency and Crime Victimization among Chinese Adolescents. International Journal of Environmental Research and Public Health, 17, 1405. **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
 * **Xia, Y.**, & Ma, Z. (2020). Social integration, perceived stress, locus of control, and psychological wellbeing among Chinese emerging adult migrants: A conditional process analysis. Journal of Affective Disorders. 267, 9-16 .doi:https://doi.org/10.1016/j.jad.2020.02.016. **（SSCI, Q1 in PSYCHIATRY, IF = 4.084, 5-Year IF = 4.016, 2018 JCR）**
