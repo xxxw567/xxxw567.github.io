@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: Presentations & Talks
+title: Presentation & Talk
 permalink: /talks/
 author_profile: true
 published: true
 ---
 
-Conference presentations
+Conference presentation
 ======
 * **夏一巍** & 辛晏毓,"大数据"还是"小数据"：实证法律研究的方法论困境及其解决方法, 第三届数据法学年会, 2019,南京, 中国 
 * **夏一巍**, 广义膨胀离散模型（GIDM）: 一种多峰离散分布的建模方式, 2019社会学年会《社会学定量研究前沿与交叉：案例、方法和前沿》分论坛，2019，云南,中国 
@@ -20,7 +20,7 @@ Conference presentations
 * Cai Tianji, **Xia Yiwei**, Estimating size of illicit drug users in Macau, The 7th annual meeting of Asian Criminological Society, 2014, Hong Kong.
 * **Xia Yiwei**, Cai Tianji, Xin Yanyu, Estimating size of illicit drug users: Does the effect of capture heterogeneity matter? The 6th annual meeting of Asian Criminological Society, 2014, Osaka, Japan
 
-Invited talks
+Invited talk
 ======
 * **夏一巍**，2018-6-14，法学实证研究设计与论文写作, 中国检察官学院广西分院
 * **夏一巍**，2018-12-11，中国拐卖妇女儿童的映射—法院判决的依据, 西南财经大学法学院

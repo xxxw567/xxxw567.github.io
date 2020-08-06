@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: Publications
-permalink: /publications/
+permalink: /publication/
 author_profile: true
 published: true
 ---
 
-Book Chapters
+Book Chapter
 ======
 
 * **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,李德等编撰:《中国家庭教养方式与青少年发展》,社会科学出版社
@@ -14,7 +14,7 @@ Book Chapters
 * **夏一巍**(译). (2017).闭路电视监控对犯罪的打击效果,刘建宏编撰:《犯罪干预与预防评估系统回顾研究》，人民出版社
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li.《Encyclopedia of Corrections》. NJ: John Wiley & Sons
 
-Conference Proceedings
+Conference Proceeding
 ======
 * 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究,2019年全国药物滥用防治协研讨会会议论文集
 * 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為,2019年全国药物滥用防治协研讨会会议论文集
@@ -23,7 +23,7 @@ Conference Proceedings
 * 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
 
 
-Reports
+Report
 ======
 * 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,**夏一巍**, 澳门学青少年与药物：2014报告,澳门大学出版社 [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
 * 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
