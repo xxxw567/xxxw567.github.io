@@ -35,6 +35,7 @@ Journal Articles
 
 English 
 
+* **Xia, Y.** & Ma. Z (2020). Relative deprivation, social exclusion, and quality of life among Chinese internal migrants. Public Health,186, 129-136. doi:10.1016/j.puhe.2020.05.038 **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 1.774, 5-Year IF = 1.984, 2019 JCR）**
 * Chen, X., & **Xia, Y.** (2020). Onset and Severity of Spousal Violence Among Chinese Migrant Families: A Zero-Inflated Poisson Model. International Annals of Criminology, 1-13. doi:10.1017/cri.2020.4
 * Li, S.D.; **Xia, Y.**; Xiong, R.;Li, J.;Chen, Y. (2020). Coercive Parenting and Adolescent Developmental Outcomes: The Moderating Effects of Empathic Concern and Perception of Social Rejection. International Journal of Environmental Research and Public Health, 17, 3538. **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
 * Xiong, R.; Li, S.D.; **Xia, Y*** . (2020). A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency and Crime Victimization among Chinese Adolescents. International Journal of Environmental Research and Public Health, 17, 1405. **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
