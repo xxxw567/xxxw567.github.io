@@ -50,7 +50,7 @@ English
 * Cai, T., & **Xia, Y**. (2018). Estimating Size of Drug Users in Macau: An Open Population Capture-Recapture Model with Data Augmentation Using Public Registration Data. Asian Journal of Criminology, 13(3), 193-206. **（SSCI, Q4 in CRIMINOLOGY & PENOLOGY, IF = 0.618, 5-Year IF = n/a, 2018 JCR）**
 * Li, S. D., & **Xia, Y**. (2018). Understanding the Link Between Discrimination and Juvenile Delinquency Among Chinese Migrant Children. Journal of Contemporary Criminal Justice, 34(2), 128-147. **（SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.000, 5-Year IF = 2.018, 2018 JCR）**
 * **Xia, Y.**; Li, S.D.; Liu, T.-H. (2018).The Interrelationship between Family Violence, Adolescent Violence, and Adolescent Violent Victimization: An Application and Extension of the Cultural Spillover Theory in China. International Journal of Environmental Research and Public Health, 15, 371.  **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
-* Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q1 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
+* Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
 
