@@ -35,7 +35,7 @@ Journal Articles
 
 English 
 
-*  Ma Z. & **Xia Y.\*** (2020) Acculturation Strategies, Age at Migration, and Self-rated Health: An Empirical Study on Internal Migrants in China, DOI: 10.1016/j.ssresearch.2020.102487**（SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, 2019 JCR）**
+*  Ma Z. & **Xia Y.\*** (2020) Acculturation Strategies, Age at Migration, and Self-rated Health: An Empirical Study on Internal Migrants in China, Social Science Review，DOI: 10.1016/j.ssresearch.2020.102487**（SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, 2019 JCR）**
 * Wang K., **Xia Y.** & Ma Z. (2020) Development and validation of the Chinese public official strain scale, Journal of Criminal Justice, DOI: 10.1016/j.jcrimjus.2020.101753**（SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 2.935, 5-Year IF = 3.544, 2019 JCR）**
 * Wang K., Ma Z. & **Xia Y.\***. (2020) General Strain Theory and Corruption among Grassroot Chinese Public Officials: A Mixed-method Study, Deviant Behavior, DOI: 10.1080/01639625.2020.1839818 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.348, 5-Year IF = 1.501, 2019 JCR）**
 * **Xia, Y.** & Ma. Z (2020). Relative deprivation, social exclusion, and quality of life among Chinese internal migrants. Public Health,186, 129-136. doi:10.1016/j.puhe.2020.05.038 **（SSCI, Q2 in PUBLIC, ENVIORONMENTAL & OCCUPATIONAL HEALTH, IF = 1.774, 5-Year IF = 1.984, 2019 JCR）**
