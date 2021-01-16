@@ -8,7 +8,9 @@ published: true
 
 Conference presentation
 ======
-
+* **Xia Yiwei**,Ma Zhihao & Wang Kangqing, General Strain Theory and Corruption among Grassroots Chinese Public
+Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
+* **Xia Yiwei**, Mengliang Dai & Rongxu Han, The Impact of COVID-19 on the 110 Calls for Police Service in China, The 11h annual meeting of Asian Criminological Society, The 1st ACCCJ Online Conference, 2021, ZOOM
 * **夏一巍** ,一般紧张理论视野下的压力与基层公职人员腐败犯罪：多重中介效应的实证检验, 第五届中国法律实证研究年会, 2020,成都, 中国 
 * **夏一巍** & 辛晏毓,"大数据"还是"小数据"：实证法律研究的方法论困境及其解决方法, 第三届数据法学年会, 2019,南京, 中国 
 * **夏一巍**, 广义膨胀离散模型（GIDM）: 一种多峰离散分布的建模方式, 2019社会学年会《社会学定量研究前沿与交叉：案例、方法和前沿》分论坛，2019，云南,中国 
