@@ -13,6 +13,7 @@ Journal Articles
 
 English 
 
+* Dai M., **Xia Y.**, Han . (2021) The Impact of Lockdown on Police Service Calls During the COVID-19 Pandemic in China, Policing: A Journal of Policy and Practice. DOI: https://doi.org/10.1093/police/paab007 **（SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.185, 5-Year IF = 1.465, 2019 JCR）**
 *  Ma Z. & **Xia Y.\*** (2020) Acculturation Strategies, Age at Migration, and Self-rated Health: An Empirical Study on Internal Migrants in China, Social Science Review，DOI: 10.1016/j.ssresearch.2020.102487**（SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, 2019 JCR）**
 * Wang K.<sup>**#**</sup>, **Xia Y.** & Ma Z. (2020) Development and validation of the Chinese public official strain scale, Journal of Criminal Justice, DOI: 10.1016/j.jcrimjus.2020.101753**（SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 2.935, 5-Year IF = 3.544, 2019 JCR）**
 * Wang K.<sup>**#**</sup>, Ma Z. & **Xia Y.\***. (2020) General Strain Theory and Corruption among Grassroot Chinese Public Officials: A Mixed-method Study, Deviant Behavior, DOI: 10.1080/01639625.2020.1839818 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.348, 5-Year IF = 1.501, 2019 JCR）**
