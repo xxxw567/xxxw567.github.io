@@ -13,6 +13,7 @@ Journal Articles
 
 English 
 
+*  Xiong R. , **Xia Y.** &  Li, S.D. (2021). Perceived Discrimination and Aggression Among Chinese Migrant Adolescents: A Moderated Mediation Model, Frontiers in Psychology，DOI: 10.3389/fpsyg.2021.651270 **（SSCI, Q2 in PSYCHOLOGY & MULTIDISCIPLINARY, IF = 2.067, 5-Year IF = 2.722, 2019 JCR）**
 * Dai M., **Xia Y.**, Han . (2021) The Impact of Lockdown on Police Service Calls During the COVID-19 Pandemic in China, Policing: A Journal of Policy and Practice. DOI: https://doi.org/10.1093/police/paab007 **（SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.185, 5-Year IF = 1.465, 2019 JCR）**
 *  Ma Z. & **Xia Y.\*** (2020) Acculturation Strategies, Age at Migration, and Self-rated Health: An Empirical Study on Internal Migrants in China, Social Science Review，DOI: 10.1016/j.ssresearch.2020.102487**（SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, 2019 JCR）**
 * Wang K.<sup>**#**</sup>, **Xia Y.** & Ma Z. (2020) Development and validation of the Chinese public official strain scale, Journal of Criminal Justice, DOI: 10.1016/j.jcrimjus.2020.101753**（SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 2.935, 5-Year IF = 3.544, 2019 JCR）**
