@@ -13,7 +13,7 @@ Journal Articles
 
 English 
 
-*  **Xia Y.**, Fan, Y.<sup>**#**, Liu, T., & Ma, Z.  (2021). Problematic Internet use among residential college students during the COVID-19 lockdown: A social network analysis approach，Journal of Behavioral Addictions, DOI: 10.1556/2006.2021.00028 **（SSCI, Q1 in PSYCHIATRY, IF = 5.143, 5-Year IF =5.758, 2019 JCR）**
+*  **Xia Y.**, Fan, Y.<sup>**#**</sup>, Liu, T., & Ma, Z.  (2021). Problematic Internet use among residential college students during the COVID-19 lockdown: A social network analysis approach，Journal of Behavioral Addictions, DOI: 10.1556/2006.2021.00028 **（SSCI, Q1 in PSYCHIATRY, IF = 5.143, 5-Year IF =5.758, 2019 JCR）**
 *  Xiong R. , **Xia Y.** &  Li, S.D. (2021). Perceived Discrimination and Aggression Among Chinese Migrant Adolescents: A Moderated Mediation Model, Frontiers in Psychology，DOI: 10.3389/fpsyg.2021.651270 **（SSCI, Q2 in PSYCHOLOGY & MULTIDISCIPLINARY, IF = 2.067, 5-Year IF = 2.722, 2019 JCR）**
 * Dai M., **Xia Y.**, Han R. <sup>**#**</sup> (2021) The Impact of Lockdown on Police Service Calls During the COVID-19 Pandemic in China, Policing: A Journal of Policy and Practice. DOI: https://doi.org/10.1093/police/paab007 **（SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.185, 5-Year IF = 1.465, 2019 JCR）**
 *  Ma Z. & **Xia Y.\*** (2020) Acculturation Strategies, Age at Migration, and Self-rated Health: An Empirical Study on Internal Migrants in China, Social Science Review，DOI: 10.1016/j.ssresearch.2020.102487**（SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, 2019 JCR）**
