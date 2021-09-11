@@ -11,26 +11,13 @@ published: true
 {% include base_path %}
 
 
-Research projects and grands 
-======
-
-| Time| Project Name| Category|  Role  |
-| ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- |  ----- |
-| 2021-       | 大数据背景下诈骗犯罪被害的基层社会治理研究| 四川省社会科学基金重点项目|  PI |
-| 2021-       | 诈骗犯罪的被害人学分析：基于CHFS的实证研究| 中央高校青年教师成长项目|  PI |
-| 2020-       | 广西外流贩毒之大数据建设与社会治理研究| 广西哲学社会科学规划项目|  Co-PI |
-| 2019-       | 一般紧张理论视角下歧视与流动青少年越轨行为的关系| 中央高校科研启动基金|  PI |
-| 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究| 国家社科青年项目|  Co-PI |
-| 2015-2016| 广西新型毒品滥用与犯罪实证研究| 中国法学会2015年度部级法学研究课题 |  Co-PI |
-
-
 Professional activities 
 ======
 * Lifelong student member, Asian Association of Substance Abuse Research
 * Lifelong student member, Asian Criminological Society
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ, Journal of Contemporary China (JCC)， Globalization and Health
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ, Journal of Contemporary China (JCC)， Globalization and Health，Health & Social Care in the Community（HSCC）
 
 
 Honors and awards
