@@ -17,7 +17,7 @@ Professional activities
 * Lifelong student member, Asian Criminological Society
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ, Journal of Contemporary China (JCC)， Globalization and Health，Health & Social Care in the Community（HSCC），Journal of Asian and African Study （JAAS）
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences(BES), PeerJ, Journal of Contemporary China (JCC)， Globalization and Health，Health & Social Care in the Community（HSCC），Journal of Asian and African Study （JAAS）, Law and Policy
 
 
 Honors and awards
