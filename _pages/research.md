@@ -37,7 +37,7 @@ English
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
-
+* 许博洋,周由,*夏一巍**.社会控制对青少年网络被害的影响——有调节的链式中介模型.中国人民公安大学学报(社会科学版),2021,37(05):13-28.
 * 张小华,李德,**夏一巍**.流动青少年同伴社交网络的正向匹配效应——基于指数族随机图模型的结果.人口与社会,2020,36(06):68-80.
 * 张小华,**夏一巍**,黄开诚,陈立毅.罪错未成年人分级分类机制的完善——基于行为频次和严重程度的考察.少年儿童研究,2019(12):23-31.
 * **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5):54-62+95.**（CSSCI）**
