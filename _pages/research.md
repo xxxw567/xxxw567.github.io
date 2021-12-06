@@ -9,7 +9,7 @@ published: true
  
 Journal Article 
 ======
-**\*** denotes corresponding author; <sup>**#**</sup> denotes student author involved.
+**\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English 
 
