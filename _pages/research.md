@@ -13,7 +13,7 @@ Journal Article
 
 English 
 
-*  Liu T., Ma Z. & **Xia Y.***  (2021). Cyberbullying-Victimization Overlap Among Chinese University Students: Does Network Structure Matter?, Crime & Delinquency, DOI: 10.1177/00111287211057856 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
+*  Liu T.-H., Ma Z. & **Xia Y.***  (2021). Cyberbullying-Victimization Overlap Among Chinese University Students: Does Network Structure Matter?, Crime & Delinquency, DOI: 10.1177/00111287211057856 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
 *  Zhang Y. & **Xia Y.**  (2021). Can Restorative Justice Reduce Incarceration? A Story From China, Justice Quarterly, DOI: 10.1080/07418825.2021.1950814 **（SSCI, Q1 6/69 in  CRIMINOLOGY & PENOLOGY, IF = 4.717, 2021 JCR）**
 *  **Xia Y.**, Fan, Y.<sup>**#**</sup>, Liu, T., & Ma, Z.  (2021). Problematic Internet use among residential college students during the COVID-19 lockdown: A social network analysis approach，Journal of Behavioral Addictions, DOI: 10.1556/2006.2021.00028 **（SSCI, Q1 in PSYCHIATRY, IF = 5.143, 5-Year IF =5.758, 2019 JCR）**
 *  Xiong R. , **Xia Y.** &  Li, S.D. (2021). Perceived Discrimination and Aggression Among Chinese Migrant Adolescents: A Moderated Mediation Model, Frontiers in Psychology，DOI: 10.3389/fpsyg.2021.651270 **（SSCI, Q2 in PSYCHOLOGY & MULTIDISCIPLINARY, IF = 2.067, 5-Year IF = 2.722, 2019 JCR）**
