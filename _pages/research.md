@@ -12,6 +12,7 @@ Journal Article
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English 
+* Li, S. D., Liu T.-H. & **Xia Y**. (2022) A Comparative Study of Parenting Practices and Juvenile Delinquency between China and the United States, Deviant Behavior, DOI: 10.1080/01639625.2022.2081102 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.982, 2021 JCR）**
 * Dai M., **Xia Y.*** & Han R.  (2022). Temporal Variations in Calls for Police Service During COVID-19: Evidence From China, Crime & Delinquency, DOI: 10.1177/00111287221074942 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
 *  Liu T.-H., Ma Z. & **Xia Y.***  (2021). Cyberbullying-Victimization Overlap Among Chinese University Students: Does Network Structure Matter?, Crime & Delinquency, DOI: 10.1177/00111287211057856 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
 *  Zhang Y. & **Xia Y.**  (2021). Can Restorative Justice Reduce Incarceration? A Story From China, Justice Quarterly, 38:7, 1471-1491.DOI: 10.1080/07418825.2021.1950814 **（SSCI, Q1 6/69 in  CRIMINOLOGY & PENOLOGY, IF = 4.717, 2021 JCR）**
