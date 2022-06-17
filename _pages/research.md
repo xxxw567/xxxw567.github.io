@@ -12,6 +12,7 @@ Journal Article
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English (click [here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act) for fulltext)
+* Xiong R., **Xia Y.** and Tian B. (2022) Social Disconnectedness and Mental Health Problems During the COVID-19 Pandemic in China: A Moderated Mediation Model. Int J Public Health 67:1604742. doi: 10.3389/ijph.2022.1604742 **（SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 3.380, 2022 JCR）**
 * Li, S. D., Liu T.-H. & **Xia Y**. (2022) A Comparative Study of Parenting Practices and Juvenile Delinquency between China and the United States, Deviant Behavior, DOI: 10.1080/01639625.2022.2081102 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.982, 2021 JCR）**
 * Dai M., **Xia Y.*** & Han R.  (2022). Temporal Variations in Calls for Police Service During COVID-19: Evidence From China, Crime & Delinquency, DOI: 10.1177/00111287221074942 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
 *  Liu T.-H., Ma Z. & **Xia Y.***  (2021). Cyberbullying-Victimization Overlap Among Chinese University Students: Does Network Structure Matter?, Crime & Delinquency, DOI: 10.1177/00111287211057856 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
