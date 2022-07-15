@@ -11,7 +11,8 @@ Journal Article
 ======
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
-English (click [here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act) for fulltext)
+English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
+* Liu T.-H., **Xia Y.** & Ma Z. (2022) Multifarious Linkages Between Personality Traits and Psychological Distress During and After COVID-19 Campus Lockdown: A Psychological Network Analysis. Frontiers in Psychiatry, https://doi.org/10.3389/fpsyt.2022.816298 **（SSCI, Q2 in PSYCHIATRY, IF = 5.435, 2021 JCR）**
 * Xiong R., **Xia Y.** and Tian B. (2022) Social Disconnectedness and Mental Health Problems During the COVID-19 Pandemic in China: A Moderated Mediation Model. Int J Public Health 67:1604742. doi: 10.3389/ijph.2022.1604742 **（SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 3.380, 2022 JCR）**
 * Li, S. D., Liu T.-H. & **Xia Y**. (2022) A Comparative Study of Parenting Practices and Juvenile Delinquency between China and the United States, Deviant Behavior, DOI: 10.1080/01639625.2022.2081102 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.982, 2021 JCR）**
 * Dai M., **Xia Y.*** & Han R.  (2022). Temporal Variations in Calls for Police Service During COVID-19: Evidence From China, Crime & Delinquency, DOI: 10.1177/00111287221074942 **（SSCI, Q2 in  CRIMINOLOGY & PENOLOGY, IF = 2.827, 2021 JCR）**
@@ -41,6 +42,7 @@ English (click [here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
+* 熊若杉,李德,**夏一巍**.澳门特区在校青少年合成毒品的使用及其侵犯行为的抽样调查.中国药物依赖性杂志,2022,31(03):183-187+193.**（CSCD）**
 * 马志浩,刘子瑄,**夏一巍**.新冠疫情校园管控措施对大学生心理及行为影响研究.全球传媒学刊,2021,8(06):45-68.**（CSSCI扩展版）**
 * 许博洋,周由,**夏一巍**.社会控制对青少年网络被害的影响——有调节的链式中介模型.中国人民公安大学学报(社会科学版),2021,37(05):13-28.**（CSSCI扩展版）**
 * 张小华,李德,**夏一巍**.流动青少年同伴社交网络的正向匹配效应——基于指数族随机图模型的结果.人口与社会,2020,36(06):68-80.
