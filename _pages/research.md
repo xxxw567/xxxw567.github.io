@@ -42,7 +42,7 @@ English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
-•	**夏一巍**,陈卓#,蒋霜#.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究.犯罪研究,2022(04):40-50.
+* **夏一巍**,陈卓#,蒋霜#.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究.犯罪研究,2022(04):40-50.
 * 熊若杉,李德,**夏一巍**.澳门特区在校青少年合成毒品的使用及其侵犯行为的抽样调查.中国药物依赖性杂志,2022,31(03):183-187+193.**（CSCD）**
 * 马志浩,刘子瑄,**夏一巍**.新冠疫情校园管控措施对大学生心理及行为影响研究.全球传媒学刊,2021,8(06):45-68.**（CSSCI扩展版）**
 * 许博洋,周由,**夏一巍**.社会控制对青少年网络被害的影响——有调节的链式中介模型.中国人民公安大学学报(社会科学版),2021,37(05):13-28.**（CSSCI扩展版）**
