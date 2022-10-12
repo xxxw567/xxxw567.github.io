@@ -49,6 +49,11 @@ Skills
 * Programming：
   *	C & C++ (NCRE 2)
 
+Software
+======
+* Stata command ***gidm*** for implementing generalized inflated discrete model, see [here](https://www.researchgate.net/publication/335953733_gidm_A_command_for_generalized_inflated_discrete_models?_sg%5B0%5D=7U6XOhS6nWM0L4saPiBUx1ViQRaQNgiPnFJoevqOGyPsDFcjV2xund9R8JcFNXPP0sAgQbpG7WW3sNF1WgSn-DV8BDPhNhwHoANJoxG5.OJp6-mCbvcs7ztyZwXdseWsEJLWw79BzpBGFWsa2JrArik_qeEgPfg_74eBbdotUKCwsBCGX0runKEX9cJo7Sg) for further information. 
+
+
 Certificates
 ======
   * SAS certificate base/ADV Programmer 
