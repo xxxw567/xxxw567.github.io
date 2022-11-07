@@ -8,7 +8,8 @@ published: true
 
 Conference presentation
 ======
-* **夏一巍** ,城乡差异、社区凝聚力与居民被害风险：基于 CLDS的实证研究, 2022 年中国社会学年会犯罪社会学分会《中国社会发展新阶段与犯罪治理论坛》, 2022,厦门, 中国 
+* **夏一巍** ,“交叉感染”还是“人以群分”?——青少年网络越轨与同伴越轨的共演机制, 第八届栗林论坛, 2022,北京,中国 
+* **夏一巍** ,城乡差异、社区凝聚力与居民被害风险：基于 CLDS的实证研究, 2022年中国社会学年会犯罪社会学分会《中国社会发展新阶段与犯罪治理论坛》, 2022,厦门, 中国 
 * **Xia Yiwei**,Ma Zhihao & Wang Kangqing, General Strain Theory and Corruption among Grassroots Chinese Public
 Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
 * **Xia Yiwei**, Mengliang Dai & Rongxu Han, The Impact of COVID-19 on the 110 Calls for Police Service in China, The 11h annual meeting of Asian Criminological Society, The 1st ACCCJ Online Conference, 2021, ZOOM
