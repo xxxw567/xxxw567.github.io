@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍** ,The impact of lockdown on the calls for police service in China, 2022 ICSA Annual Conference (, 2022,ZOOM 
 * **夏一巍** ,The impact of lockdown on the calls for police service in China, 北京师范大学珠海校区交叉学科前沿论坛, 2022,珠海,中国 
 * **夏一巍** ,“交叉感染”还是“人以群分”?——青少年网络越轨与同伴越轨的共演机制, 第八届栗林论坛, 2022,北京,中国 
 * **夏一巍** ,城乡差异、社区凝聚力与居民被害风险：基于 CLDS的实证研究, 2022年中国社会学年会犯罪社会学分会《中国社会发展新阶段与犯罪治理论坛》, 2022,厦门, 中国 
@@ -29,6 +30,7 @@ Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
 
 Invited talk
 ======
+* **夏一巍**，2022-12-17，犯罪学与刑事司法实证（量化）研究中的资料选择：以漏斗效应为视角, 北京大学法学院
 * **夏一巍**，2020-12-19，如何用裁判文书做社会科学研究？, 南京大学新闻传播学院
 * **夏一巍**，2018-6-14，法学实证研究设计与论文写作, 中国检察官学院广西分院
 * **夏一巍**，2018-12-11，中国拐卖妇女儿童的映射—法院判决的依据, 西南财经大学法学院
