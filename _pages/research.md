@@ -46,30 +46,30 @@ English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
-* 许博洋<sup>**#**</sup>,**夏一巍**,周由<sup>**#**</sup>,张彦.青少年网络越轨行为与不良同伴的关系——基于社交网络分析的方法.青年研究,2023,No.448(01):81-93+96.**（CSSCI）**
-* **夏一巍**,罗霞<sup>**#**</sup>.犯罪学研究中量化分析方法的使用：现状、问题与建议.犯罪研究,2023,No.256(01):52-66.
-* **夏一巍**,陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究.犯罪研究,2022(04):40-50.
-* 熊若杉,李德,**夏一巍**.澳门特区在校青少年合成毒品的使用及其侵犯行为的抽样调查.中国药物依赖性杂志,2022,31(03):183-187+193.**（CSCD）**
-* 马志浩,刘子瑄,**夏一巍**.新冠疫情校园管控措施对大学生心理及行为影响研究.全球传媒学刊,2021,8(06):45-68.**（CSSCI扩展版）**
-* 许博洋,周由,**夏一巍**.社会控制对青少年网络被害的影响——有调节的链式中介模型.中国人民公安大学学报(社会科学版),2021,37(05):13-28.**（CSSCI扩展版）**
-* 张小华,李德,**夏一巍**.流动青少年同伴社交网络的正向匹配效应——基于指数族随机图模型的结果.人口与社会,2020,36(06):68-80.
-* 张小华,**夏一巍**,黄开诚,陈立毅.罪错未成年人分级分类机制的完善——基于行为频次和严重程度的考察.少年儿童研究,2019(12):23-31.
-* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用.青年研究.(5):54-62+95.**（CSSCI）**
-* 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响. 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
-* 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素. 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
-* 李德, 张小华, 唐伟, **夏一巍**, & 林建. (2016). 澳门在学青少年合成毒品滥用问题及对策研究. 中国药物依赖性杂志, 25(1), 69-76. **（CSCD）**
-* 陈璇, & **夏一巍**. (2016). 农村婚姻暴力受害因素的有效对称研究. 西北农林科技大学学报: 社会科学版, 16(1), 119-125. **（CSSCI）**
-* 陈璇, & **夏一巍**. (2015). 农村婚姻暴力风险因素及性别差异分析——基于湖南 748 份问卷调查数据. 湖南农业大学学报: 社会科学版, 16(2), 40-47. **（CSSCI）**
-* **夏一巍**, 吴光炜, & 张连祥. (2015). 不同类型毒品复吸间隔影响因素分析: 以上海市戒毒所 913 名复吸者为例. 中国药物滥用防治杂志, (3), 133-137. 
-* 张小华, **夏一巍**, & 叶嘉茵. (2015). 澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角. 青年研究, (3), 30-38. **（CSSCI）**
+* 许博洋<sup>**#**</sup>,**夏一巍**,周由<sup>**#**</sup>,张彦.青少年网络越轨行为与不良同伴的关系——基于社交网络分析的方法 (The relationship between adolescent online delinquent behavior and deviant peers: A social network analysis).青年研究,2023, No.448(01):81-93+96.**（CSSCI）**
+* **夏一巍**,罗霞<sup>**#**</sup>.犯罪学研究中量化分析方法的使用：现状、问题与建议(The use of quantitative analytical methods in criminological research: current status, problems and recommendations).犯罪研究,2023,No.256(01):52-66.
+* **夏一巍**,陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究(Low Self-Control, Lifestyle Exposure, and Fraud Victimization - An Empirical Study Based on CHFS).犯罪研究,2022(04):40-50.
+* 熊若杉,李德,**夏一巍**.澳门特区在校青少年合成毒品的使用及其侵犯行为的抽样调查(Survey on the use of synthetic drugs and aggressive behaviors among adolescents in schools in the Macao SAR).中国药物依赖性杂志,2022,31(03):183-187+193.**（CSCD）**
+* 马志浩,刘子瑄,**夏一巍**.新冠疫情校园管控措施对大学生心理及行为影响研究(A study of the psychological and behavioral effects of campus control measures on college students in the new crown epidemic).全球传媒学刊,2021,8(06):45-68.**（CSSCI扩展版）**
+* 许博洋,周由,**夏一巍**.社会控制对青少年网络被害的影响——有调节的链式中介模型(The Effect of Social Control on Adolescent Internet Victimization - A Moderated Chain Mediation Model).中国人民公安大学学报(社会科学版),2021,37(05):13-28.**（CSSCI扩展版）**
+* 张小华,李德,**夏一巍**.流动青少年同伴社交网络的正向匹配效应——基于指数族随机图模型的结果(Assortive Mating among Migrant Adolescents - Results Based on Exponential Family Random Graph Modeling).人口与社会,2020,36(06):68-80.
+* 张小华,**夏一巍**,黄开诚,陈立毅.罪错未成年人分级分类机制的完善——基于行为频次和严重程度的考察(The Mechanism of Grading and Classifying Juvenile Delinquency- An Examination Based on the Frequency and Severity of Behavior).少年儿童研究,2019(12):23-31.
+* **夏一巍**,李德,张小华 & 唐伟.(2019).一般紧张理论在流动青少年越轨中的应用(Application of General Strain Theory on Delinquent Behavior among Migrant Adolescents).青年研究.(5):54-62+95.**（CSSCI）**
+* 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响(Evaluating the Effectiveness of Drug Rehabilitation and Correction program in Shanghai, China). 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
+* 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素(Patterns of ketamine use and risk factors among adolescents in Macao ). 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
+* 李德, 张小华, 唐伟, **夏一巍**, & 林建. (2016). 澳门在学青少年合成毒品滥用问题及对策研究(Study on the Problem of Synthetic Drug Abuse and Countermeasures among School Youth in Macao). 中国药物依赖性杂志, 25(1), 69-76. **（CSCD）**
+* 陈璇, & **夏一巍**. (2016). 农村婚姻暴力受害因素的有效对称研究(Study on the symmetry of victimisation factors in rural domestic violence). 西北农林科技大学学报: 社会科学版, 16(1), 119-125. **（CSSCI）**
+* 陈璇, & **夏一巍**. (2015). 农村婚姻暴力风险因素及性别差异分析——基于湖南 748 份问卷调查数据(Analysis of Risk Factors and Gender Differences in Marital Violence in Rural Areas - Based on Data from 748 Questionnaires in Hunan Province). 湖南农业大学学报: 社会科学版, 16(2), 40-47. **（CSSCI）**
+* **夏一巍**, 吴光炜, & 张连祥. (2015). 不同类型毒品复吸间隔影响因素分析: 以上海市戒毒所 913 名复吸者为例(Analysis of factors influencing the relapse interval of different types of drugs: A case study of 913 relapsing drug addicts in Shanghai Drug Rehabilitation Centre.). 中国药物滥用防治杂志, (3), 133-137. 
+* 张小华, **夏一巍**, & 叶嘉茵. (2015). 澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角(Analysis of the Prevention and Control Mechanism of Youth Drug Abuse in Macau: A Perspective of Macao's Social Control and Education on Drug Abuse Prevention). 青年研究, (3), 30-38. **（CSSCI）**
 
 Book & Book Chapter
 ======
-* 杰弗瑞·T·沃克等著, 熊谋林，**夏一巍**等译，犯罪学与刑事司法统计：实证分析和解释(原书第4版)，重庆大学出版（万卷方法丛书）
-* **夏一巍**.(2020). 第二章，第三章，第六章,李德等编撰:《澳门社会现状调查》,五南出版社
-* **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,李德等编撰:《中国家庭教养方式与青少年发展》,社会科学出版社
-* **夏一巍**(译). (2017).地点警务中的犯罪空间转移和利益扩散,刘建宏编撰:《警务工作评估系统性回顾研究》，人民出版社
-* **夏一巍**(译). (2017).闭路电视监控对犯罪的打击效果,刘建宏编撰:《犯罪干预与预防评估系统回顾研究》，人民出版社
+* 杰弗瑞·T·沃克等著, 熊谋林，**夏一巍**等译，犯罪学与刑事司法统计：实证分析和解释(原书第4版) Criminology and Criminal Justice Statistics: Empirical Analysis and Interpretation (4th ed.)，重庆大学出版（万卷方法丛书）
+* **夏一巍**.(2020). 第二章，第三章，第六章,李德等编撰:《澳门社会现状调查(Macau social survey)》,五南出版社
+* **夏一巍**.(2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节,李德等编撰:《中国家庭教养方式与青少年发展(Parenting Styles and Adolescent Development in China)》,社会科学出版社
+* **夏一巍**(译). (2017).地点警务中的犯罪空间转移和利益扩散(Spatial displacement of crime and diffusion of benefits in location-based policing),刘建宏编撰:《警务工作评估系统性回顾研究》，人民出版社
+* **夏一巍**(译). (2017).闭路电视监控对犯罪的打击效果(Effectiveness of CCTV in combating crime),刘建宏编撰:《犯罪干预与预防评估系统回顾研究》，人民出版社
 * **Xia, Yiwei**. (2017). Hoa Lo Prison; Edited by Spencer De Li.《Encyclopedia of Corrections》. NJ: John Wiley & Sons
 
 Conference Proceeding
