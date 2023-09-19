@@ -1,4 +1,4 @@
-![0605C6C3](https://github.com/xxxw567/xxxw567.github.io/assets/7298081/081eb4b2-b2a5-490f-bcc6-62e1f83dcfbc)---
+---
 layout: archive
 title: Others
 permalink: /other/
