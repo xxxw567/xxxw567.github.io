@@ -76,19 +76,18 @@ Conference Proceeding
 ======
 * 陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>,**夏一巍**.(2021).低自我控制、生活方式暴露与诈骗被害：基于CHFS的实证研究（Low self-control, lifestyle exposure, and fraud victimization: An empirical study based on CHFS）,2021年“法大犯罪治理论文”论文集
 * 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究(Current situation and risk factors associated with Marijuana use among Macau adolesents),2019年全国药物滥用防治协研讨会会议论文集
-* 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為,2019年全国药物滥用防治协研讨会会议论文集
-* 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
-* 王殿玺,李德,刘子瑄,**夏一巍**,李杰楠.(2019).澳門在學青少年物質濫用與心理疾病共病性之研究,2019年全国药物滥用防治协研讨会会议论文集
-* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2018). 一般紧张理论在流动青少年越轨行为中的应用——多重中介效应模型究,第十四届中国青少年发展论坛
-* 梁敏,**夏一巍**,李德.(2018). 社区安全,集体效能与青少年被害研究,	第五届犯罪学论坛——2018年“国家治理体系中的犯罪治理与预防”研讨会
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响,第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
+* 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為（Synthetic drug use and aggressive behavior among Macao's youth）,2019年全国药物滥用防治协研讨会会议论文集
+* 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究（Community Safety, Collective Effectiveness and Victimization of Youth）.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
+* 王殿玺,李德,刘子瑄,**夏一巍**,李杰楠.(2019).澳門在學青少年物質濫用與心理疾病共病性之研究（Study on the Co-morbidity of Substance Abuse and Mental Diseases among Adolescent Students in Macau）,2019年全国药物滥用防治协研讨会会议论文集
+* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究（A Comparative Study of the Characteristics of Native and Cross-border Foreign Migrant Substance Abusers in Yunnan Province）,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
+* 李德,**夏一巍**,张小华,唐伟,梁敏.(2018). 一般紧张理论在流动青少年越轨行为中的应用——多重中介效应模型究（Application of General Tension Theory to Deviant Behavior of Migrating Adolescents - A Modeling Study of Multiple Mediating Effects）,第十四届中国青少年发展论坛
+* 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响(Multiple mediating relationships between discrimination and deviance: applying general tension theory to explain the impact of social pressure on the deviant behavior of migrant children),第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
 
 
 Report
 ======
-* 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,**夏一巍**, 澳门学青少年与药物：2014报告,澳门大学出版社 [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
-* 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
+* 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,**夏一巍**, 澳门学青少年与药物：2014报告(Macao Studies on Adolescents and Drugs: 2014 Report),澳门大学出版社 [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
+* 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018(Macao Studies on Adolescents and Drugs: 2018 Report) [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
 
 
 Research projects and grants
