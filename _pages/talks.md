@@ -8,9 +8,10 @@ published: true
 
 Conference presentation
 ======
+* **Xia Yiwei**, Understanding the Role of Substance Use in Problem Behavior Syndrome: A Network Approach, AASAR 9th Annual meeting, 2023, MACAU, China
 * **夏一巍**, 诈骗被害的阶段性和方法性整合理论——来自全国代表性调查的证据, 2023年中国社会学年会犯罪社会学分会《中国式现代化进程中的犯罪发展新形态及治理论坛》, 2023,天津, 中国 
 * **Xia Yiwei**, Tradeoff between “Big Data” and “Small Data": A Simulation Study on the Application of Sampling Technique in Empirical 
-Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challenges, Strategies, and Solutions", 2023, Hong Kong
+Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challenges, Strategies, and Solutions", 2023, Hong Kong, China
 * **夏一巍**, The impact of lockdown on the calls for police service in China, 2022 ICSA Annual Conference, 2022, ZOOM 
 * **夏一巍**, The impact of lockdown on the calls for police service in China, 北京师范大学珠海校区交叉学科前沿论坛, 2022,珠海,中国 
 * **夏一巍**, “交叉感染”还是“人以群分”?——青少年网络越轨与同伴越轨的共演机制, 第八届栗林论坛, 2022,北京,中国 
