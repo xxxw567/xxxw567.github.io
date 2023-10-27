@@ -13,8 +13,10 @@ Journal Article
 
 English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
 
+* Ma, Z., Liu, TH. & **Xia Y.*** (2023) Individual Stress, Contextual Stress, and Network Attributes on Cyberbullying Perpetration Among Young Adults During the COVID-19 Lockdown, Deviant Behavior, DOI: 10.1080/01639625.2023.2271117
+* Liu, TH., **Xia, Y.**, & Ma, Z. (2023). Relative Deprivation, Psychological Wellbeing, and Problematic Internet Use among Young Adults During COVID-19 Lockdown: A Fuzzy-Set Qualitative Comparative Analysis (fsQCA). https://doi.org/10.31219/osf.io/6u8nf
 * Liu, TH., **Xia, Y.** & Ma, Z. (2023). Network Structure among Optimism, Social Interaction, and Psychological Wellbeing during COVID-19 Lockdown: Findings from Four UK Cohort Studies. Applied Research Quality Life （SSCI, Q1 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 3.4, 2022 JCR）.  https://doi.org/10.1007/s11482-023-10206-8
-* **Xia Y.** and Ma Z. (2023) Network structure of the links between extracurricular time-use and delinquent behaviors: Moving forward and beyond linear relations. Child Development. DOI: 10.1111/cdev.13953 **（SSCI, Q1 PSYCHOLOGY, DEVELOPMENTAL 10/78, IF = 5.66, 2021 JCR）**
+* **Xia Y.** & Ma Z. (2023) Network structure of the links between extracurricular time-use and delinquent behaviors: Moving forward and beyond linear relations. Child Development. DOI: 10.1111/cdev.13953 **（SSCI, Q1 PSYCHOLOGY, DEVELOPMENTAL 10/78, IF = 5.66, 2021 JCR）**
 * Wang K, Dai M and **Xia Y.*** (2022) Rank, strain, and corruption among Chinese public officials: A general strain theory perspective. Front. Psychiatry 13:1077544. doi: 10.3389/fpsyt.2022.1077544 **（SSCI, Q2 in PSYCHIATRY, IF = 5.435, 2021 JCR）**
 * Liu T.-H., **Xia Y.** & Ma Z. (2022) Multifarious Linkages Between Personality Traits and Psychological Distress During and After COVID-19 Campus Lockdown: A Psychological Network Analysis. Frontiers in Psychiatry, https://doi.org/10.3389/fpsyt.2022.816298 **（SSCI, Q2 in PSYCHIATRY, IF = 5.435, 2021 JCR）**
 * Xiong R., **Xia Y.** and Tian B. (2022) Social Disconnectedness and Mental Health Problems During the COVID-19 Pandemic in China: A Moderated Mediation Model. Int J Public Health 67:1604742. doi: 10.3389/ijph.2022.1604742 **（SSCI, Q1 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 3.380, 2022 JCR）**
