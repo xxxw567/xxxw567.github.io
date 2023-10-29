@@ -17,7 +17,7 @@ Professional activities
 * Lifelong member, Asian Criminological Society
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences (BES), PeerJ, Journal of Contemporary China (JCC), Globalization and Health, Health & Social Care in the Community(HSCC), Journal of Asian and African Study (JAAS), Law and Policy, Police Practice and Research (PPR), Deviant Behavior, International Criminal Justice Review (ICJR), Journal of Adolescence, Frontiers in Psychiatry, Frontiers in Psychology, Humanities & Social Sciences Communications (HSScomms), BMC psychology, Journal of Family Issues,《社会》,《浙江警官学院学报》
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences (BES), PeerJ, Journal of Contemporary China (JCC), Globalization and Health, Health & Social Care in the Community(HSCC), Journal of Asian and African Study (JAAS), Law and Policy, Police Practice and Research (PPR), Deviant Behavior, International Criminal Justice Review (ICJR), Journal of Adolescence, Frontiers in Psychiatry, Frontiers in Psychology, Humanities & Social Sciences Communications (HSScomms), BMC psychology, Journal of Family Issues, Social Psychiatry and Psychiatric Epidemiology, 《社会》,《浙江警官学院学报》
 
 
 Honors and awards
@@ -38,7 +38,7 @@ Skills
   *	STATA, Excel, SAS, Nvivo,R,SPSS
 * Modelling： 
   *	SEM (Lisrel, Mplus), HLM (HLM 6), Meta-Analysis (MIX), SNS (UCINET)
-* Input and audomization：
+* Survey imput：
   *	Remark Office OCR, EPIdata, Quatrics
 * Database：
   *	MS ACCESS, MySQL 5.6
@@ -72,9 +72,9 @@ Notes for future students
 ======
 如果你正在阅读这段文字，说明你可能对我招收研究生的信息感兴趣（而且能在这个犄角旮旯找到招生信息，也说明了你的信息检索能力不错）。因为通常而言很多学生并不会去详细关注潜在导师的个人网站（当然法学院似乎除了我之外也没人有个人网站）。下面，我将简单介绍我的学术研究内容和指导策略。
 
-首先，我的研究专长是犯罪学（当然可能有的同学会发现我的publication远不止于犯罪学领域，我研究成果散见于统计学、心理学、精神病学、传播学、公共卫生等领域的学术期刊）。犯罪学是一门研究犯罪规律、成因和预防策略的综合社会科学。它是一门“社会科学”，因此与传统意义上的“法学”有本质区别。由于不同学者对于犯罪和越轨行为的定义存在差异，有时候犯罪学研究并不一定以“违法”或者“犯罪”为前提。其次，由于犯罪学的学科特点，实证研究方法在研究过程中占据主导地位（犯罪学毕竟是一门社会科学或行为科学）。我个人的研究也主要采用量化研究方法，所以在学习过程中，你可能会接触到大量的统计和编程知识。当然，如果你对数学和编程感到畏惧，那么我建议你应当慎重考虑。然而，我并不排斥质化研究，反而非常欣赏在这方面做得不错的学者。然而，我的研究方向并未涉及质化研究，因此我能提供的质化方面的指导有限。至于传统法学的教义学研究方法，我则完全不擅长，其主要原因是由于犯罪学的学科属性是一门社会科学，因此没有固定的法条和“教义”（犯罪学学者总不可能根据某个法律原则去推出犯罪成因吧）。此外，由于犯罪学的经典论文主要发表在国际期刊上，因此我会更加注重对国际期刊的阅读和撰写（主要是英文期刊，所以如果对阅读英文存在困难的同学，也建议慎重考虑）。
+首先，我的研究专长是犯罪学（当然可能有的同学会发现我的publication远不止于犯罪学领域，我研究成果散见于统计学、心理学、精神病学、传播学、公共卫生等领域的学术期刊）。犯罪学是一门研究犯罪规律、成因和预防策略的综合社会科学。它是一门“社会科学”，因此与传统意义上的“法学”有本质区别。由于不同学者对于犯罪和越轨行为的定义存在差异，有时候犯罪学研究并不一定以“违法”或者“犯罪”为前提。其次，由于犯罪学的学科特点，实证研究方法在研究过程中占据主导地位（犯罪学毕竟是一门社会科学或行为科学）。我个人的研究也主要采用量化研究方法，所以在学习过程中，你可能会接触到大量的统计和编程知识。当然，如果你对数学和编程感到畏惧，那么我建议你应当慎重考虑。然而，我并不排斥质化研究，反而非常欣赏在这方面做得不错的学者，也鼓励指导的同学们尝试质化研究方法。然而，我的研究方向并未涉及质化研究，因此我能提供这方面的指导可能有限。至于传统法学的教义学研究方法，我则完全不擅长，其主要原因是由于犯罪学的学科属性是一门社会科学，因此没有固定的法条和“教义”（犯罪学学者总不可能根据某个法律原则去推出犯罪成因吧）。此外，由于犯罪学的经典论文主要发表在国际期刊上，因此我会更加注重对国际期刊的阅读和撰写（主要是英文期刊，所以如果对阅读英文存在困难的同学，也建议慎重考虑）。
 
-一般来说，我会采取定期（通常为每1-2周一次）“组会”的方式来组织研究生。对于犯罪学而言，知识的载体更多的是论文，因此“组会”的组织形式更为适合。我非常推崇“做中学（Learn by doing）”的学习方针，因此在你作为研究生的第一年，我将与你“合作完成”一篇工作论文（working paper）。这篇论文的完成就代表了指导目标的完成。通过“组会”，我们可以将一篇论文的工作量分解为每周可完成的任务量。我期待在“组会”上能看到你对当前研究项目的进展（即使只有一点点也行）。如果条件允许，我会鼓励你利用这篇工作论文参加各类学术会议或申报各类项目。考虑到这种指导方法非常费力，而且考虑到工作论文的合作者不宜过多，因此我可能对研究生的数量上限有要求（不然一篇文章作者人数过多）。
+一般来说，我会采取定期（通常为每1-2周一次）“组会”的方式来组织研究生。对于犯罪学而言，知识的载体更多的是论文，因此“组会”的组织形式更为适合。我非常认可“做中学（Learn by doing）”的学习方针，因此在你作为研究生的第一年，我将与你“合作完成”一篇工作论文（working paper）。这篇论文的完成就代表了指导目标的完成。通过“组会”，我们可以将一篇论文的工作量分解为每周可完成的任务量。我期待在“组会”上能看到你对当前研究项目的进展（即使只有一点点也行）。如果条件允许，我会鼓励你利用这篇工作论文参加各类学术会议或申报各类项目。考虑到这种指导方法非常费力，而且考虑到工作论文的合作者不宜过多，因此我可能对研究生的数量上限有要求（不然一篇文章作者人数过多）。
 
 通常在研究生第二年，我期望你能自己选择一个较小的研究题目进行自由探索。第二年并不一定以完成一篇工作论文为目的，而是在探索过程中找到毕业论文的选题方向。第二年的结束通常伴随着毕业论文的开题，之后的指导将主要集中在毕业论文的撰写上。考虑到犯罪学论文可能并不能成为研究生的毕业论文（很遗憾，我们学院暂时没有犯罪学研究方向），在选取毕业论文主题时，我建议你选择法学相关的课题。但经过第一年的实证研究训练后，我相信你将能把实证研究方法运用到你所选择的研究议题上。
 
