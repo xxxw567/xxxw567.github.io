@@ -8,7 +8,7 @@ published: true
 
 Conference presentation
 ======
-* **Xia Yiwei**, Understanding the Role of Substance Use in Problem Behavior Syndrome: A Network Approach, AASAR 9th Annual meeting, 2023, MACAU, China
+* **Xia Yiwei**, Understanding the Role of Substance Use in Problem Behavior Syndrome: A Network Approach, AASAR 9th Annual Meeting, 2023, MACAU, China
 * **夏一巍**, 诈骗被害的阶段性和方法性整合理论——来自全国代表性调查的证据, 2023年中国社会学年会犯罪社会学分会《中国式现代化进程中的犯罪发展新形态及治理论坛》, 2023,天津, 中国 
 * **Xia Yiwei**, Tradeoff between “Big Data” and “Small Data": A Simulation Study on the Application of Sampling Technique in Empirical 
 Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challenges, Strategies, and Solutions", 2023, Hong Kong, China
@@ -34,6 +34,7 @@ Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
 
 Invited talk
 ======
+* **Xia Yiwei**，2023-10-27, Repeat fraud victimization in the elderly: Extent, Time courses, and risk factors, ZOOM, Department of Sociology, University of Macau
 * **夏一巍**，2023-5-26，中国犯罪被害调查的实现路径选择, 中国犯罪调查学术研讨会, 中国人民公安大学
 * **夏一巍**，王康庆，2023-4-14，廉洁文化建设：基层公职人员腐败犯罪实证分析——基于全国60所监狱的调查, 清廉工作坊（第八期）, 中国政法大学
 * **夏一巍**，2022-12-17，犯罪学与刑事司法实证（量化）研究中的资料选择：以漏斗效应为视角, 北京大学法学院
