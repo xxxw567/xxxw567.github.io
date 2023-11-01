@@ -33,7 +33,7 @@ English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?
 * **Xia, Y.** & Ma. Z (2020). Relative deprivation, social exclusion, and quality of life among Chinese internal migrants. Public Health,186, 129-136. doi:10.1016/j.puhe.2020.05.038 **（SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 1.774, 5-Year IF = 1.984, 2019 JCR）**
 * Chen, X., & **Xia, Y.** (2020). Onset and Severity of Spousal Violence Among Chinese Migrant Families: A Zero-Inflated Poisson Model. International Annals of Criminology, 1-13. doi:10.1017/cri.2020.4
 * Li, S.D.; **Xia, Y.**; Xiong, R.;Li, J.;Chen, Y. (2020). Coercive Parenting and Adolescent Developmental Outcomes: The Moderating Effects of Empathic Concern and Perception of Social Rejection. International Journal of Environmental Research and Public Health, 17, 3538. **（SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
-* Xiong, R.; Li, S.D.; **Xia, Y*** . (2020). A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency and Crime Victimization among Chinese Adolescents. International Journal of Environmental Research and Public Health, 17, 1405. **（SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
+* Xiong, R.; Li, S.D.; **Xia, Y*** . (2020). A Longitudinal Study of Authoritative Parenting, Juvenile Delinquency, and Crime Victimization among Chinese Adolescents. International Journal of Environmental Research and Public Health, 17, 1405. **（SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
 * **Xia, Y.**, & Ma, Z. (2020). Social integration, perceived stress, locus of control, and psychological wellbeing among Chinese emerging adult migrants: A conditional process analysis. Journal of Affective Disorders. 267, 9-16 .doi:https://doi.org/10.1016/j.jad.2020.02.016. **（SSCI, Q1 in PSYCHIATRY, IF = 4.084, 5-Year IF = 4.016, 2018 JCR）**
 * **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. Stata Journal, 19(3):698-718. **（SSCI, Q2 in SOCIAL SCIENCES, MATHEMATICAL METHODS, IF = 1.796, 5-Year IF = 3.090, 2018 JCR）**
 * Ma Z, **Xia Y**, Lin Z.(2019). Post-Traumatic Growth Following Exposure to Memorial Reports of the 5.12 Wenchuan Earthquake: The Moderating Roles of Self-Esteem and Long-Term PTSD Symptoms. International Journal of Environmental Research and Public Health. 16(18):3239. **（SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 2.468, 5-Year IF = 2.948, 2018 JCR）**
@@ -60,7 +60,7 @@ Chinese
 * 张小华, **夏一巍**, 吴光炜, & 林游泳. (2016). 论我国上海戒毒服务和社会帮助对戒毒矫治效果的影响(Evaluating the Effectiveness of Drug Rehabilitation and Correction program in Shanghai, China). 中国药物依赖性杂志, 25(3), 291-296. **（CSCD）**
 * 李德, 唐伟, **夏一巍**, & 张小华. (2016). 澳门地区青少年吸食氯胺酮的模式以及相关因素(Patterns of ketamine use and risk factors among adolescents in Macao ). 中国药物依赖性杂志, 25(1), 124-131. **（CSCD）**
 * 李德, 张小华, 唐伟, **夏一巍**, & 林建. (2016). 澳门在学青少年合成毒品滥用问题及对策研究(Study on the Problem of Synthetic Drug Abuse and Countermeasures among School Youth in Macao). 中国药物依赖性杂志, 25(1), 69-76. **（CSCD）**
-* 陈璇, & **夏一巍**. (2016). 农村婚姻暴力受害因素的有效对称研究(Study on the symmetry of victimisation factors in rural domestic violence). 西北农林科技大学学报: 社会科学版, 16(1), 119-125. **（CSSCI）**
+* 陈璇, & **夏一巍**. (2016). 农村婚姻暴力受害因素的有效对称研究(Study on the symmetry of victimization factors in rural domestic violence). 西北农林科技大学学报: 社会科学版, 16(1), 119-125. **（CSSCI）**
 * 陈璇, & **夏一巍**. (2015). 农村婚姻暴力风险因素及性别差异分析——基于湖南 748 份问卷调查数据(Analysis of Risk Factors and Gender Differences in Marital Violence in Rural Areas - Based on Data from 748 Questionnaires in Hunan Province). 湖南农业大学学报: 社会科学版, 16(2), 40-47. **（CSSCI）**
 * **夏一巍**, 吴光炜, & 张连祥. (2015). 不同类型毒品复吸间隔影响因素分析: 以上海市戒毒所 913 名复吸者为例(Analysis of factors influencing the relapse interval of different types of drugs: A case study of 913 relapsing drug addicts in Shanghai Drug Rehabilitation Centre.). 中国药物滥用防治杂志, (3), 133-137. 
 * 张小华, **夏一巍**, & 叶嘉茵. (2015). 澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角(Analysis of the Prevention and Control Mechanism of Youth Drug Abuse in Macau: A Perspective of Macao's Social Control and Education on Drug Abuse Prevention). 青年研究, (3), 30-38. **（CSSCI）**
@@ -97,6 +97,7 @@ Research projects and grants
 
 | Time| Project Name| Category|  Role  |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- |  ----- |
+| 2024-       | 不良行为未成年人家庭教育指导的实践困境和千预机制研究| 上海市哲社教育规划|  Co-PI |
 | 2023-       | 被害人学视角下电信诈骗全阶段预防治理机制研究| 司法部法治建设与法学理论研究部级科研项目（青年项目）|  PI |
 | 2022-       | 青少年同伴社交网络与越轨行为动态演化机制研究| 西南财经大学光华青年教师成长计划|  PI |
 | 2022-       | 人口变化背景下民法教义学的转型| 四川省社科规划项目	|  Co-PI |
