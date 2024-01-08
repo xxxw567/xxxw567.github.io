@@ -17,13 +17,14 @@ Professional activities
 * Lifelong member, Asian Criminological Society
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
 * Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences (BES), PeerJ, Journal of Contemporary China (JCC), Globalization and Health, Health & Social Care in the Community(HSCC), Journal of Asian and African Study (JAAS), Law and Policy, Police Practice and Research (PPR), Deviant Behavior, International Criminal Justice Review (ICJR), Journal of Adolescence, Frontiers in Psychiatry, Frontiers in Psychology, Humanities & Social Sciences Communications (HSScomms), BMC psychology, Journal of Family Issues, Social Psychiatry and Psychiatric Epidemiology, 《社会》,《浙江警官学院学报》
+* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences (BES), PeerJ, Journal of Contemporary China (JCC), Globalization and Health, Health & Social Care in the Community(HSCC), Journal of Asian and African Study (JAAS), Law and Policy, Police Practice and Research (PPR), Deviant Behavior, International Criminal Justice Review (ICJR), Journal of Adolescence, Frontiers in Psychiatry, Frontiers in Psychology, Humanities & Social Sciences Communications (HSScomms), BMC Psychology, Journal of Family Issues, Social Psychiatry and Psychiatric Epidemiology, Police Practice and Research: An International Journal (PPR), Social Science Research (SSR), 《社会》,《浙江警官学院学报》
 
 
 Honors and awards
 ======
 * 新时代“枫桥经验”促进反家庭暴力公共安全治理研究征文，二等奖，2023 
-* 国家监察理论与实践优秀论文（第三作者），一等奖，2023 
+* 国家监察理论与实践优秀论文（第三作者），一等奖，2023
+* 优秀共产党员，2021
 * 西南财经大学法学院科研标兵，2020 
 * 第十六届中国青少年发展论坛，优秀论文三等奖，2020 （学生合作）
 * 第十四届中国青少年发展论坛，优秀论文三等奖，2018
