@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因——兼论《反电信网络诈骗法》对被害人的阶段化保护, 第六届“迈向数据法学”研讨会, 2023,北京, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因, 第二届“法大犯罪治理论坛”, 2023,北京, 中国 
 * **Xia Yiwei**, Understanding the Role of Substance Use in Problem Behavior Syndrome: A Network Approach, AASAR 9th Annual Meeting, 2023, MACAU, China
 * **夏一巍**, 诈骗被害的阶段性和方法性整合理论——来自全国代表性调查的证据, 2023年中国社会学年会犯罪社会学分会《中国式现代化进程中的犯罪发展新形态及治理论坛》, 2023,天津, 中国 
@@ -35,6 +36,7 @@ Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
 
 Invited talk
 ======
+* **Xia Yiwei**，2023-11-28, 论老年群体中重复诈骗被害：程度、间隔与成因, ZOOM, 上海政法学院刑事司法学院,
 * **Xia Yiwei**，2023-10-27, Repeat fraud victimization in the elderly: Extent, Time courses, and risk factors, ZOOM, Department of Sociology, University of Macau
 * **夏一巍**，2023-5-26，中国犯罪被害调查的实现路径选择, 中国犯罪调查学术研讨会, 中国人民公安大学
 * **夏一巍**，王康庆，2023-4-14，廉洁文化建设：基层公职人员腐败犯罪实证分析——基于全国60所监狱的调查, 清廉工作坊（第八期）, 中国政法大学
