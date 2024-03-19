@@ -12,7 +12,7 @@ Journal Article
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
-* Chen Y, Liu TH, **Xia Y**, Ma Z. Psychometric Properties of the Chinese Version of 20-Item Zimbardo Time Perspective Inventory (C-ZTPI-20) in Chinese Adolescent Population. Psychol Res Behav Manag. 2024;17:1271-1282
+* Chen Y, Liu TH, **Xia Y**, Ma Z. (2024). Psychometric Properties of the Chinese Version of 20-Item Zimbardo Time Perspective Inventory (C-ZTPI-20) in Chinese Adolescent Population. Psychol Res Behav Manag. 17:1271-1282
 https://doi.org/10.2147/PRBM.S436735 **（SSCI, Q1 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 4.3, 5-Year IF = 1.501, 2022 JCR）**  
 * **Xia Y.*** (2023) Trade-off Between "Big Data" and "Small Data": a Simulation Study on The Application of Random Sampling in Chinese Empirical Legal Studies, Hong Kong Law Journal, Vol. 53, part 3, 1217-1242.**（SSCI, Q4 in Law, IF = 0.4, 2022 JCR）**
 * Ma, Z., Liu, TH. & **Xia Y.*** (2023) Individual Stress, Contextual Stress, and Network Attributes on Cyberbullying Perpetration Among Young Adults During the COVID-19 Lockdown, Deviant Behavior, DOI: 10.1080/01639625.2023.2271117 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.348, 5-Year IF = 1.501, 2019 JCR）**
