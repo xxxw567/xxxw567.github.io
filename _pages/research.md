@@ -50,6 +50,7 @@ https://doi.org/10.2147/PRBM.S436735 **（SSCI, Q1 in PSYCHOLOGY, MULTIDISCIPLIN
 * Li, S. D., Zhang, X., Tang, W., & **Xia, Y**. (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. Sage open, 7(4), 2158244017733031. **（SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR）**
 
 Chinese
+* 向梦雪<sup>**#**</sup>,柴宇<sup>**#**</sup>,**夏一巍**.父母冲突、负面情绪与农村儿童非自杀性自伤行为:基于一般紧张理论的实证研究 (Parental Conflict, Negative Emotions, and Non-Suicidal Self-Injurious Behavior in Rural Children: An Empirical Study Based on General Strain Theory).少年儿童研究,2024(02):84-93+62. 
 * 许博洋<sup>**#**</sup>,**夏一巍**,周由<sup>**#**</sup>,张彦.青少年网络越轨行为与不良同伴的关系——基于社交网络分析的方法 (The relationship between adolescent online delinquent behavior and deviant peers: A social network analysis).青年研究,2023, No.448(01):81-93+96.**（CSSCI）**
 * **夏一巍**,罗霞<sup>**#**</sup>.犯罪学研究中量化分析方法的使用：现状、问题与建议(The use of quantitative analytical methods in criminological research: current status, problems and recommendations).犯罪研究,2023,No.256(01):52-66.
 * **夏一巍**,陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究(Low Self-Control, Lifestyle Exposure, and Fraud Victimization - An Empirical Study Based on CHFS).犯罪研究,2022(04):40-50.
