@@ -12,7 +12,7 @@ Journal Article
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
-* Liu, T.-H., Ma, Z., & **Xia Y.*** (2024). Serving on WeChat: Understanding the logic of police’s engagement with the public in Chinese contexts. International Journal of Law, Crime and Justice, 77, 100665. https://doi.org/10.1016/j.ijlcj.2024.100665  **（SSCI, Q3 in , IF = 1.1, 2022 JCR）**  
+* Liu, T.-H., Ma, Z., & **Xia Y.*** (2024). Serving on WeChat: Understanding the logic of police’s engagement with the public in Chinese contexts. International Journal of Law, Crime and Justice, 77, 100665. https://doi.org/10.1016/j.ijlcj.2024.100665  **（SSCI, Q3 in LAW, IF = 1.1, 2022 JCR）**  
 * Chen Y, Liu TH, **Xia Y**, Ma Z. (2024). Psychometric Properties of the Chinese Version of 20-Item Zimbardo Time Perspective Inventory (C-ZTPI-20) in Chinese Adolescent Population. Psychol Res Behav Manag. 17:1271-1282
 https://doi.org/10.2147/PRBM.S436735 **（SSCI, Q1 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 4.3, 5-Year IF = 1.501, 2022 JCR）**  
 * **Xia Y.*** (2023) Trade-off Between "Big Data" and "Small Data": a Simulation Study on The Application of Random Sampling in Chinese Empirical Legal Studies, Hong Kong Law Journal, Vol. 53, part 3, 1217-1242.**（SSCI, Q4 in Law, IF = 0.4, 2022 JCR）**
