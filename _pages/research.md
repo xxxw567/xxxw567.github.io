@@ -12,6 +12,7 @@ Journal Article
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
+* **Xia, Y.**, Sun, H., Liu, T.-H., & Ma, Z. (2024). Understanding the relations between personality traits, bullying perpetration, and victimization among Chinese adolescents: A psychological network analysis. Current Psychology. https://doi.org/10.1007/s12144-024-06029-x**（SSCI, Q3 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 2.387, 2022 JCR）**
 * Liu, T.-H., Ma, Z., & **Xia Y.*** (2024). Serving on WeChat: Understanding the logic of police’s engagement with the public in Chinese contexts. International Journal of Law, Crime and Justice, 77, 100665. https://doi.org/10.1016/j.ijlcj.2024.100665  **（SSCI, Q3 in LAW, IF = 1.1, 2022 JCR）**  
 * Chen Y, Liu TH, **Xia Y**, Ma Z. (2024). Psychometric Properties of the Chinese Version of 20-Item Zimbardo Time Perspective Inventory (C-ZTPI-20) in Chinese Adolescent Population. Psychol Res Behav Manag. 17:1271-1282
 https://doi.org/10.2147/PRBM.S436735 **（SSCI, Q1 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 4.3, 5-Year IF = 1.501, 2022 JCR）**  
