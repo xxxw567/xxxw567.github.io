@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍**, Routine activities and fraud re-victimization among older adults: Do types of routine activities matter? , 第十届数量法学年会, 2024, 长沙, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因——兼论《反电信网络诈骗法》对被害人的阶段化保护, 第六届“迈向数据法学”研讨会, 2023,北京, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因, 第二届“法大犯罪治理论坛”, 2023,北京, 中国 
 * **Xia Yiwei**, Understanding the Role of Substance Use in Problem Behavior Syndrome: A Network Approach, AASAR 9th Annual Meeting, 2023, MACAU, China
