@@ -11,7 +11,8 @@ Journal Article
 ======
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
-English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for fulltext)
+English (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for full text)
+* Lin, J., **Xia, Y.**, & Cai, T. (2024). Tip of The Iceberg? An Evaluation of the Non-uploaded Criminal Sentencing Documents in China. Asian Journal of Criminology. https://doi.org/10.1007/s11417-024-09434-0 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.8, 2023 JCR）**
 * Xin, Y.,**Xia Y.***, & Chai, Y. (2024). Routine activities and fraud re-victimization among older adults: Do types of routine activities matter? Criminology & Criminal Justice, 0(0). https://doi.org/10.1177/17488958241257860 **（SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.5, 2022 JCR）**
 * **Xia, Y.**, Sun, H., Liu, T.-H., & Ma, Z. (2024). Understanding the relations between personality traits, bullying perpetration, and victimization among Chinese adolescents: A psychological network analysis. Current Psychology. https://doi.org/10.1007/s12144-024-06029-x**（SSCI, Q3 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 2.387, 2022 JCR）**
 * Liu, T.-H., Ma, Z., & **Xia Y.*** (2024). Serving on WeChat: Understanding the logic of police’s engagement with the public in Chinese contexts. International Journal of Law, Crime and Justice, 77, 100665. https://doi.org/10.1016/j.ijlcj.2024.100665  **（SSCI, Q3 in LAW, IF = 1.1, 2022 JCR）**  
