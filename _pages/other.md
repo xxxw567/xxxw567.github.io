@@ -15,10 +15,10 @@ Professional activities
 ======
 * Lifelong member, Asian Association of Substance Abuse Research
 * Lifelong member, Asian Criminological Society
-* Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ) 
-* Member, Chinese Society of Research on Child Development 
-* Journal Reviewer: Asian journal of criminology (AJOC), Int. J. Environ. Res. Public Health (IJERPH), Crime & Delinquency (CAD), Biomedical and Environmental Sciences (BES), PeerJ, Journal of Contemporary China (JCC), Globalization and Health, Health & Social Care in the Community(HSCC), Journal of Asian and African Study (JAAS), Law and Policy, Police Practice and Research (PPR), Deviant Behavior, International Criminal Justice Review (ICJR), Journal of Adolescence, Frontiers in Psychiatry, Frontiers in Psychology, Humanities & Social Sciences Communications (HSScomms), BMC Psychology, Journal of Family Issues, Social Psychiatry and Psychiatric Epidemiology, Police Practice and Research: An International Journal (PPR), Social Science Research (SSR), International Review of Law & Economics（IRLE）, International Journal of Law Crime and Justice (IJLCJ), Plos One, The Journal of Chinese Sociology, Journal of Criminal Justice, 《社会》, 《浙江警官学院学报》
-  
+* Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ)
+* Member, Chinese Society of Research on Child Development
+* Journal Reviewer (in alphabetical): Asian Journal of Criminology (AJOC), BMC Psychology, Biomedical and Environmental Sciences (BES), Crime & Delinquency (CAD), Deviant Behavior, Frontiers in Psychiatry, Frontiers in Psychology, Frontiers in Sociology, Globalization and Health, Health & Social Care in the Community (HSCC), Humanities & Social Sciences Communications (HSScomms), International Criminal Justice Review (ICJR), International Journal of Environmental Research and Public Health (IJERPH), International Journal of Law Crime and Justice (IJLCJ), International Review of Law & Economics (IRLE), Journal of Adolescence, Journal of Asian and African Studies (JAAS), Journal of Contemporary China (JCC), Journal of Criminal Justice, Journal of Family Issues, Law and Policy, PLOS ONE, Police Practice and Research (PPR), Social Psychiatry and Psychiatric Epidemiology, Social Science Research (SSR), The Journal of Chinese Sociology, 《社会》, 《浙江警官学院学报》,《湖湘法律评论》,《金融监管研究》.
+
 * Editorial Board：
 1. BMC Public Health（SCI-E，JCR Q2 in Public Health, Environmental and Occupational Health，IF=3.5），2024 -
 
