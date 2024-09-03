@@ -21,8 +21,8 @@ Professional activities
 
 * Editorial Board：
 1. BMC Public Health (SCI-E, JCR Q2 in Public Health, Environmental and Occupational Health, IF=3.5, JCR 2023), Member Editorial Board, 2024 -
-2. Journal of Research on Adolescence (SSCI, JCR Q1 in Developmental and Educational Psychology, IF=4.60, JCR 2023), Consulting Editor, 2024 -
-
+2. Journal of Research on Adolescence (SSCI, JCR Q1 2/66 in FAMILY STUDIES; 12/91 in PSYCHOLOGY, DEVELOPMENTAL
+ , IF=4.60, JCR 2023), Consulting Editor, 2024 -
 
 Honors and awards
 ======
