@@ -75,6 +75,9 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - **Xia, Y.**, Wu, G., Zhang, L. (2015). Analysis of factors influencing the relapse interval of different types of drugs: A case study of 913 relapsing drug addicts in Shanghai Drug Rehabilitation Centre. _Chinese Journal of Drug Abuse Prevention and Control, (3)_, 133-137. (夏一巍, 吴光炜, 张连祥. 不同类型毒品复吸间隔影响因素分析: 以上海市戒毒所913名复吸者为例. 中国药物滥用防治杂志, (3), 133-137.)
 - Zhang, X., **Xia Y.**, Ye, J. (2015). Analysis of the Prevention and Control Mechanism of Youth Drug Abuse in Macau: A Perspective of Macao’s Social Control and Education on Drug Abuse Prevention. _Youth Studies, 2015(3)_, 30-38. (张小华, 夏一巍, 叶嘉茵. 澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角. 青年研究, 2015(3), 30-38.) **(CSSCI)**
 
+###Other Publications
+- **Xia, Y.**, & Zhang, Y. (2024). ["Balancing Leniency and Severity” in China: The Historical, Substantive and Methodological Reflections"](https://acccj.org/balancing-leniency-and-severity-in-china/). *ACCCJ Research Bulletin* (Not peer-reviewed).
+
 Book & Book Chapter
 ======
 - 杰弗瑞·T·沃克等著, 熊谋林，**夏一巍**等译. (2022). _犯罪学与刑事司法统计：实证分析和解释(原书第4版)_ [Criminology and Criminal Justice Statistics: Empirical Analysis and Interpretation (4th ed.)], 重庆大学出版（万卷方法丛书）. (Chongqing University Press, Wanjuan Methodology Series)
