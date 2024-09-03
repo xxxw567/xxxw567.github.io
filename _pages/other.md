@@ -20,7 +20,8 @@ Professional activities
 * Journal Reviewer (in alphabetical): Asian Journal of Criminology (AJOC), BMC Psychology, Biomedical and Environmental Sciences (BES), Crime & Delinquency (CAD), Deviant Behavior, Frontiers in Psychiatry, Frontiers in Psychology, Frontiers in Sociology, Globalization and Health, Health & Social Care in the Community (HSCC), Humanities & Social Sciences Communications (HSScomms), International Criminal Justice Review (ICJR), International Journal of Environmental Research and Public Health (IJERPH), International Journal of Law Crime and Justice (IJLCJ), International Review of Law & Economics (IRLE), Journal of Adolescence, Journal of Asian and African Studies (JAAS), Journal of Contemporary China (JCC), Journal of Criminal Justice, Journal of Family Issues, Law and Policy, PLOS ONE, Police Practice and Research (PPR), Policing: An International Journal, Social Psychiatry and Psychiatric Epidemiology, Social Science Research (SSR), The Journal of Chinese Sociology, 《社会》, 《浙江警官学院学报》,《湖湘法律评论》,《金融监管研究》.
 
 * Editorial Board：
-1. BMC Public Health（SCI-E，JCR Q2 in Public Health, Environmental and Occupational Health，IF=3.5），2024 -
+1. BMC Public Health (SCI-E, JCR Q2 in Public Health, Environmental and Occupational Health, IF=3.5, JCR 2023), Member Editorial Board, 2024 -
+2. Journal of Research on Adolescence (SSCI, JCR Q1 in Developmental and Educational Psychology, IF=4.60, JCR 2023), Consulting Editor, 2024 -
 
 
 Honors and awards
