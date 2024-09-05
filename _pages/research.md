@@ -12,7 +12,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 ### English - First/Corresponding Author
-
+- Meng, C., Li, Q., Cui, K., Xin, Y., Lama, W., & **Xia Y.\*** (2024). Low self-control, perceived social support and internet gaming addiction: findings from an ethnicity minority region in China. Frontiers in Psychiatry, 15, 1458626. https://doi.org/10.3389/fpsyt.2024.1458626 **(SSCI, Q2 in PSYCHIATRY, IF = 4.157, 2022 JCR)**
 - Xin, Y., **Xia Y.\***, & Chai, Y. (2024). Routine activities and fraud re-victimization among older adults: Do types of routine activities matter? _Criminology & Criminal Justice, 0(0)_. [https://doi.org/10.1177/17488958241257860](https://doi.org/10.1177/17488958241257860) **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.5, 2022 JCR)**
 - **Xia, Y.**, Sun, H., Liu, T.-H., & Ma, Z. (2024). Understanding the relations between personality traits, bullying perpetration, and victimization among Chinese adolescents: A psychological network analysis. _Current Psychology_. [https://doi.org/10.1007/s12144-024-06029-x](https://doi.org/10.1007/s12144-024-06029-x) **(SSCI, Q3 in PSYCHOLOGY, MULTIDISCIPLINARY, IF = 2.387, 2022 JCR)**
 - Liu, T.-H., Ma, Z., & **Xia Y.\*** (2024). Serving on WeChat: Understanding the logic of police’s engagement with the public in Chinese contexts. _International Journal of Law, Crime and Justice, 77_, 100665. [https://doi.org/10.1016/j.ijlcj.2024.100665](https://doi.org/10.1016/j.ijlcj.2024.100665) **(SSCI, Q3 in LAW, IF = 1.1, 2022 JCR)**
