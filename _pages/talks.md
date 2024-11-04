@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因 , 中美犯罪治理比较研究, 2024, 绵阳, 中国 
 * **夏一巍**, Routine activities and fraud re-victimization among older adults: Do types of routine activities matter? , 第十届数量法学年会, 2024, 长沙, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因——兼论《反电信网络诈骗法》对被害人的阶段化保护, 第六届“迈向数据法学”研讨会, 2023,北京, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因, 第二届“法大犯罪治理论坛”, 2023,北京, 中国 
