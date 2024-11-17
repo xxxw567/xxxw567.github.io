@@ -79,7 +79,7 @@ Specialization: Mathematics for Machine Learning, Imperial College London, [Cour
   * Applied Sociological Methodology (courses include: STATA, R, linear regression, categorical regression, generalized linear model, survival analysis, propensity score matching, etc.), Hong Kong University of Science and Technology
   * Nvivo Training Certification
 
-Notes for future students
+Notes for future master students
 ======
 如果你正在阅读这段文字，说明你可能对我招收研究生的信息感兴趣（而且能在这个犄角旮旯找到信息，也说明了你的信息检索能力不错）。因为通常而言很多学生并不会去详细关注潜在导师的个人网站（当然法学院似乎除了我之外也没人有个人网站）。下面，我将简单介绍我的学术研究内容和指导策略。
 
@@ -96,4 +96,28 @@ Notes for future students
 Notes for future PhD students
 ======
 
-As you may known 
+I firmly believe that doctoral education is, at its core, a process of cultivating future research collaborators. As my primary research areas lie in criminology and criminal justice, with a focus on publishing in international journals, I seek to train scholars who possess a global perspective and the ability to engage in meaningful international academic collaboration. Together, we can produce impactful research that contributes to global scholarship. Beyond the basic requirements set by the university, the following qualifications and skills will be particularly beneficial:
+
+### 1. Academic Background  
+While the Law School specifies certain requirements for admissions, I particularly encourage applicants with a social science background, such as sociology, economics (or management), political science, or psychology. These disciplines often provide comprehensive training in social science theories and research methodologies. Applicants with a criminology or criminal justice background are especially well-suited for this program.
+
+For information about my research interests and previous publications, please refer to the relevant sections on my [personal website](http://xiayiwei.site). While I encourage applications from candidates whose research interests align with my work, I also welcome applicants with their own unique academic directions. If you have a specific topic you are passionate about and believe it contributes to the broader fields of criminology and criminal justice, I would be happy to discuss and support your work.
+
+### 2. Research Skills  
+Applicants with prior research experience or a publication record—particularly in quantitative research—will be given preference. Familiarity with quantitative research methodologies and proficiency in data analysis tools such as STATA, R, or Python is highly desirable. Applicants whose experience is limited to SPSS may find it challenging to meet the demands of quantitative research; however, those with experience in SPSS Syntax demonstrate foundational programming knowledge and are likely able to quickly learn other tools. Applicants specializing in qualitative research are also welcome, especially those with prior experience and publications in this area, though my ability to provide guidance in qualitative methods is more limited.
+
+### 3. Language Proficiency  
+Strong English communication, reading, and writing skills—particularly academic writing—are essential. As the program aims to produce research for international criminology and criminal justice journals, a high level of proficiency in academic English is a critical requirement.
+
+### 4. Other Qualities  
+Applicants should demonstrate a passion for academic research, a spirit of innovation, and strong abilities in teamwork and scholarly communication.
+
+### Application Materials  
+Interested applicants are invited to submit the following materials via email to [xiayw@swufe.edu.cn](mailto:xiayw@swufe.edu.cn) with the subject line **"PhD Application - [Your Name]"**:  
+- A Curriculum Vitae (CV)  
+- Undergraduate and graduate transcripts  
+- A research proposal (detailing research interests and future plans)  
+- A writing sample (such as a published paper or working paper, if available)  
+
+I look forward to receiving your application and embarking on an academic journey together!
+
