@@ -8,6 +8,9 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍**, Are Foreigners Granted Leniency? An Analysis of Drug-Related Crime Sentences in China, 第二届计算社会学冬季论坛, 2025, 哈尔滨工程大学（黑龙江）, 中国 
+* **夏一巍**, Are Foreigners Granted Leniency? An Analysis of Drug-Related Crime Sentences in China, 第七届《迈向数字法学》研讨会, 2024, 浙江, 中国
+* **夏一巍**, 罪错未成年人分级分类机制的完善, 未成年人检察理论、未成年人权益保护研讨会, 2024, 成都金堂, 中国
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因 , 中美犯罪治理比较研究, 2024, 绵阳, 中国 
 * **夏一巍**, Routine activities and fraud re-victimization among older adults: Do types of routine activities matter? , 第十届数量法学年会, 2024, 长沙, 中国 
 * **夏一巍**, 论老年群体中重复诈骗被害：程度、间隔与成因——兼论《反电信网络诈骗法》对被害人的阶段化保护, 第六届“迈向数据法学”研讨会, 2023,北京, 中国 
