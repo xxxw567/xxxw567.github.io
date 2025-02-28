@@ -18,5 +18,5 @@ published: true
   * 西南财经大学 SWUFE 法学院 School of law “统计学 Statistics” 法学/金融双学位本科
 
 * Other
- * 《法学统计学（Legal statistics）》MOOC，建设中
- * 《司法统计学（Legal statistics）》教材，建设中
+  * 《法学统计学（Legal statistics）》MOOC，建设中
+  * 《司法统计学（Legal statistics）》教材，建设中
