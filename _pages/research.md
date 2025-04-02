@@ -61,7 +61,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 
 ### Chinese
 
-- **Xia, Y.** (2025). Patterns and Causes of Repeated Fraud Victimization Among the Elderly: An Empirical Analysis Based on Over Ten Thousand Samples. Journal of Shandong University (Philosophy and Social Sciences Edition), 2025(02), 76–90. （夏一巍. 老年群体重复诈骗被害的模式与成因：基于万余份样本的实证分析. 山东大学学报（哲学社会科学版）, 2025(02), 76–90. ）
+- **Xia, Y.** (2025). Patterns and Causes of Repeated Fraud Victimization Among the Elderly: An Empirical Analysis Based on Over Ten Thousand Samples. Journal of Shandong University (Philosophy and Social Sciences Edition), 2025(02), 76–90. （夏一巍. 老年群体重复诈骗被害的模式与成因：基于万余份样本的实证分析. 山东大学学报（哲学社会科学版）, 2025(02), 76–90. ） **(CSSCI)**
 - Xiang, M.\#, Chai, Y.\#, **Xia, Y.** (2024). Parental Conflict, Negative Emotions, and Non-Suicidal Self-Injurious Behavior in Rural Children: An Empirical Study Based on General Strain Theory. _Youth and Children Research, 2024(02)_, 84-93+62. (向梦雪、柴宇、夏一巍. 父母冲突、负面情绪与农村儿童非自杀性自伤行为: 基于一般紧张理论的实证研究. 少年儿童研究, 2024(02), 84-93+62.)
 - Xu, B.\#, **Xia, Y.**, Zhou, Y.\#, Zhang, Y. (2023). The relationship between adolescent online delinquent behavior and deviant peers: A social network analysis. _Youth Studies, 2023, No.448(01)_, 81-93+96. (许博洋、夏一巍、周由、张彦. 青少年网络越轨行为与不良同伴的关系——基于社交网络分析的方法. 青年研究, 2023, No.448(01), 81-93+96.) **(CSSCI)**
 - **Xia, Y.**, Luo, X.\# . (2023). The use of quantitative analytical methods in criminological research: current status, problems and recommendations. _Crime Research, 2023, No.256(01)_, 52-66. (夏一巍, 罗霞. 犯罪学研究中量化分析方法的使用：现状、问题与建议. 犯罪研究, 2023, No.256(01), 52-66.)
