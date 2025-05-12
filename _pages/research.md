@@ -12,6 +12,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 ### English - First/Corresponding Author
+- Han, Z., Liu, T.-H., Ma, Z. and **Xia Y.\*** (2025), Physical Fitness Predicts Bullying Victimization for Boys but Not for Girls: A Two-Wave Follow-Up Study. Journal of Adolescence. https://doi.org/10.1002/jad.12511 **(SSCI, Q2 in PSYCHOLOGY, DEVELOPMENTAL, IF = 3, 2023 JCR)**
 - **Xia, Y.**, Xu, S., Tan, S., Tan, J., & Huang, L. (2025). Trust No More? The Impact of Fraud Victimization on Generalized Trust in China. Victims & Offenders. https://www.tandfonline.com/doi/abs/10.1080/15564886.2025.2467888 **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.4, 2023 JCR)**
 - Chen, M., & **Xia Y.\*** (2025). Examining the Integrated Theory of Fraud Victimization in the Chinese Context: Insights from a Nationally Representative Survey. Deviant Behavior. https://www.tandfonline.com/doi/abs/10.1080/01639625.2025.2465691 **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.7, 2023 JCR)**
 - Meng, C., Li, Q., Cui, K., Xin, Y., Lama, W., & **Xia Y.\*** (2024). Low self-control, perceived social support and internet gaming addiction: findings from an ethnicity minority region in China. Frontiers in Psychiatry, 15, 1458626. https://doi.org/10.3389/fpsyt.2024.1458626 **(SSCI, Q2 in PSYCHIATRY, IF = 4.157, 2022 JCR)**
