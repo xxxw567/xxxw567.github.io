@@ -86,6 +86,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 
 Book & Book Chapter
 ======
+- 夏一巍 著. (2025). 《司法统计学》 (Legal Statistics). 西南财经大学出版社. (Southwestern University of Finance and Economics Press)
 - 杰弗瑞·T·沃克等著, 熊谋林，**夏一巍**等译. (2022). _犯罪学与刑事司法统计：实证分析和解释(原书第4版)_ [Criminology and Criminal Justice Statistics: Empirical Analysis and Interpretation (4th ed.)], 重庆大学出版（万卷方法丛书）. (Chongqing University Press, Wanjuan Methodology Series)
 - **夏一巍.** (2020). 第二章，第三章，第六章. In 李德 (编撰), _《澳门社会现状调查》 (Macau Social Survey)_, 五南出版社. (Wu-Nan Book Inc.)
 - **夏一巍.** (2018). 第一章第四节，第四章第一节，第六章第二节，第八章第一至第四节. In 李德 (编撰), _《中国家庭教养方式与青少年发展》 (Parenting Styles and Adolescent Development in China)_, 社会科学出版社. (Social Sciences Academic Press)
