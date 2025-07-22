@@ -8,9 +8,9 @@ published: true
 
 Conference presentation
 ======
-* **夏一巍**, 身体素质对欺凌受害的预测作用：基于性别差异的两期追踪研究, 2025年中国社会学年会犯罪社会学分会, 2025, 西南财经大学（绵阳）, 中国 
-* 夏一巍. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies，“中美犯罪治理比较研究”学术交流会，2025，西南科技大学（绵阳），中国
-* 夏一巍. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies. AI时代新型网络诈骗犯罪治理学术研讨会，2025，浙江警察学院（杭州），中国
+* **夏一巍**, 身体素质对欺凌受害的预测作用：基于性别差异的两期追踪研究, 2025年中国社会学年会犯罪社会学分会, 2025, 西南财经大学（成都）, 中国 
+* **夏一巍**. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies，“中美犯罪治理比较研究”学术交流会，2025，西南科技大学（绵阳），中国
+* **夏一巍**. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies. AI时代新型网络诈骗犯罪治理学术研讨会，2025，浙江警察学院（杭州），中国
 * **夏一巍**, Are Foreigners Granted Leniency? An Analysis of Drug-Related Crime Sentences in China, 第二届计算社会学冬季论坛, 2025, 哈尔滨工程大学（黑龙江）, 中国 
 * **夏一巍**, Are Foreigners Granted Leniency? An Analysis of Drug-Related Crime Sentences in China, 第七届《迈向数字法学》研讨会, 2024, 浙江, 中国
 * **夏一巍**, 罪错未成年人分级分类机制的完善, 未成年人检察理论、未成年人权益保护研讨会, 2024, 成都金堂, 中国
