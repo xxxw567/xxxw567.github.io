@@ -98,21 +98,28 @@ Notes for future master students
 Notes for future PhD students
 ======
 
-I firmly believe that doctoral education is, at its core, a process of cultivating future research collaborators. As my primary research areas lie in criminology and criminal justice, with a focus on publishing in international journals, I seek to train scholars who possess a global perspective and the ability to engage in meaningful international academic collaboration. Together, we can produce impactful research that contributes to global scholarship. Beyond the basic requirements set by the university, the following qualifications and skills will be particularly beneficial:
+I firmly believe that doctoral education is, at its core, a collaborative journey aimed at cultivating future research partners. My primary research areas are criminology and criminal justice, with a particular emphasis on publishing in international academic journals. I am committed to training scholars who not only possess rigorous research skills but also embrace a global perspective and are eager to engage in meaningful international academic collaboration. Together, we can produce impactful research that contributes to global scholarship.
+
+In addition to meeting the basic requirements set by the university, the following qualifications and skills will be especially beneficial:
+
 
 ### 1. Academic Background  
-While the Law School specifies certain requirements for admissions, I particularly encourage applicants with a social science background, such as sociology, economics (or management), political science, or psychology. These disciplines often provide comprehensive training in social science theories and research methodologies. Applicants with a criminology or criminal justice background are especially well-suited for this program.
+While the Law School outlines formal admission criteria, I particularly encourage applicants with a background in the social sciences—such as sociology, economics, political science, or psychology—as these disciplines offer strong training in theory and research methodology. Applicants with a background in criminology or criminal justice are especially well-suited for the program.
 
-For information about my research interests and previous publications, please refer to the relevant sections on my [personal website](http://xiayiwei.site). While I encourage applications from candidates whose research interests align with my work, I also welcome applicants with their own unique academic directions. If you have a specific topic you are passionate about and believe it contributes to the broader fields of criminology and criminal justice, I would be happy to discuss and support your work.
+To learn more about my research interests and previous publications, please refer to the relevant sections on my [personal website](http://xiayiwei.site). I welcome applications from candidates whose research interests align with mine, but I am equally open to applicants pursuing distinct academic directions. If you are passionate about a particular topic and believe it contributes meaningfully to the broader fields of criminology and criminal justice, I would be happy to discuss and support your work.
 
 ### 2. Research Skills  
-Applicants with prior research experience or a publication record—particularly in quantitative research—will be given preference. Familiarity with quantitative research methodologies and proficiency in data analysis tools such as STATA, R, or Python is highly desirable. Applicants whose experience is limited to SPSS may find it challenging to meet the demands of quantitative research; however, those with experience in SPSS Syntax demonstrate foundational programming knowledge and are likely able to quickly learn other tools. Applicants specializing in qualitative research are also welcome, especially those with prior experience and publications in this area, though my ability to provide guidance in qualitative methods is more limited.
+Preference will be given to applicants with prior research experience or a publication record, particularly in quantitative research. Familiarity with statistical software such as STATA, R, or Python is highly desirable. Applicants who have worked primarily with SPSS may face a steeper learning curve; however, those with experience using SPSS Syntax demonstrate foundational programming knowledge and can typically transition to other platforms with relative ease.
+
+Applicants specializing in qualitative research are also welcome, especially those with prior experience and related publications. Please note, however, that my capacity to provide close supervision in qualitative methods is more limited.
 
 ### 3. Language Proficiency  
-Strong English communication, reading, and writing skills—particularly academic writing—are essential. As the program aims to produce research for international criminology and criminal justice journals, a high level of proficiency in academic English is a critical requirement.
+Strong English skills—especially in academic reading, writing, and communication—are essential. Since the goal of the program is to produce research suitable for publication in international journals, a high level of proficiency in academic English is a key requirement.
+
 
 ### 4. Other Qualities  
-Applicants should demonstrate a passion for academic research, a spirit of innovation, and strong abilities in teamwork and scholarly communication.
+Successful applicants should demonstrate a strong passion for academic research, intellectual curiosity, and the ability to work collaboratively. A proactive, communicative, and team-oriented mindset will be highly valued.
+
 
 ### Application Materials  
 Interested applicants are invited to submit the following materials via email to [xiayw@swufe.edu.cn](mailto:xiayw@swufe.edu.cn) with the subject line **"PhD Application - [Your Name]"**:  
@@ -121,5 +128,6 @@ Interested applicants are invited to submit the following materials via email to
 - A research proposal (detailing research interests and future plans)  
 - A writing sample (such as a published paper or working paper, if available)  
 
-I look forward to receiving your application and embarking on an academic journey together!
+I look forward to reviewing your application and embarking on an academic journey together.
+
 
