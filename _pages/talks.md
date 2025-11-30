@@ -1,4 +1,4 @@
----
+<img width="1731" height="323" alt="image" src="https://github.com/user-attachments/assets/8068e208-4ee0-45f3-8ec4-2545eb24ac94" />---
 layout: archive
 title: Presentation & Talk
 permalink: /talks/
@@ -8,6 +8,8 @@ published: true
 
 Conference presentation
 ======
+* **夏一巍**, 刑满释放人员公众接纳的心理机制：基于社会距离理论的实证检验, 中国法学会刑事执行法学研究会, 2025, 中国政法大学（北京）, 中国 
+* **夏一巍**, 中国城市犯罪集中规律的检验：交通网络何以可能？, 第二届智慧法治高峰论坛暨第十一届数量法学论坛, 2025, 湖南大学（长沙）, 中国 
 * **夏一巍**, 身体素质对欺凌受害的预测作用：基于性别差异的两期追踪研究, 2025年中国社会学年会犯罪社会学分会, 2025, 西南财经大学（成都）, 中国 
 * **夏一巍**. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies，“中美犯罪治理比较研究”学术交流会，2025，西南科技大学（绵阳），中国
 * **夏一巍**. Towards a Stagewise and Method-wise Integrated Theory of Fraud Victimization: Findings from Four National Representative Studies. AI时代新型网络诈骗犯罪治理学术研讨会，2025，浙江警察学院（杭州），中国
