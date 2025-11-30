@@ -24,9 +24,11 @@ Professional activities
 1. BMC Public Health (SCI-E, JCR Q2 in Public Health, Environmental and Occupational Health, IF=3.5, JCR 2023), Member Editorial Board, 2024 -
 2. Journal of Research on Adolescence (SSCI, JCR Q1 2/66 in FAMILY STUDIES; 12/91 in PSYCHOLOGY, DEVELOPMENTAL, IF=4.60, JCR 2023), Consulting Editor, 2025 -
 3. PLOS ONE (SCIE, JCR Q1 in MULTIDISCIPLINARY SCIENCES, JIF=2.90, JCR 2023), Academic Editor, 2025 -
+4. 山东大学学报（哲学社科版），青年编辑，2025-
 
 Honors and awards
 ======
+* 第九届中国法律实证研究年会优秀成果奖，二等奖，2025
 * 第九届中国法律实证研究年会优秀成果奖，三等奖，2024
 * 中国犯罪学学会2024年年会优秀论文，二等奖，2024
 * 中国犯罪学学会2024年年会优秀论文（第三作者），三等奖，2024
