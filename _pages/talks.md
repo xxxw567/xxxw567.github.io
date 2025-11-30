@@ -1,4 +1,4 @@
-<img width="1731" height="323" alt="image" src="https://github.com/user-attachments/assets/8068e208-4ee0-45f3-8ec4-2545eb24ac94" />---
+---
 layout: archive
 title: Presentation & Talk
 permalink: /talks/
