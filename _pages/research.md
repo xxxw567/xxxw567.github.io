@@ -62,6 +62,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - Li, S. D., Zhang, X., Tang, W., & **Xia, Y.** (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. _Sage Open, 7(4)_. **(SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, 2018 JCR)**
 
 ### Chinese
+-  Lin, M.\#, Wang, C.\#, Song, Y.\#, **Xia, Y.** (2025). Why Do Victims Remain Silent? An Empirical Study on Fraud Victims’ Willingness to Report to the Police Based on Black’s Theory of the Behavior of Law. Guanghua Law Review, 2025(1), 85–102. （林镁钰,王慈,宋奕非,等.为何沉默——基于布莱克法律运作理论的诈骗被害人报警意愿实证研究[J].光华法学,2025,(01):85-102.）
 -  **Xia, Y.**, Zhou, Y., Hu, T., & Shen, M. (2025). Application of “Computational Grounded Theory” in Predicting Fraud Victimization Among the Elderly: An Empirical Study Based on CHARLS Data. Huxiang Law Review, 2025, 5(02), 22–39. （夏一巍、周怡、胡彤昱、沈沐寒. “计算扎根”方法在老年群体诈骗被害预测中的应用: 基于CHARLS数据的实证研究. 湖湘法学评论, 2025, 5(02), 22–39.）
 - **Xia, Y.** (2025). Patterns and Causes of Repeated Fraud Victimization Among the Elderly: An Empirical Analysis Based on Over Ten Thousand Samples. Journal of Shandong University (Philosophy and Social Sciences Edition), 2025(02), 76–90. （夏一巍. 老年群体重复诈骗被害的模式与成因：基于万余份样本的实证分析. 山东大学学报（哲学社会科学版）, 2025(02), 76–90. ） **(CSSCI)**
 - Xiang, M.\#, Chai, Y.\#, **Xia, Y.** (2024). Parental Conflict, Negative Emotions, and Non-Suicidal Self-Injurious Behavior in Rural Children: An Empirical Study Based on General Strain Theory. _Youth and Children Research, 2024(02)_, 84-93+62. (向梦雪、柴宇、夏一巍. 父母冲突、负面情绪与农村儿童非自杀性自伤行为: 基于一般紧张理论的实证研究. 少年儿童研究, 2024(02), 84-93+62.)
@@ -117,6 +118,7 @@ Research projects and grants
 
 | Time| Project Name| Category|  Role  |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- |  ----- |
+| 2025-       | 诈骗被害的阶段化理论：理论构建与实证检验| 国家社会科学基金项目（后期资助）|  PI |
 | 2023-       | 被害人学视角下电信诈骗全阶段预防治理机制研究| 司法部法治建设与法学理论研究部级科研项目（青年项目）|  PI |
 | 2022-       | 青少年同伴社交网络与越轨行为动态演化机制研究| 西南财经大学光华青年教师成长计划|  PI |
 | 2021-       | 大数据背景下诈骗犯罪被害的基层社会治理研究| 四川省社会科学基金重点项目|  PI |
