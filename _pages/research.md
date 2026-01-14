@@ -12,6 +12,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
 ### English - First/Corresponding Author
+- **Xia Y.\***, & Liu, Z. \#, Xin, Y. (2026). Approaching Crime Information from Major National Social Surveys in China: A Comprehensive Review of Their Value and Utility for Criminological Research. Journal of Contemporary Criminal Justice, 0(0). https://doi.org/10.1177/10439862251387468  **(SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.3, 2023 JCR)**
 - **Xia Y.\***, & Liu, Z. \# (2026). Testing the law of crime concentration in China: Do transportation networks matter?. Journal of Criminal Justice, 102, 102563.  **(SSCI, Q1 in CRIMINOLOGY & PENOLOGY, IF = 2.5, 2023 JCR)**
 - Han, Z., Liu, T.-H., Ma, Z. and **Xia Y.\*** (2025), Physical Fitness Predicts Bullying Victimization for Boys but Not for Girls: A Two-Wave Follow-Up Study. Journal of Adolescence. https://doi.org/10.1002/jad.12511 **(SSCI, Q2 in PSYCHOLOGY, DEVELOPMENTAL, IF = 3, 2023 JCR)**
 - **Xia, Y.**, Xu, S.\#, Tan, S.\#, Tan, J.\#, & Huang, L. (2025). Trust No More? The Impact of Fraud Victimization on Generalized Trust in China. Victims & Offenders. https://www.tandfonline.com/doi/abs/10.1080/15564886.2025.2467888 **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.4, 2023 JCR)**
