@@ -13,6 +13,7 @@ published: true
 
 Professional activities 
 ======
+* Director（理事）,Research Association of Criminal Law Enforcement, China Law Society（中国法学会刑事执行法学研究会）
 * Lifelong member, Asian Association of Substance Abuse Research (AASAR)
 * Lifelong member, Asian Criminological Society (ACS)
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ)
@@ -28,6 +29,7 @@ Professional activities
 
 Honors and awards
 ======
+* 西南财经大学法学院科研标兵，2025 
 * 《少年儿童研究》2024优秀论文奖，2025
 * 第十届中国法律实证研究年会优秀成果奖，二等奖，2025
 * 第九届中国法律实证研究年会优秀成果奖，三等奖，2024
