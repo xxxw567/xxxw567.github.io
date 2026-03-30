@@ -19,3 +19,7 @@ Room D512, Tongbo Building, Southwestern University of Finance and Economics,
 
 **Email:**  
 xiayw@swufe.edu.cn
+
+**CV:**  
+[Download CV](../files/Xiayw_cv20260330.md) (Updated March 30, 2026)
+
