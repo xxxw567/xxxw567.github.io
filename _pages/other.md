@@ -13,40 +13,58 @@ published: true
 
 Professional activities 
 ======
-* Director（理事）,Research Association of Criminal Law Enforcement, China Law Society（中国法学会刑事执行法学研究会）
+* Director (理事), Research Association of Criminal Law Enforcement, China Law Society (中国法学会刑事执行法学研究会)
 * Lifelong member, Asian Association of Substance Abuse Research (AASAR)
 * Lifelong member, Asian Criminological Society (ACS)
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ)
 * Member, International Chinese Sociological Association (ICSA)
 * Member, Chinese Society of Research on Child Development (CSRCD)
-* Journal Reviewer (listed alphabetically): Asian Journal of Criminology (AJOC), BMC Psychology, Biomedical and Environmental Sciences (BES), Canadian Journal of Criminology and Criminal Justice, Children and Youth Services Review, Crime & Delinquency (CAD), Criminal Justice and Behavior, Chinese Sociological Review, Deviant Behavior, Frontiers in Psychiatry, Frontiers in Psychology, Frontiers in Sociology, Globalization and Health, Health & Social Care in the Community (HSCC), Humanities & Social Sciences Communications (HSScomms), International Criminal Justice Review (ICJR), International Journal of Environmental Research and Public Health (IJERPH), International Journal of Law, Crime and Justice (IJLCJ), International Review of Law & Economics (IRLE), Journal of Adolescence, Journal of Asian and African Studies (JAAS), Journal of Contemporary China (JCC), Journal of Criminal Justice, Journal of Elder Abuse & Neglect, Journal of Family Issues, Journal of Research in Adolescence, Law and Criminological Psychology, Law and Policy, PLOS ONE, Police Practice and Research (PPR), Policing: An International Journal, Psychology, Crime & Law (PCL), Psychology in the Schools, Sage Open, Social Psychiatry and Psychiatric Epidemiology, Social Science Research (SSR), The Journal of Chinese Sociology, 《社会》,《山东大学学报（哲学社会科学版）》, 《浙江警官学院学报》,《湖湘法学评论》,《金融监管研究》.
+* Journal Reviewer (listed alphabetically): Asian Journal of Criminology (AJOC), BMC Psychology, Biomedical and Environmental Sciences (BES), Canadian Journal of Criminology and Criminal Justice, Children and Youth Services Review, Crime & Delinquency (CAD), Criminal Justice and Behavior, Chinese Sociological Review, Deviant Behavior, Frontiers in Psychiatry, Frontiers in Psychology, Frontiers in Sociology, Globalization and Health, Health & Social Care in the Community (HSCC), Humanities & Social Sciences Communications (HSScomms), International Criminal Justice Review (ICJR), International Journal of Environmental Research and Public Health (IJERPH), International Journal of Law, Crime and Justice (IJLCJ), International Review of Law & Economics (IRLE), Journal of Adolescence, Journal of Asian and African Studies (JAAS), Journal of Contemporary China (JCC), Journal of Criminal Justice, Journal of Elder Abuse & Neglect, Journal of Family Issues, Journal of Research in Adolescence, Law and Criminological Psychology, Law and Policy, PLOS ONE, Police Practice and Research (PPR), Policing: An International Journal, Psychology, Crime & Law (PCL), Psychology in the Schools, Sage Open, Social Psychiatry and Psychiatric Epidemiology, Social Science Research (SSR), The Journal of Chinese Sociology, Shehui (《社会》), Journal of Shandong University (Philosophy and Social Sciences Edition) (《山东大学学报（哲学社会科学版）》), Journal of Zhejiang Police College (《浙江警官学院学报》), Huxiang Law Review (《湖湘法学评论》), Financial Regulation Research (《金融监管研究》).
 
 * Editorial Board：
 1. BMC Public Health (SCI-E, JCR Q2 in Public Health, Environmental and Occupational Health, IF=3.5, JCR 2023), Member Editorial Board, 2024 -
 2. Journal of Research on Adolescence (SSCI, JCR Q1 2/66 in FAMILY STUDIES; 12/91 in PSYCHOLOGY, DEVELOPMENTAL, IF=4.60, JCR 2023), Consulting Editor, 2025 -
 3. PLOS ONE (SCIE, JCR Q1 in MULTIDISCIPLINARY SCIENCES, JIF=2.90, JCR 2023), Academic Editor, 2025 -
-4. 山东大学学报（哲学社科版），青年编辑，2025-
+4. 山东大学学报（哲学社会科学版） / Journal of Shandong University (Philosophy and Social Sciences Edition), Youth Editorial Board Member, 2025 -
 
 Honors and awards
 ======
-* 西南财经大学优秀教师，2025 
-* 西南财经大学法学院科研标兵，2025 
+* 西南财经大学优秀教师，2025
+  Distinguished Teacher, Southwestern University of Finance and Economics, 2025
+* 西南财经大学法学院科研标兵，2025
+  Research Excellence Award, School of Law, Southwestern University of Finance and Economics, 2025
 * 《少年儿童研究》2024优秀论文奖，2025
+  Outstanding Paper Award of *Youth and Children Research* (for 2024), 2025
 * 第十届中国法律实证研究年会优秀成果奖，二等奖，2025
+  Second Prize, Outstanding Achievement Award, 10th Annual Conference on Empirical Legal Studies in China, 2025
 * 第九届中国法律实证研究年会优秀成果奖，三等奖，2024
+  Third Prize, Outstanding Achievement Award, 9th Annual Conference on Empirical Legal Studies in China, 2024
 * 中国犯罪学学会2024年年会优秀论文，二等奖，2024
+  Second Prize, Outstanding Paper Award, 2024 Annual Meeting of the Chinese Society of Criminology, 2024
 * 中国犯罪学学会2024年年会优秀论文（第三作者），三等奖，2024
+  Third Prize, Outstanding Paper Award, 2024 Annual Meeting of the Chinese Society of Criminology (third author), 2024
 * 新时代“枫桥经验”促进反家庭暴力公共安全治理研究征文，二等奖，2024
-* 西南财经大学优秀教师, 2024
-* 西南财经大学2024年度科研与社会服务优秀成果, 三等奖, 2024
-* 新时代“枫桥经验”促进反家庭暴力公共安全治理研究征文，二等奖，2023 
+  Second Prize, Essay Competition on Promoting Public Safety Governance Against Domestic Violence through the "Fengqiao Experience" in the New Era, 2024
+* 西南财经大学优秀教师，2024
+  Distinguished Teacher, Southwestern University of Finance and Economics, 2024
+* 西南财经大学2024年度科研与社会服务优秀成果，三等奖，2024
+  Third Prize, Outstanding Achievement in Research and Social Service, Southwestern University of Finance and Economics, 2024
+* 新时代“枫桥经验”促进反家庭暴力公共安全治理研究征文，二等奖，2023
+  Second Prize, Essay Competition on Promoting Public Safety Governance Against Domestic Violence through the "Fengqiao Experience" in the New Era, 2023
 * 国家监察理论与实践优秀论文（第三作者），一等奖，2023
+  First Prize, Outstanding Paper on the Theory and Practice of National Supervision (third author), 2023
 * 优秀共产党员，2021
-* 西南财经大学法学院科研标兵，2020 
-* 第十六届中国青少年发展论坛，优秀论文三等奖，2020 （学生合作）
+  Outstanding Communist Party Member, 2021
+* 西南财经大学法学院科研标兵，2020
+  Research Excellence Award, School of Law, Southwestern University of Finance and Economics, 2020
+* 第十六届中国青少年发展论坛，优秀论文三等奖，2020（学生合作）
+  Third Prize, Outstanding Paper Award, 16th China Adolescent Development Forum, 2020 (student collaboration)
 * 第十四届中国青少年发展论坛，优秀论文三等奖，2018
+  Third Prize, Outstanding Paper Award, 14th China Adolescent Development Forum, 2018
 * 2018年全国药物滥用防治会议，青年优秀论文三等奖，2018
-* 2015年全国药物滥用防治会议，青年优秀论文一等奖，2015 
+  Third Prize, Young Scholar Outstanding Paper Award, 2018 National Conference on Drug Abuse Prevention and Treatment, 2018
+* 2015年全国药物滥用防治会议，青年优秀论文一等奖，2015
+  First Prize, Young Scholar Outstanding Paper Award, 2015 National Conference on Drug Abuse Prevention and Treatment, 2015
 * Ph.D. scholarship, University of Macau, 2015
 * Master scholarship, University of Macau, 2012
 

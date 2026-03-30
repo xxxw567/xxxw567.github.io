@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7360-732X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yiwei-Xia"
   scopus           : # URL
 
   # Repositories and software development

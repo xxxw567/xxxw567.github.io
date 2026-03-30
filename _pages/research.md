@@ -114,23 +114,23 @@ Report
 Research projects and grants
 ======
 
-| Time| Project Name| Category|  Role  |
-| ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- |  ----- |
-| 2025-       | 诈骗被害的阶段化理论：理论构建与实证检验| 国家社会科学基金项目（后期资助）|  PI |
-| 2023-       | 被害人学视角下电信诈骗全阶段预防治理机制研究| 司法部法治建设与法学理论研究部级科研项目（青年项目）|  PI |
-| 2022-       | 青少年同伴社交网络与越轨行为动态演化机制研究| 西南财经大学光华青年教师成长计划|  PI |
-| 2021-       | 大数据背景下诈骗犯罪被害的基层社会治理研究| 四川省社会科学基金重点项目|  PI |
-| 2021-2022   | 诈骗犯罪的被害人学分析：基于CHFS的实证研究| 中央高校青年教师成长项目|  PI |
-| 2019-2020   | 一般紧张理论视角下歧视与流动青少年越轨行为的关系| 中央高校科研启动基金|  PI |
-| 2025-2026   | 社会建构主义视域下专门矫治教育学校课程体系构建研究| 四川省教育科学规划项目重点支持课题|  Co-PI |
-| 2024-2025   | 不良行为未成年人家庭教育指导的实践困境和千预机制研究| 上海市哲社教育规划|  Co-PI |
-| 2023-       | 农村青少年校园欺凌被害与社会工作分级类干预研究| 国家社科青年项目|  Co-PI |
-| 2022-2023   | 人口变化背景下民法教义学的转型| 四川省社科规划项目	|  Co-PI |
-| 2022-2023   | 性侵幼女”主观明知”问题的刑事推定规则研究| 四川省社科规划项目|  Co-PI |
-| 2021-       | 江苏青年社交媒体使用与健康行为研究| 江苏省社会科学基金青年项目|  Co-PI |
-| 2021-       | "互联网+"背景下福建省警务新媒体服务模式与效能研究| 福建省社会科学基金一般项目|  Co-PI |
-| 2020-2021   | 广西外流贩毒之大数据建设与社会治理研究| 广西哲学社会科学规划项目|  Co-PI |
-| 2019-       | 改革开放40年来中国人生命历程轨迹的变迁研究| 国家社科青年项目|  Co-PI |
-| 2015-2016   | 广西新型毒品滥用与犯罪实证研究| 中国法学会2015年度部级法学研究课题 |  Co-PI |
+| Time | Project | Category | Role |
+| ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----- |
+| 2025- | 诈骗被害的阶段化理论：理论构建与实证检验<br>A Stage-Based Theory of Fraud Victimization: Theoretical Construction and Empirical Testing | 国家社会科学基金项目（后期资助）<br>National Social Science Fund of China (Post-funded Project) | PI |
+| 2023- | 被害人学视角下电信诈骗全阶段预防治理机制研究<br>Research on the Whole-Process Prevention and Governance Mechanism of Telecom Fraud from a Victimological Perspective | 司法部法治建设与法学理论研究部级科研项目（青年项目）<br>Ministry of Justice Research Project on Rule of Law Development and Legal Theory (Youth Project) | PI |
+| 2022- | 青少年同伴社交网络与越轨行为动态演化机制研究<br>Research on the Dynamic Evolutionary Mechanism of Adolescent Peer Social Networks and Delinquent Behavior | 西南财经大学光华青年教师成长计划<br>SWUFE Guanghua Young Faculty Development Program | PI |
+| 2021- | 大数据背景下诈骗犯罪被害的基层社会治理研究<br>Grassroots Social Governance of Fraud Victimization in the Context of Big Data | 四川省社会科学基金重点项目<br>Sichuan Social Science Fund Key Project | PI |
+| 2021-2022 | 诈骗犯罪的被害人学分析：基于CHFS的实证研究<br>A Victimological Analysis of Fraud Crime: An Empirical Study Based on CHFS | 中央高校青年教师成长项目<br>Young Faculty Development Program of Central Universities | PI |
+| 2019-2020 | 一般紧张理论视角下歧视与流动青少年越轨行为的关系<br>Discrimination and Delinquent Behavior among Migrant Adolescents from the Perspective of General Strain Theory | 中央高校科研启动基金<br>Research Start-up Fund for Central Universities | PI |
+| 2025-2026 | 社会建构主义视域下专门矫治教育学校课程体系构建研究<br>Research on Curriculum System Construction for Specialized Correctional Education Schools from a Social Constructionist Perspective | 四川省教育科学规划项目重点支持课题<br>Key Supported Project of the Sichuan Education Science Planning Program | Co-PI |
+| 2024-2025 | 不良行为未成年人家庭教育指导的实践困境和干预机制研究<br>Practical Dilemmas and Intervention Mechanisms in Family Education Guidance for Minors with Misconduct | 上海市哲学社会科学教育规划<br>Shanghai Education Planning Project in Philosophy and Social Sciences | Co-PI |
+| 2023- | 农村青少年校园欺凌被害与社会工作分级分类干预研究<br>School Bullying Victimization among Rural Adolescents and Graded Social Work Intervention | 国家社科青年项目<br>National Social Science Fund of China Youth Project | Co-PI |
+| 2022-2023 | 人口变化背景下民法教义学的转型<br>The Transformation of Civil Law Dogmatics in the Context of Demographic Change | 四川省社科规划项目<br>Sichuan Social Science Planning Project | Co-PI |
+| 2022-2023 | 性侵幼女“主观明知”问题的刑事推定规则研究<br>Research on Criminal Presumption Rules for the Issue of “Subjective Knowledge” in Cases of Sexual Assault against Young Girls | 四川省社科规划项目<br>Sichuan Social Science Planning Project | Co-PI |
+| 2021- | 江苏青年社交媒体使用与健康行为研究<br>Social Media Use and Health Behaviors among Youth in Jiangsu | 江苏省社会科学基金青年项目<br>Jiangsu Social Science Fund Youth Project | Co-PI |
+| 2021- | “互联网+”背景下福建省警务新媒体服务模式与效能研究<br>Research on Service Models and Effectiveness of Police New Media in Fujian Province under the “Internet Plus” Context | 福建省社会科学基金一般项目<br>Fujian Social Science Fund General Project | Co-PI |
+| 2020-2021 | 广西外流贩毒之大数据建设与社会治理研究<br>Big Data Development and Social Governance of Outbound Drug Trafficking in Guangxi | 广西哲学社会科学规划项目<br>Guangxi Philosophy and Social Science Planning Project | Co-PI |
+| 2019- | 改革开放40年来中国人生命历程轨迹的变迁研究<br>Changes in Chinese Life-course Trajectories over the 40 Years of Reform and Opening Up | 国家社科青年项目<br>National Social Science Fund of China Youth Project | Co-PI |
+| 2015-2016 | 广西新型毒品滥用与犯罪实证研究<br>An Empirical Study of New-type Drug Abuse and Crime in Guangxi | 中国法学会2015年度部级法学研究课题<br>China Law Society 2015 Ministerial-level Legal Research Project | Co-PI |
 
 
