@@ -14,6 +14,8 @@ published: true
 Professional activities 
 ======
 * Director (理事), Research Association of Criminal Law Enforcement, China Law Society (中国法学会刑事执行法学研究会)
+* Director (理事), Police Law Research Association, Sichuan Law Society (四川省法学会警察法学研究会), 2025.6 -
+* Deputy Secretary-General (副秘书长), Comparative Criminology Committee, Chinese Society of Criminology (中国犯罪学学会比较犯罪学委员会), 2025.6 -
 * Lifelong member, Asian Association of Substance Abuse Research (AASAR)
 * Lifelong member, Asian Criminological Society (ACS)
 * Lifelong member, The Association of Chinese Criminology and Criminal Justice (ACCCJ)
