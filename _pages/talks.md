@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **Xia Yiwei**, 中国城市犯罪集中规律的检验：交通网络何以可能？ (Testing the Law of Crime Concentration in Chinese Cities: How Do Transportation Networks Matter?), 中国犯罪学学会比较犯罪学专业委员会成立仪式暨2026年比较犯罪学论坛 (Inaugural Ceremony of the Comparative Criminology Professional Committee of the Chinese Society of Criminology and 2026 Forum on Comparative Criminology), 2026, 西南政法大学（重庆） (Southwest University of Political Science and Law, Chongqing), China
 * **Xia Yiwei**, Computational Analysis of Urban Crime Concentration: Insights from Legal Big Data in China, 2025 International Conference on Social Computing, 2025, Fudan University, Shanghai, China
 * **Xia Yiwei**, Testing the Law of Crime Concentration in China: Do Transportation Networks Matter?, Asian Criminological Society, 2025, Queensland University of Technology, Brisbane, Australia
 * **Xia Yiwei**, 刑满释放人员公众接纳的心理机制：基于社会距离理论的实证检验 (The Psychological Mechanism of Public Acceptance of Released Prisoners: An Empirical Test Based on Social Distance Theory), 中国法学会刑事执行法学研究会 (Research Association of Criminal Law Enforcement, China Law Society), 2025, 中国政法大学（北京） (China University of Political Science and Law, Beijing), China
