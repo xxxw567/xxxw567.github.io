@@ -8,6 +8,8 @@ published: true
 
 Conference presentation
 ======
+* **Xia Yiwei**, Victim–Offender Relationship, Modus Operandi, and Offense Outcomes in Child Molestation: Evidence from China, 17th Asian Criminological Society Conference 2026, 2026, Penang, Malaysia
+* **Xia Yiwei**, Socio-spatial gradients as contested boundaries: Nonlinear, asymmetric, and spatially differentiated effects on property crime, “迈向数据法学”国际研讨会（2026） (Symposium of Empirical Legal Studies 2026), 2026, 中国政法大学海淀校区（北京） (China University of Political Science and Law, Haidian Campus, Beijing), China
 * **Xia Yiwei**, 犯罪集中定律在中国的适用性：交通网络是否可能？ (Applicability of the Law of Crime Concentration in China: Do Transportation Networks Matter?), 中国社会学会2026年学术年会“实现社会主义现代化背景下的犯罪研究与社会治理创新”论坛 (Chinese Sociological Association 2026 Annual Meeting Forum on Crime Research and Social Governance Innovation in the Context of Socialist Modernization), 2026, 西安交通大学兴庆校区（西安） (Xi'an Jiaotong University, Xingqing Campus, Xi'an), China
 * **Xia Yiwei**, 中国城市犯罪集中规律的检验：交通网络何以可能？ (Testing the Law of Crime Concentration in Chinese Cities: How Do Transportation Networks Matter?), 中国犯罪学学会比较犯罪学专业委员会成立仪式暨2026年比较犯罪学论坛 (Inaugural Ceremony of the Comparative Criminology Professional Committee of the Chinese Society of Criminology and 2026 Forum on Comparative Criminology), 2026, 西南政法大学（重庆） (Southwest University of Political Science and Law, Chongqing), China
 * **Xia Yiwei**, Computational Analysis of Urban Crime Concentration: Insights from Legal Big Data in China, 2025 International Conference on Social Computing, 2025, Fudan University, Shanghai, China
