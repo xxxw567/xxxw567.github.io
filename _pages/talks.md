@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **Xia Yiwei**, 犯罪集中定律在中国的适用性：交通网络是否可能？ (Applicability of the Law of Crime Concentration in China: Do Transportation Networks Matter?), 中国社会学会2026年学术年会“实现社会主义现代化背景下的犯罪研究与社会治理创新”论坛 (Chinese Sociological Association 2026 Annual Meeting Forum on Crime Research and Social Governance Innovation in the Context of Socialist Modernization), 2026, 西安交通大学兴庆校区（西安） (Xi'an Jiaotong University, Xingqing Campus, Xi'an), China
 * **Xia Yiwei**, 中国城市犯罪集中规律的检验：交通网络何以可能？ (Testing the Law of Crime Concentration in Chinese Cities: How Do Transportation Networks Matter?), 中国犯罪学学会比较犯罪学专业委员会成立仪式暨2026年比较犯罪学论坛 (Inaugural Ceremony of the Comparative Criminology Professional Committee of the Chinese Society of Criminology and 2026 Forum on Comparative Criminology), 2026, 西南政法大学（重庆） (Southwest University of Political Science and Law, Chongqing), China
 * **Xia Yiwei**, Computational Analysis of Urban Crime Concentration: Insights from Legal Big Data in China, 2025 International Conference on Social Computing, 2025, Fudan University, Shanghai, China
 * **Xia Yiwei**, Testing the Law of Crime Concentration in China: Do Transportation Networks Matter?, Asian Criminological Society, 2025, Queensland University of Technology, Brisbane, Australia
