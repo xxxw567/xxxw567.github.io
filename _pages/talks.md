@@ -51,6 +51,7 @@ Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challe
 
 Invited talk
 ======
+* **Xia Yiwei**, 2026-7-5, AI作为研究助手：从文献阅读、数据分析到论文写作 (AI as a Research Assistant: From Literature Reading and Data Analysis to Academic Writing), 中国社会学会社会网与社会资本研究专业委员会2026年会暨成立二十周年庆 (2026 Annual Meeting and 20th Anniversary Conference of the Social Network and Social Capital Research Committee, Chinese Sociological Association), 西南财经大学（成都） (Southwestern University of Finance and Economics, Chengdu)
 * **Xia Yiwei**, 2023-11-28, 论老年群体中重复诈骗被害：程度、间隔与成因 (Repeat Fraud Victimization among Older Adults: Extent, Interval, and Causes), ZOOM, 上海政法学院刑事司法学院 (School of Criminal Justice, Shanghai University of Political Science and Law)
 * **Xia Yiwei**, 2023-10-27, Repeat Fraud Victimization in the Elderly: Extent, Time Courses, and Risk Factors, ZOOM, Department of Sociology, University of Macau
 * **Xia Yiwei**, 2023-5-26, 中国犯罪被害调查的实现路径选择 (Pathways for Implementing Crime Victim Surveys in China), 中国犯罪调查学术研讨会 (Academic Symposium on Crime Surveys in China), 中国人民公安大学 (People's Public Security University of China)
