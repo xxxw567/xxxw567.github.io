@@ -39,7 +39,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. _Stata Journal, 19(3)_:698-718. **(SSCI, Q2 in SOCIAL SCIENCES, MATHEMATICAL METHODS, IF = 1.796, 5-Year IF = 3.090, JCR)**
 
 ### English - Others
-- Zhou, Z., Chen, G., **Xia, Y.**, & Shek, D. T. L. (2026). The impact of positive friends on adolescent development: Findings based on cross-sectional and longitudinal data. _Journal of Happiness Studies, 27_, 107. [10.1007/s10902-026-01091-7](https://doi.org/10.1007/s10902-026-01091-7)
+- Zhou, Z., Chen, G., **Xia, Y.**, & Shek, D. T. L. (2026). The impact of positive friends on adolescent development: Findings based on cross-sectional and longitudinal data. _Journal of Happiness Studies, 27_, 107. [10.1007/s10902-026-01091-7](https://doi.org/10.1007/s10902-026-01091-7) **(SSCI, Q1 in SOCIAL SCIENCES, MISCELLANEOUS, IF = 3.3, JCR)**
 - Liu, T.H., **Xia, Y.**, & Ma, Z. (2026). Understanding Emerging Adult Workers’ Problematic Internet Use Before and During the Coronavirus Pandemic: Roles of Personality Traits, Online Activities, and Mental Health Symptoms. _Psychiatric Quarterly, 97_(2), 385–409. [10.1007/s11126-025-10196-w](https://doi.org/10.1007/s11126-025-10196-w)  **(SSCI, Q2 in PSYCHIATRY, IF = 2.9, JCR)**
 - Xiong, M., **Xia, Y.**， & Yu, X. (2025). Sentencing equilibrium in rape cases: a legal and political explanation of jurisdictional uniformity in China. Humanit Soc Sci Commun 12, 59 . https://doi.org/10.1057/s41599-025-04368-z **(SSCI, Q1 2/267	in SOCIAL SCIENCES, INTERDISCIPLINARY, JIF = 3.7, JCR)**
 - Lin, J., **Xia, Y.** , & Cai, T. (2024). Tip of The Iceberg? An Evaluation of the Non-uploaded Criminal Sentencing Documents in China. _Asian Journal of Criminology_. 19, 373–395DOI: [10.1007/s11417-024-09434-0](https://doi.org/10.1007/s11417-024-09434-0) **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.8, JCR)**
@@ -123,6 +123,7 @@ Research projects and grants
 
 | Time | Project | Category | Role |
 | ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----- |
+| 2026- | 老年群体重复诈骗被害的时空规律及预防对策研究<br>Spatiotemporal Patterns and Prevention Strategies of Repeat Fraud Victimization among Older Adults | 四川省犯罪防控研究中心重点项目<br>Sichuan Provincial Research Center for Crime Prevention and Control Key Project | PI |
 | 2025- | 诈骗被害的阶段化理论：理论构建与实证检验<br>A Stage-Based Theory of Fraud Victimization: Theoretical Construction and Empirical Testing | 国家社会科学基金项目（后期资助）<br>National Social Science Fund of China (Post-funded Project) | PI |
 | 2023- | 被害人学视角下电信诈骗全阶段预防治理机制研究<br>Research on the Whole-Process Prevention and Governance Mechanism of Telecom Fraud from a Victimological Perspective | 司法部法治建设与法学理论研究部级科研项目（青年项目）<br>Ministry of Justice Research Project on Rule of Law Development and Legal Theory (Youth Project) | PI |
 | 2022- | 青少年同伴社交网络与越轨行为动态演化机制研究<br>Research on the Dynamic Evolutionary Mechanism of Adolescent Peer Social Networks and Delinquent Behavior | 西南财经大学光华青年教师成长计划<br>SWUFE Guanghua Young Faculty Development Program | PI |
