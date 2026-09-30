@@ -8,6 +8,7 @@ published: true
 
 Conference presentation
 ======
+* **Xia Yiwei**, Socio-Spatial Gradients as Contested Boundaries: Nonlinear, Asymmetric, and Spatially Differentiated Effects on Property Crime, 7th International Conference on Social Computing (ICSC 2026), 2026, Nuffield College, University of Oxford, Oxford, UK
 * **Xia Yiwei**, Victim–Offender Relationship, Modus Operandi, and Offense Outcomes in Child Molestation: Evidence from China, 17th Asian Criminological Society Conference 2026, 2026, Penang, Malaysia
 * **Xia Yiwei**, Socio-spatial gradients as contested boundaries: Nonlinear, asymmetric, and spatially differentiated effects on property crime, “迈向数据法学”国际研讨会（2026） (Symposium of Empirical Legal Studies 2026), 2026, 中国政法大学海淀校区（北京） (China University of Political Science and Law, Haidian Campus, Beijing), China
 * **Xia Yiwei**, 犯罪集中定律在中国的适用性：交通网络是否可能？ (Applicability of the Law of Crime Concentration in China: Do Transportation Networks Matter?), 中国社会学会2026年学术年会“实现社会主义现代化背景下的犯罪研究与社会治理创新”论坛 (Chinese Sociological Association 2026 Annual Meeting Forum on Crime Research and Social Governance Innovation in the Context of Socialist Modernization), 2026, 西安交通大学兴庆校区（西安） (Xi'an Jiaotong University, Xingqing Campus, Xi'an), China
