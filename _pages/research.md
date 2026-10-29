@@ -89,6 +89,14 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 Conference Proceedings
 ======
 - **Xia, Y.**, & Liu, Z. \# (2026). Computational analysis of urban crime concentration: Insights from legal big data in China. In _Social Computing: 6th International Conference, ICSC 2025, Shanghai, China, December 12–13, 2025, Revised Selected Papers_ (pp. 17–27). Springer Nature.
+* 陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>,**夏一巍**.(2021).低自我控制、生活方式暴露与诈骗被害：基于CHFS的实证研究（Low self-control, lifestyle exposure, and fraud victimization: An empirical study based on CHFS）,2021年“法大犯罪治理论文”论文集
+* 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究(Current situation and risk factors associated with Marijuana use among Macau adolesents),2019年全国药物滥用防治协研讨会会议论文集
+* 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為（Synthetic drug use and aggressive behavior among Macao's youth）,2019年全国药物滥用防治协研讨会会议论文集
+* 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究（Community Safety, Collective Effectiveness and Victimization of Youth）.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
+* 王殿玺,李德,刘子瑄,**夏一巍**,李杰楠.(2019).澳門在學青少年物質濫用與心理疾病共病性之研究（Study on the Co-morbidity of Substance Abuse and Mental Diseases among Adolescent Students in Macau）,2019年全国药物滥用防治协研讨会会议论文集
+* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究（A Comparative Study of the Characteristics of Native and Cross-border Foreign Migrant Substance Abusers in Yunnan Province）,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
+* 李德,**夏一巍**,张小华,唐伟,梁敏.(2018). 一般紧张理论在流动青少年越轨行为中的应用——多重中介效应模型究（Application of General Tension Theory to Deviant Behavior of Migrating Adolescents - A Modeling Study of Multiple Mediating Effects）,第十四届中国青少年发展论坛
+* 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响(Multiple mediating relationships between discrimination and deviance: applying general tension theory to explain the impact of social pressure on the deviant behavior of migrant children),第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
 
 Book & Book Chapter
 ======
@@ -100,17 +108,6 @@ Book & Book Chapter
 - **夏一巍 (译).** (2017). 地点警务中的犯罪空间转移和利益扩散 [Spatial displacement of crime and diffusion of benefits in location-based policing]. In 刘建宏 (编撰), _《警务工作评估系统性回顾研究》 [A Systematic Review of Policing Evaluations]_, 人民出版社. (People's Publishing House)
 - **夏一巍 (译).** (2017). 闭路电视监控对犯罪的打击效果 [Effectiveness of CCTV in combating crime]. In 刘建宏 (编撰), _《犯罪干预与预防评估系统回顾研究》 [A Systematic Review of Crime Intervention and Prevention Evaluations]_, 人民出版社. (People's Publishing House)
 - **Xia, Y.** (2017). Hoa Lo Prison. In Spencer De Li (Ed.), _Encyclopedia of Corrections_. NJ: John Wiley & Sons.
-  
-Conference Proceeding
-======
-* 陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>,**夏一巍**.(2021).低自我控制、生活方式暴露与诈骗被害：基于CHFS的实证研究（Low self-control, lifestyle exposure, and fraud victimization: An empirical study based on CHFS）,2021年“法大犯罪治理论文”论文集
-* 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究(Current situation and risk factors associated with Marijuana use among Macau adolesents),2019年全国药物滥用防治协研讨会会议论文集
-* 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為（Synthetic drug use and aggressive behavior among Macao's youth）,2019年全国药物滥用防治协研讨会会议论文集
-* 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究（Community Safety, Collective Effectiveness and Victimization of Youth）.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
-* 王殿玺,李德,刘子瑄,**夏一巍**,李杰楠.(2019).澳門在學青少年物質濫用與心理疾病共病性之研究（Study on the Co-morbidity of Substance Abuse and Mental Diseases among Adolescent Students in Macau）,2019年全国药物滥用防治协研讨会会议论文集
-* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究（A Comparative Study of the Characteristics of Native and Cross-border Foreign Migrant Substance Abusers in Yunnan Province）,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2018). 一般紧张理论在流动青少年越轨行为中的应用——多重中介效应模型究（Application of General Tension Theory to Deviant Behavior of Migrating Adolescents - A Modeling Study of Multiple Mediating Effects）,第十四届中国青少年发展论坛
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响(Multiple mediating relationships between discrimination and deviance: applying general tension theory to explain the impact of social pressure on the deviant behavior of migrant children),第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
 
 
 Report
