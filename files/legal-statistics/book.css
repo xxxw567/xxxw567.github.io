@@ -1,0 +1,168 @@
+html {
+  color: #1a1a1a;
+  background: #fdfdfd;
+  scroll-padding-top: 1rem;
+}
+
+body {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  font: 1rem/1.75 system-ui, "Microsoft YaHei", "PingFang SC", sans-serif;
+  overflow-wrap: anywhere;
+}
+
+.book-layout {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(13rem, 17rem) minmax(0, 1fr);
+  gap: clamp(1.5rem, 4vw, 4rem);
+  max-width: 83rem;
+  margin: 0 auto;
+  padding: 2rem clamp(1rem, 3vw, 3rem) 4rem;
+}
+
+.book-sidebar {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+  border: 1px solid #dce3ec;
+  border-radius: 0.6rem;
+  background: #f5f7fa;
+  min-width: 0;
+}
+
+.book-sidebar summary {
+  cursor: pointer;
+  padding: 0.7rem 1rem;
+  color: #17263c;
+  font-weight: 700;
+}
+
+#TOC {
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  padding: 0.2rem 0.55rem 0.55rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+#TOC > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#TOC a {
+  display: block;
+  padding: 0.35rem 0.5rem;
+  border-radius: 0.3rem;
+  color: #263b56;
+}
+
+#TOC a:hover,
+#TOC a:focus-visible {
+  background: #e5edf7;
+}
+
+.book-skip {
+  position: fixed;
+  z-index: 1;
+  top: 0.5rem;
+  left: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  background: white;
+  transform: translateY(-200%);
+}
+
+.book-skip:focus {
+  transform: none;
+}
+
+#book-main {
+  min-width: 0;
+}
+
+#title-block-header {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+#title-block-header h1 {
+  margin: 0;
+}
+
+#book-main table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 1em 0;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+  overflow-wrap: normal;
+}
+
+#book-main th,
+#book-main td {
+  padding: 0.15rem 0.5rem;
+}
+
+#book-main thead,
+#book-main tbody {
+  border-block: 1px solid #aeb9c7;
+}
+
+#book-main img,
+#book-main svg {
+  max-width: 100%;
+  height: auto;
+}
+
+#book-main blockquote {
+  margin-inline: 0;
+  padding-inline-start: 1em;
+  border-inline-start: 3px solid #dce3ec;
+  color: #4b5664;
+}
+
+#book-main pre {
+  overflow-x: auto;
+}
+
+#book-main .math.display,
+#book-main mjx-container[display="true"] {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+@media (max-width: 52rem) {
+  .book-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+    padding-top: 1rem;
+  }
+
+  .book-sidebar {
+    position: static;
+  }
+
+  #TOC {
+    max-height: min(35vh, 14rem);
+  }
+}
+
+@media print {
+  .book-layout {
+    display: block;
+    padding: 0;
+  }
+
+  .book-sidebar,
+  .book-skip {
+    display: none;
+  }
+}

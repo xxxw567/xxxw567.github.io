@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="$lang$">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$pagetitle$</title>
+  <style>
+    $styles.html()$
+  </style>
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+$if(math)$
+  $math$
+$endif$
+</head>
+<body>
+<a class="book-skip" href="#book-main">跳至正文</a>
+<div class="book-layout">
+$if(toc)$
+  <aside class="book-sidebar">
+    <details open>
+      <summary id="book-toc-label">目录</summary>
+      <nav id="TOC" aria-labelledby="book-toc-label">
+$table-of-contents$
+      </nav>
+    </details>
+  </aside>
+$endif$
+  <main id="book-main" tabindex="-1">
+    <header id="title-block-header">
+      <h1 class="title">$title$</h1>
+    </header>
+$body$
+  </main>
+</div>
+</body>
+</html>
