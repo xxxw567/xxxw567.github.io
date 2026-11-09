@@ -13,6 +13,7 @@ try {
     if ($LASTEXITCODE -ne 0) {
         throw "Pandoc failed with exit code $LASTEXITCODE."
     }
+    Compress-Archive -LiteralPath 'legal-statistics.md', 'assets' -DestinationPath 'legal-statistics-source.zip' -Force
 } finally {
     Pop-Location
 }

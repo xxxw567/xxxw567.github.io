@@ -172,6 +172,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - files/legal-statistics/legal-statistics.md
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
