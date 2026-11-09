@@ -26,4 +26,4 @@ Resources / 教学资源
 - 《法学统计学》MOOC (Legal Statistics MOOC), available [here](https://coursehome.zhihuishu.com/courseHome/1000098305)
 
 ### Textbook / 教材
-- 《司法统计学》教材 (Legal Statistics textbook), published by Southwestern University of Finance and Economics Press in 2025 ([勘误 Errata](../teaching/legal-statistics-errata/))
+- 《司法统计学》教材 (Legal Statistics textbook), published by Southwestern University of Finance and Economics Press in 2025. [阅读网页版 / Read online]({{ '/files/legal-statistics/' | relative_url }}) · <a href="{{ '/files/legal-statistics/legal-statistics.md' | relative_url }}" download="legal-statistics.md">下载 Markdown / Download Markdown</a> · [勘误 / Errata]({{ '/teaching/legal-statistics-errata/' | relative_url }})
