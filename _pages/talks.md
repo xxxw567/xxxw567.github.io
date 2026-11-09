@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: Presentation & Talk
+title: Presentation & Talk / 学术报告
 permalink: /talks/
 author_profile: true
 published: true
 ---
 
-Conference presentation
+Conference presentation / 会议报告
 ======
+* **Xia Yiwei**, 数据驱动的犯罪学研究：大型社会调查数据的价值与应用 (Data-Driven Criminological Research: The Value and Applications of Large-Scale Social Survey Data), 中国犯罪学学会第三十五届学术研讨会 (35th Annual Conference of the Chinese Society of Criminology), November 6–8, 2026, 承办单位：西南政法大学 (hosted by Southwest University of Political Science and Law)
 * **Xia Yiwei**, Socio-Spatial Gradients as Contested Boundaries: Nonlinear, Asymmetric, and Spatially Differentiated Effects on Property Crime, 7th International Conference on Social Computing (ICSC 2026), 2026, Nuffield College, University of Oxford, Oxford, UK
 * **Xia Yiwei**, Victim–Offender Relationship, Modus Operandi, and Offense Outcomes in Child Molestation: Evidence from China, 17th Asian Criminological Society Conference 2026, 2026, Penang, Malaysia
 * **Xia Yiwei**, Socio-spatial gradients as contested boundaries: Nonlinear, asymmetric, and spatially differentiated effects on property crime, “迈向数据法学”国际研讨会（2026） (Symposium of Empirical Legal Studies 2026), 2026, 中国政法大学海淀校区（北京） (China University of Political Science and Law, Haidian Campus, Beijing), China
@@ -50,7 +51,7 @@ Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challe
 * Cai Tianji, **Xia Yiwei**, Estimating Size of Illicit Drug Users in Macau, The 7th Annual Meeting of the Asian Criminological Society, 2014, Hong Kong
 * **Xia Yiwei**, Cai Tianji, Xin Yanyu, Estimating Size of Illicit Drug Users: Does the Effect of Capture Heterogeneity Matter?, The 6th Annual Meeting of the Asian Criminological Society, 2014, Osaka, Japan
 
-Invited talk
+Invited talk / 受邀报告
 ======
 * **Xia Yiwei**, 2026-7-5, AI作为研究助手：从文献阅读、数据分析到论文写作 (AI as a Research Assistant: From Literature Reading and Data Analysis to Academic Writing), 中国社会学会社会网与社会资本研究专业委员会2026年会暨成立二十周年庆 (2026 Annual Meeting and 20th Anniversary Conference of the Social Network and Social Capital Research Committee, Chinese Sociological Association), 西南财经大学（成都） (Southwestern University of Finance and Economics, Chengdu)
 * **Xia Yiwei**, 2023-11-28, 论老年群体中重复诈骗被害：程度、间隔与成因 (Repeat Fraud Victimization among Older Adults: Extent, Interval, and Causes), ZOOM, 上海政法学院刑事司法学院 (School of Criminal Justice, Shanghai University of Political Science and Law)

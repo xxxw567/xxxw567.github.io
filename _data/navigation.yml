@@ -5,14 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
+  - title: "Research / 科研"
     url: /research/
-  - title: "Presentation"
+  - title: "Presentation / 学术报告"
     url: /talks/    
-  - title: "Teaching"
+  - title: "Teaching / 教学"
     url: /teaching/    
-  - title: "Others"
+  - title: "Others / 其他"
     url: /other/      
-  - title: "Contact"
+  - title: "Contact / 联系方式"
     url: /contact/
 

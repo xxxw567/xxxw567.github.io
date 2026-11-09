@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Contact
+title: Contact / 联系方式
 permalink: /contact/
 author_profile: true
 redirect_from:

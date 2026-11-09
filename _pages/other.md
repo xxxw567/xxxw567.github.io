@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Others
+title: Others / 其他
 permalink: /other/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ published: true
 {% include base_path %}
 
 
-Professional activities 
+Professional activities / 学术服务
 ======
 * Director (理事), Research Association of Criminal Law Enforcement, China Law Society (中国法学会刑事执行法学研究会)
 * Director (理事), Police Law Research Association, Sichuan Law Society (四川省法学会警察法学研究会), 2025.6 -
@@ -29,7 +29,7 @@ Professional activities
 3. PLOS ONE (SCIE, JCR Q1 in MULTIDISCIPLINARY SCIENCES, JIF=2.90, JCR 2023), Academic Editor, 2025 -
 4. 山东大学学报（哲学社会科学版） / Journal of Shandong University (Philosophy and Social Sciences Edition), Youth Editorial Board Member, 2025 -
 
-Honors and awards
+Honors and awards / 荣誉与奖励
 ======
 * 西南财经大学优秀教师，2025
   Distinguished Teacher, Southwestern University of Finance and Economics, 2025
@@ -71,7 +71,7 @@ Honors and awards
 * Master scholarship, University of Macau, 2012
 
 
-Skills
+Skills / 技能
 ======
 * Data processing：
   *	STATA, Excel, SAS, Nvivo,R,SPSS
@@ -89,12 +89,12 @@ Skills
 * Programming：
   *	C & C++ (NCRE 2)
 
-Software
+Software / 软件
 ======
 * Stata command ***gidm*** for implementing generalized inflated discrete model, see [here](https://www.researchgate.net/publication/335953733_gidm_A_command_for_generalized_inflated_discrete_models?_sg%5B0%5D=7U6XOhS6nWM0L4saPiBUx1ViQRaQNgiPnFJoevqOGyPsDFcjV2xund9R8JcFNXPP0sAgQbpG7WW3sNF1WgSn-DV8BDPhNhwHoANJoxG5.OJp6-mCbvcs7ztyZwXdseWsEJLWw79BzpBGFWsa2JrArik_qeEgPfg_74eBbdotUKCwsBCGX0runKEX9cJo7Sg) for further information. 
 
 
-Certificates
+Certificates / 证书
 ======
   * SAS Base/Advanced Programmer Certificate 
   * Statement of Accomplishment with distinction in Structural Equation Model and its Applications, Chinese University of Hong Kong, 
@@ -107,7 +107,7 @@ Specialization: Mathematics for Machine Learning, Imperial College London, [Cour
   * Applied Sociological Methodology (courses include: STATA, R, linear regression, categorical regression, generalized linear model, survival analysis, propensity score matching, etc.), Hong Kong University of Science and Technology
   * Nvivo Training Certification
 
-Notes for future master students
+Notes for future master students / 硕士生招生说明
 ======
 如果你正在阅读这段文字，说明你可能对我招收研究生的信息感兴趣（而且能在这个犄角旮旯找到信息，也说明了你的信息检索能力不错）。因为通常而言很多学生并不会去详细关注潜在导师的个人网站（当然法学院似乎除了我之外也没人有个人网站）。下面，我将简单介绍我的学术研究内容和指导策略。
 
@@ -121,7 +121,7 @@ Notes for future master students
 
 以上。
 
-Notes for future PhD students
+Notes for future PhD students / 博士生招生说明
 ======
 
 I firmly believe that doctoral education is, at its core, a collaborative journey aimed at cultivating future research partners. My primary research areas are criminology and criminal justice, with a particular emphasis on publishing in international academic journals. I am committed to training scholars who not only possess rigorous research skills but also embrace a global perspective and are eager to engage in meaningful international academic collaboration. Together, we can produce impactful research that contributes to global scholarship.

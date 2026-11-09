@@ -1,17 +1,18 @@
 ---
 layout: archive
-title: Research
+title: Research / 科研
 permalink: /research/
 author_profile: true
 published: true
 ---
 
  
-Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act)** for full text) 
+Journal Articles / 期刊论文 ([Full text / 全文](https://www.researchgate.net/profile/Yiwei-Xia/research?ev=prf_act))
 ======
 **\*** denotes corresponding author; <sup>**#**</sup> denotes student authorship.
 
-### English - First/Corresponding Author
+### English - First/Corresponding Author / 英文论文（第一或通讯作者）
+- Xin, Y., Cai, T., **Xia, Y.\***, & Wu, Y. (2026). Victim-offender relationship, modus operandi, and offense outcomes in child molestation: Evidence from China. _Sexual Abuse_. Advance online publication. [10.1177/10790632261503565](https://doi.org/10.1177/10790632261503565) **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.8, JCR)**
 -  Mao K, & **Xia Y.\*** (2026). Dispute resolution in China: A test of Black's theory of legal behavior. PLOS ONE, 21(2), e0342190. https://doi.org/10.1371/journal.pone.0342190 **(SCIE, Q2 in MULTIDISCIPLINARY SCIENCE, IF = 2.6, JCR)**
 - Dai, M., Zhong, L. Y., & **Xia, Y.\*** (2026). Are foreigners granted leniency? An analysis of drug sentencing in China. _Punishment & Society_. Advance online publication. [10.1177/14624745261454684](https://doi.org/10.1177/14624745261454684) **(SSCI, Q2 in CRIMINOLOGY & PENOLOGY, IF = 1.4, JCR)**
 - **Xia, Y.**, & Liu, Z. \#, Xin, Y. (2026). Approaching Crime Information from Major National Social Surveys in China: A Comprehensive Review of Their Value and Utility for Criminological Research. Journal of Contemporary Criminal Justice,42(1), 153–175. https://doi.org/10.1177/10439862251387468  **(SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.3, JCR)**
@@ -38,7 +39,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - **Xia, Y.**, Cai, T., & Zhong, H. (2019). Effect of judges’ gender on rape sentencing. _China Review, 19(2)_, 125-150. **(SSCI, Q1 in AREA STUDY, IF = 1.171, 5-Year IF = 1.349, JCR)**
 - **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. _Stata Journal, 19(3)_:698-718. **(SSCI, Q2 in SOCIAL SCIENCES, MATHEMATICAL METHODS, IF = 1.796, 5-Year IF = 3.090, JCR)**
 
-### English - Others
+### English - Others / 英文论文（其他署名）
 - Zhou, Z., Chen, G., **Xia, Y.**, & Shek, D. T. L. (2026). The impact of positive friends on adolescent development: Findings based on cross-sectional and longitudinal data. _Journal of Happiness Studies, 27_, 107. [10.1007/s10902-026-01091-7](https://doi.org/10.1007/s10902-026-01091-7) **(SSCI, Q1 in SOCIAL SCIENCES, MISCELLANEOUS, IF = 3.3, JCR)**
 - Liu, T.H., **Xia, Y.**, & Ma, Z. (2026). Understanding Emerging Adult Workers’ Problematic Internet Use Before and During the Coronavirus Pandemic: Roles of Personality Traits, Online Activities, and Mental Health Symptoms. _Psychiatric Quarterly, 97_(2), 385–409. [10.1007/s11126-025-10196-w](https://doi.org/10.1007/s11126-025-10196-w)  **(SSCI, Q2 in PSYCHIATRY, IF = 2.9, JCR)**
 - Xiong, M., **Xia, Y.**， & Yu, X. (2025). Sentencing equilibrium in rape cases: a legal and political explanation of jurisdictional uniformity in China. Humanit Soc Sci Commun 12, 59 . https://doi.org/10.1057/s41599-025-04368-z **(SSCI, Q1 2/267	in SOCIAL SCIENCES, INTERDISCIPLINARY, JIF = 3.7, JCR)**
@@ -61,7 +62,7 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - Li, S. D., & **Xia, Y.** (2018). Understanding the link between discrimination and juvenile delinquency among Chinese migrant children. _Journal of Contemporary Criminal Justice, 34(2)_, 128-147. **(SSCI, Q3 in CRIMINOLOGY & PENOLOGY, IF = 1.000, 5-Year IF = 2.018, JCR)**
 - Li, S. D., Zhang, X., Tang, W., & **Xia, Y.** (2017). Predictors and implications of synthetic drug use among adolescents in the gambling capital of China. _Sage Open, 7(4)_. **(SSCI, Q4 in SOCIAL SCIENCES, INTERDISCIPLINARY, IF = 0.675, 5-Year IF = n/a, JCR)**
 
-### Chinese
+### Chinese / 中文论文
 -  Lin, M.\#, Wang, C.\#, Song, Y.\#, **Xia, Y.** (2025). Why Do Victims Remain Silent? An Empirical Study on Fraud Victims’ Willingness to Report to the Police Based on Black’s Theory of the Behavior of Law. Guanghua Law Review, 2025(1), 85–102. （林镁钰,王慈,宋奕非,等.为何沉默——基于布莱克法律运作理论的诈骗被害人报警意愿实证研究[J].光华法学,2025,(01):85-102.）
 -  **Xia, Y.**, Zhou, Y., Hu, T., & Shen, M. (2025). Application of “Computational Grounded Theory” in Predicting Fraud Victimization Among the Elderly: An Empirical Study Based on CHARLS Data. Huxiang Law Review, 2025, 5(02), 22–39. （夏一巍、周怡、胡彤昱、沈沐寒. “计算扎根”方法在老年群体诈骗被害预测中的应用: 基于CHARLS数据的实证研究. 湖湘法学评论, 2025, 5(02), 22–39.）
 - **Xia, Y.** (2025). Patterns and Causes of Repeated Fraud Victimization Among the Elderly: An Empirical Analysis Based on Over Ten Thousand Samples. Journal of Shandong University (Philosophy and Social Sciences Edition), 2025(02), 76–90. （夏一巍. 老年群体重复诈骗被害的模式与成因：基于万余份样本的实证分析. 山东大学学报（哲学社会科学版）, 2025(02), 76–90. ） **(CSSCI)**
@@ -83,14 +84,14 @@ Journal Article (click **[here](https://www.researchgate.net/profile/Yiwei-Xia/r
 - **Xia, Y.**, Wu, G., Zhang, L. (2015). Analysis of factors influencing the relapse interval of different types of drugs: A case study of 913 relapsing drug addicts in Shanghai Drug Rehabilitation Centre. _Chinese Journal of Drug Abuse Prevention and Control, (3)_, 133-137. (夏一巍, 吴光炜, 张连祥. 不同类型毒品复吸间隔影响因素分析: 以上海市戒毒所913名复吸者为例. 中国药物滥用防治杂志, (3), 133-137.)
 - Zhang, X., **Xia Y.**, Ye, J. (2015). Analysis of the Prevention and Control Mechanism of Youth Drug Abuse in Macau: A Perspective of Macao’s Social Control and Education on Drug Abuse Prevention. _Youth Studies, 2015(3)_, 30-38. (张小华, 夏一巍, 叶嘉茵. 澳门青少年滥药防控机制分析——以社会控制和澳门预防滥药教育为视角. 青年研究, 2015(3), 30-38.) **(CSSCI)**
 
-### Other Publications
+### Other Publications / 其他出版物
 - **Xia, Y.**, & Zhang, Y. (2024). ["Balancing Leniency and Severity” in China: The Historical, Substantive and Methodological Reflections"](https://acccj.org/balancing-leniency-and-severity-in-china/). *ACCCJ Research Bulletin*.
 
-Conference Proceedings
+Conference Proceedings / 英文会议论文集
 ======
 - **Xia, Y.**, & Liu, Z. \# (2026). Computational analysis of urban crime concentration: Insights from legal big data in China. In _Social Computing: 6th International Conference, ICSC 2025, Shanghai, China, December 12–13, 2025, Revised Selected Papers_ (pp. 17–27). Springer Nature.
 
-Book & Book Chapter
+Book & Book Chapter / 著作与章节
 ======
 - 亚历克斯·R. 皮盖惹、戴维·韦斯伯德 主编, 熊谋林、**夏一巍**等译. (2026). _《犯罪学定量方法手册》_ [Handbook of Quantitative Criminology]. 重庆大学出版社. (Chongqing University Press; six-volume Chinese edition: 《犯罪和司法问题的创新描述》, ISBN 978-7-5689-5798-4; 《犯罪和司法政策的评估技术》, ISBN 978-7-5689-5799-1; 《研究设计、数据测量和质量》, ISBN 978-7-5689-5800-4; 《关于犯罪与司法的实验研究》, ISBN 978-7-5689-5801-1; 《关于犯罪与司法的准实验研究》, ISBN 978-7-5689-5802-8; 《解释犯罪和司法效果的非实验方法》, ISBN 978-7-5689-5803-5)
 - 夏一巍 著. (2025). 《司法统计学》 (Legal Statistics). 西南财经大学出版社. (Southwestern University of Finance and Economics Press)
@@ -101,7 +102,7 @@ Book & Book Chapter
 - **夏一巍 (译).** (2017). 闭路电视监控对犯罪的打击效果 [Effectiveness of CCTV in combating crime]. In 刘建宏 (编撰), _《犯罪干预与预防评估系统回顾研究》 [A Systematic Review of Crime Intervention and Prevention Evaluations]_, 人民出版社. (People's Publishing House)
 - **Xia, Y.** (2017). Hoa Lo Prison. In Spencer De Li (Ed.), _Encyclopedia of Corrections_. NJ: John Wiley & Sons.
   
-Conference Proceeding
+Conference Proceeding / 中文会议论文集
 ======
 * 陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>,**夏一巍**.(2021).低自我控制、生活方式暴露与诈骗被害：基于CHFS的实证研究（Low self-control, lifestyle exposure, and fraud victimization: An empirical study based on CHFS）,2021年“法大犯罪治理论文”论文集
 * 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究(Current situation and risk factors associated with Marijuana use among Macau adolesents),2019年全国药物滥用防治协研讨会会议论文集
@@ -113,12 +114,12 @@ Conference Proceeding
 * 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响(Multiple mediating relationships between discrimination and deviance: applying general tension theory to explain the impact of social pressure on the deviant behavior of migrant children),第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
 
 
-Report
+Report / 研究报告
 ======
 - 李德，蔡天骥，马岩，张小华，林建，唐伟，叶嘉茵， **夏一巍.** (2014). _澳门学青少年与药物：2014报告_ [Macao Studies on Adolescents and Drugs: 2014 Report], 澳门大学出版社. (University of Macau Press).
 - 李德，熊若杉，蔡天骥，**夏一巍**，刘子瑄，王殿玺，卢思静，李杰楠. (2018). _澳門在学青少年与药物调查報告2018_ [Macao Studies on Adolescents and Drugs: 2018 Report]. [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
 
-Research projects and grants
+Research projects and grants / 科研项目与资助
 ======
 
 | Time | Project | Category | Role |
