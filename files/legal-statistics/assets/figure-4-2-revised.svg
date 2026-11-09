@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 285" role="img" aria-labelledby="title">
+  <title id="title">平均反应时间折線图，未饮酒 299 毫秒，饮酒 349 毫秒</title>
+  <rect width="560" height="285" fill="white"/>
+  <g font-family="sans-serif" font-size="15" fill="#111">
+  <text x="70" y="19">平均反应时间（毫秒）</text>
+  <path d="M70 244 H510" stroke="#ddd"/>
+  <text x="63" y="249" text-anchor="end">0</text>
+  <path d="M70 189 H510" stroke="#ddd"/>
+  <text x="63" y="194" text-anchor="end">100</text>
+  <path d="M70 134 H510" stroke="#ddd"/>
+  <text x="63" y="139" text-anchor="end">200</text>
+  <path d="M70 79 H510" stroke="#ddd"/>
+  <text x="63" y="84" text-anchor="end">300</text>
+  <path d="M70 23.99999999999997 H510" stroke="#ddd"/>
+  <text x="63" y="28.99999999999997" text-anchor="end">400</text>
+  <path d="M70 24 V244 H510" fill="none" stroke="#444"/>
+  <path d="M180 79.55 L400 52.05" stroke="#475569" stroke-width="3"/><g fill="#475569"><circle cx="180" cy="79.55" r="5"/><circle cx="400" cy="52.05" r="5"/></g>
+  <g text-anchor="middle">
+    <text x="180" y="70">299</text><text x="400" y="42">349</text>
+    <text x="180" y="269">未饮酒</text><text x="400" y="269">饮酒</text>
+  </g>
+  </g>
+</svg>
