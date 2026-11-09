@@ -82,6 +82,7 @@ body {
 
 #book-main {
   min-width: 0;
+  overflow-x: clip;
 }
 
 #title-block-header {
@@ -129,6 +130,61 @@ body {
 
 #book-main pre {
   overflow-x: auto;
+}
+
+#book-main figure,
+.book-figure-group {
+  margin: 1.5rem 0;
+}
+
+#book-main figure {
+  text-align: center;
+}
+
+#book-main figure > p {
+  margin: 0;
+}
+
+#book-main figcaption,
+.book-figure-caption {
+  margin: 0.45rem 0 0;
+  text-align: center;
+  color: #42536a;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.book-figure-caption p {
+  margin: 0;
+}
+
+.book-note {
+  margin: -0.55rem 0 1.35rem;
+  color: #4b5664;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.book-note p {
+  margin: 0;
+}
+
+.book-derivation {
+  margin: 1.5rem 0;
+  padding: 1rem clamp(0.75rem, 3vw, 1.25rem);
+  border: 1px solid #cbd8e7;
+  border-inline-start: 4px solid #6989ae;
+  border-radius: 0.5rem;
+  background: #f5f8fc;
+}
+
+.book-derivation > :first-child {
+  margin-top: 0;
+  color: #294768;
+}
+
+.book-derivation > :last-child {
+  margin-bottom: 0;
 }
 
 #book-main .math.display,
