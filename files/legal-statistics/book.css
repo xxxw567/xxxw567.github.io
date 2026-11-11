@@ -48,10 +48,21 @@ body {
   line-height: 1.5;
 }
 
-#TOC > ul {
+#TOC ul {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+#TOC li > ul {
+  margin: 0.1rem 0 0.45rem 0.65rem;
+  padding-inline-start: 0.45rem;
+  border-inline-start: 1px solid #dce3ec;
+  font-size: 0.86rem;
+}
+
+#TOC li > ul a {
+  padding-block: 0.2rem;
 }
 
 #TOC a {
