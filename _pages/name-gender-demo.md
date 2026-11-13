@@ -7,16 +7,19 @@ author_profile: false
 
 这是基于研究配套 R 代码的演示。分数反映姓名用字在字表中的统计关联，不代表个人的实际性别，也不是针对个人的校准概率。请勿将结果用于身份核验或对个人作出决定。
 
-1. 选择本地字表（支持原始 charlex_gender_full.txt 或 charlex_gender_full.lex）。文件和姓名只在浏览器里处理，本工具不会上传或保存它们。
-2. 输入一个中文全名，或用中文分号「；」、英文分号「;」或换行分隔多个姓名。
+输入一个中文全名，或用中文分号「；」、英文分号「;」或换行分隔多个姓名。首次计算时会下载默认字表。姓名和自选字表只在浏览器里处理，不会上传或保存。
 
 <div id="name-gender-demo">
-  <p><label for="name-lexicon">字表文件</label><br>
-  <input type="file" id="name-lexicon" accept=".txt,.lex,.csv"></p>
   <p><label for="name-input">姓名</label><br>
   <textarea id="name-input" rows="4" maxlength="10000" placeholder="例如：李若男；欧阳晓芳"></textarea></p>
+  <details>
+    <summary>自选字表（可选）</summary>
+    <p><label for="name-lexicon">选择本地字表（清除选择后恢复默认）</label><br>
+    <input type="file" id="name-lexicon" accept=".txt,.lex,.csv">
+    <button type="button" id="name-reset-lexicon" disabled>使用默认字表</button></p>
+  </details>
   <p><button type="button" class="btn" id="name-run" disabled>计算分数</button></p>
-  <p id="name-status" role="status">请先选择本地字表。</p>
+  <p id="name-status" role="status">使用默认字表。</p>
   <div style="overflow-x: auto">
     <table id="name-results" hidden>
       <caption>姓名用字的模型分数</caption>

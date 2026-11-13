@@ -44,35 +44,76 @@ if (typeof document !== "undefined" && document.getElementById("name-gender-demo
   const file = get("name-lexicon"), run = get("name-run"), status = get("name-status");
   const table = get("name-results"), body = table.tBodies[0];
   const percent = new Intl.NumberFormat("zh-CN", {style: "percent", maximumFractionDigits: 1});
-  let lexicon, request = 0;
-  file.addEventListener("change", async () => {
+  let localLexicon, defaultLexicon, request = 0;
+  const reset = get("name-reset-lexicon");
+  run.disabled = false;
+  function loadDefault() {
+    defaultLexicon ??= fetch(new URL("../data/charlex_gender_full.txt", import.meta.url))
+      .then(response => {
+        if (!response.ok) throw new Error("默认字表暂时无法下载，请重试。");
+        return response.text();
+      })
+      .then(parseLexicon)
+      .catch(error => {
+        defaultLexicon = undefined;
+        throw error;
+      });
+    return defaultLexicon;
+  }
+  async function selectLexicon() {
     const current = ++request;
-    lexicon = undefined;
+    localLexicon = undefined;
     run.disabled = true;
     table.hidden = true;
     body.replaceChildren();
     const selected = file.files[0];
-    if (!selected) { status.textContent = "请先选择本地字表。"; return; }
+    reset.disabled = !selected;
+    if (!selected) {
+      status.textContent = "使用默认字表。";
+      run.disabled = false;
+      return;
+    }
     status.textContent = "正在读取字表…";
     try {
       if (selected.size > 2_000_000) throw new Error("字表文件过大。");
       const parsed = parseLexicon(await selected.text());
       if (current !== request) return;
-      lexicon = parsed;
+      localLexicon = parsed;
       run.disabled = false;
-      status.textContent = "已载入 " + lexicon.size.toLocaleString("zh-CN") + " 个汉字。";
+      status.textContent = "自选字表已载入 " + parsed.size.toLocaleString("zh-CN") + " 个汉字。";
     } catch (error) {
       if (current === request) status.textContent = "无法载入字表：" + error.message;
     }
+  }
+  file.addEventListener("change", selectLexicon);
+  reset.addEventListener("click", () => {
+    file.value = "";
+    selectLexicon();
   });
-  run.addEventListener("click", () => {
-    if (!lexicon) return;
+  run.addEventListener("click", async () => {
     const names = splitNames(get("name-input").value);
     body.replaceChildren();
     table.hidden = true;
     if (!names.length || names.length > 500) {
       status.textContent = names.length ? "每次最多查询 500 个姓名。" : "请输入至少一个姓名。";
       return;
+    }
+    const current = request;
+    let lexicon = localLexicon;
+    if (!lexicon) {
+      run.disabled = true;
+      status.textContent = "正在载入默认字表…";
+      try {
+        lexicon = await loadDefault();
+      } catch {
+        if (current === request) {
+          status.textContent = "默认字表加载失败，请重试或选择本地字表。";
+          run.disabled = false;
+        }
+        return;
+      }
+      if (current !== request) return;
+      run.disabled = false;
     }
     for (const name of names) {
       const {score, note} = estimate(name, lexicon);
