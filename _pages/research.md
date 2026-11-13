@@ -36,7 +36,7 @@ Journal Articles / 期刊论文 ([Full text / 全文](https://www.researchgate.n
 - **Xia, Y.**, & Ma, Z. (2020). Relative deprivation, social exclusion, and quality of life among Chinese internal migrants. _Public Health, 186_, 129-136. **(SSCI, Q2 in PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH, IF = 1.774, 5-Year IF = 1.984, JCR)**
 - Ma Z., & **Xia Y.\*** (2020). Acculturation strategies, age at migration, and self-rated health: An empirical study on internal migrants in China. _Social Science Research_. 93, 102487. DOI: [10.1016/j.ssresearch.2020.102487](https://doi.org/10.1016/j.ssresearch.2020.102487) **(SSCI, Q2 in SOCIOLOGY, IF = 1.959, 5-Year IF = 2.486, JCR)**
 - **Xia, Y.**, Zhou, Y., Du, L., & Cai, T. (2019). Mapping trafficking of women in China: Evidence from court sentences. _Journal of Contemporary China_, 1-15. **(SSCI, Q1 2/77 in AREA STUDY, IF = 2.345, 5-Year IF =2.130, JCR)**
-- **Xia, Y.**, Cai, T., & Zhong, H. (2019). Effect of judges’ gender on rape sentencing. _China Review, 19(2)_, 125-150. **(SSCI, Q1 in AREA STUDY, IF = 1.171, 5-Year IF = 1.349, JCR)**
+- **Xia, Y.**, Cai, T., & Zhong, H. (2019). Effect of judges’ gender on rape sentencing: A data mining approach to analyze judgment documents. _The China Review, 19(2)_, 125–149. **(SSCI, Q1 in AREA STUDY, IF = 1.171, 5-Year IF = 1.349, JCR)** · [中文姓名性别估计演示 / Name-based estimation demo]({{ '/research/name-gender-demo/' | relative_url }})
 - **Xia, Y.**, Zhou, Y., & Cai, T. (2019). gidm: A command for generalized inflated discrete models. _Stata Journal, 19(3)_:698-718. **(SSCI, Q2 in SOCIAL SCIENCES, MATHEMATICAL METHODS, IF = 1.796, 5-Year IF = 3.090, JCR)**
 
 ### English - Others / 英文论文（其他署名）
