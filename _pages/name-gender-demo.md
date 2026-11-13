@@ -31,11 +31,11 @@ author_profile: false
 <p id="name-citation">Xia, Y., Cai, T., &amp; Zhong, H. (2019). Effect of judges’ gender on rape sentencing: A data mining approach to analyze judgment documents. <i>The China Review, 19</i>(2), 125–149. <a href="https://cup.cuhk.edu.hk/chinesepress/journal/CR19.2/CR19.2_125-149.pdf">出版社原文</a></p>
 <p><button type="button" class="btn" id="name-copy">复制引用</button> <span id="name-copy-status" role="status"></span></p>
 
-### 计算方法与字表来源
+### 计算方法
 
 先按 R 代码的姓氏表去掉复姓，否则去掉第一个字。单字名直接查表；两个及以上的名字用字按原代码只取前两个，权重分别为 0.449 和 0.551。单个缺失用字按 0.5 代入；如果使用的字全部未收录，就不显示分数。女性关联分数为 1 减男性关联分数。
 
-字表来自 Wudi 的 Gender Guesser。本页演示配套 R 函数的计算方式，不是对论文中完整分类流程的复现。
+本页演示配套 R 函数的计算方式，不是对论文中完整分类流程的复现。
 
 <noscript><p>本演示需要启用 JavaScript。</p></noscript>
 <script type="module" src="{{ '/assets/js/name-gender-demo.mjs' | relative_url }}"></script>
