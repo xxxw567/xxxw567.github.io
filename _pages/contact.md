@@ -13,7 +13,7 @@ published: true
 
 ### Full CV / 完整简历
 
-[下载完整 CV / Download CV]({{ '/files/Xiayw_cv20260330.md' | relative_url }})（更新于 2026 年 3 月 30 日）
+[查看完整简历 / View CV]({{ '/cv/' | relative_url }})（更新于 2026 年 3 月 30 日）
 
 ### Contact / 联系方式
 
